@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_enableCamereProtection">true</bool>
+    <bool name="config_enableDisplayCutoutProtection">true</bool>
+    <bool name="config_force_battery_percentage_outside">true</bool>
+</resources>

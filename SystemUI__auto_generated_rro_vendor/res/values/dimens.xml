@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="real_rounded_corner_radius">105.0px</dimen>
+    <dimen name="rounded_corner_content_padding">24.0px</dimen>
+    <dimen name="system_icons_keyguard_padding_end">10.0px</dimen>
+    <dimen name="zz_moto_cud_layout_margin_top">12.0px</dimen>
+</resources>
