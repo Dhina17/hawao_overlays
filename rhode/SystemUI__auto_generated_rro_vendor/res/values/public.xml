@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="config_cameraLaunchGestureVibePattern" id="0x7f010000" />
+    <public type="bool" name="config_force_battery_percentage_outside" id="0x7f020000" />
+    <public type="dimen" name="real_rounded_corner_radius" id="0x7f030000" />
+    <public type="dimen" name="rounded_corner_content_padding" id="0x7f030001" />
+    <public type="dimen" name="system_icons_keyguard_padding_end" id="0x7f030002" />
+</resources>
