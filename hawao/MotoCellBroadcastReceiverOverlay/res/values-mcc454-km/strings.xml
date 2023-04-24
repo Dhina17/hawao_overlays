@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_title">សារសាកល្បង</string>
+    <string name="enable_emergency_alerts_message_title">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="emergency_alert_history_title">ប្រវត្តិនៃសារប្រយ័ត្នបន្ទាន់</string>
+</resources>

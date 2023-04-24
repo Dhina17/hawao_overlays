@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Để kiểm tra thông báo, hãy trượt xuống trên cảm biến vân tay ở cạnh điện thoại.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Định vị cảm biến trên phím nguồn ở cạnh thiết bị. Bạn cần chạm nhiều lần để lưu vân tay. Chạm nhẹ để tránh ấn phím nguồn.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Đặt cùng một ngón tay lên bộ cảm biến vân tay và nhấc lên sau khi bạn cảm thấy rung.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Chạm cảm biến bằng ngón tay và lấy tay ra sau khi bạn cảm thấy rung. Chạm nhẹ để tránh ấn phím nguồn.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Chạm vào cảm biến ở bên phải thiết bị</string>
+</resources>

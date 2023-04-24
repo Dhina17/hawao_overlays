@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_wifiP2pDeviceNamePrefix">moto g(30n)_</string>
+    <string name="wifi_tether_configure_ssid_default">moto g(30n)</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Če so mobilni podatki izklopljeni, ne boste mogli uporabljati interneta, e-pošte in drugih aplikacij, ki potrebujejo podatkovno povezavo, razen če uporabljate Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Mobilni podatki</string>
+</resources>

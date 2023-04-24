@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">[Ĥéļþ one]</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"[Ţöûçĥ ţĥé ƒîñĝéŕþŕîñţ šéñšöŕ ţö ûñļöçķ ýöûŕ þĥöñé, åûţĥöŕîžé þûŕçĥåšéš, öŕ šîĝñ îñ ţö åþþš. 
+
+Ñöţé: Ýöûŕ ƒîñĝéŕþŕîñţ ḿåý ɓé ļéšš šéçûŕé ţĥåñ å šţŕöñĝ þåţţéŕñ öŕ ÞÎÑ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine]"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">[Ûñļöçķ ŵîţĥ ýöûŕ ƒîñĝéŕþŕîñţ one two three four]</string>
+    <string name="sound_settings">"[Šöûñð &amp;  Vîɓŕåţîöñ one two three]"</string>
+</resources>

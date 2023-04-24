@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">உதவி</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"உங்கள் ஃபோனைப் பூட்டுநீக்க, வாங்குதல்களை அனுமதிக்க அல்லது பயன்பாடுகளில் உள்நுழைய கைரேகை உணர்வியைத் தொடவும். 
+
+குறிப்பு: உங்கள் கைரேகையானது வலிமையான வடிவம் அல்லது PIN-ஐ விடப் பாதுகாப்புக் குறைந்ததாக இருக்கலாம்."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">கைரேகை மூலம் திறக்கலாம்</string>
+    <string name="sound_settings">ஒலி &amp; அதிர்வு</string>
+</resources>

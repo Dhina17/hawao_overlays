@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Ohje</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Koskettamalla sormenjälkitunnistinta voit avata puhelimen lukituksen, valtuuttaa ostoksia tai kirjautua sovelluksiin. 
+
+Huomautus: sormenjälki ei välttämättä ole yhtä turvallinen kuin vahva kuvio tai PIN-koodi."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Lukituksen avaaminen sormenjäljellä</string>
+    <string name="sound_settings">Ääni ja värinä</string>
+</resources>

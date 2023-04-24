@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">مدد</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"اپنا فون ان لاک کرنے، خریداریوں کی اجازت دینے، یا ایپس میں سائن ان کرنے فنگر پرنٹ سینسر کو چھوئیں۔ 
+
+نوٹ: ایک طاقتور نمونہ یا PIN کی نسبت آپ کا فنگر پرنٹ شاید کم محفوظ ہوسکتا ہے۔"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">اپنے فنگر پرنٹ کے ساتھ غیر مقفل کریں</string>
+    <string name="sound_settings">آواز اور وائبریشن</string>
+</resources>

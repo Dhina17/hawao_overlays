@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">協助</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"輕觸指紋感應器可解鎖手機、授權購買或登入應用程式。
+
+注意：指紋的安全性可能低於強式圖案或 PIN。"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">以指紋解鎖</string>
+    <string name="sound_settings">音效與震動</string>
+</resources>

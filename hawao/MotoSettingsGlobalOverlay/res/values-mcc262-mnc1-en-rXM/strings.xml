@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN Call⁦‎‏‏‎‎‏‏‏‏‏‏‎‎‎‏‏‏‏‎‎‎‏‏‏‎‏‏‏‏‎‏‏‎‏‎‏‎‎‎‏‎‎‏‏‎‏‎‎‏‎‏‏‎‎‏‎‎‏‏‎‎‏‏‏‎‎‎‏‏‏‏‎‏‎‏‏‎‎‏‏‎‏‏‎‏‏‏‏‎‏‎‏‏‏‎‎‎‏‎‏‏‎‎‎‎‏‎‎‏‏‏‎‏‎‎‎‎‎‏‏‏‎‏‏‏‏‏‎‎‏‏‎‎‏‏‎‎‏‎‏‎‏‏‎‎‏‏‏‎‎‏‎‏‎⁩</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN Call mode⁦‎‏‏‎‎‏‏‏‎‎‏‏‎‏‏‎‎‎‎‏‏‏‏‎‎‏‏‎‏‏‎‏‎‎‏‏‎‎‏‎‎‎‏‏‎‎‎‎‏‏‎‎‏‎‎‏‏‏‎‎‏‏‏‏‏‎‏‏‏‏‏‏‎‏‏‎‏‏‏‎‏‎‏‏‏‎‎‏‎‎‏‎‏‏‏‎‎‏‎‏‏‎‏‎‏‏‎‎‎‎‏‏‏‎‏‎‎‎‎‏‏‎‎‏‏‎‏‏‏‎‏‏‏‏‏‎‏‎‏‏‏‏‎‎‎‏‏‏‎‎‏‎‏‎⁩</string>
+    <string name="wifi_calling_off_explanation">When WLAN Call is on, your phone can route calls via Wi-Fi networks or your carrier’s network, depending on your preference and which signal is stronger. Before turning on this feature, check with your carrier regarding fees and other details.⁦‎‏‏‎‎‏‏‏‏‏‎‏‏‎‏‎‎‏‎‏‏‎‏‏‎‏‏‎‏‏‎‎‏‎‏‎‏‏‎‎‎‎‎‏‏‎‏‏‎‎‏‏‎‎‏‏‏‏‎‏‏‎‎‏‏‏‎‎‎‏‏‏‎‏‏‏‏‏‏‎‎‎‏‎‏‎‏‏‎‎‏‏‎‎‏‏‎‎‏‎‎‎‏‏‏‏‏‏‎‏‎‎‏‏‎‎‎‏‏‏‏‎‎‏‎‏‏‎‎‏‏‎‎‏‏‎‎‏‎‎‏‎‏‎‏‎‎‏‏‎‎‏‎‎⁩</string>
+    <string name="wifi_calling_suggestion_title">Turn on WLAN Call⁦‎‏‏‎‎‏‎‎‏‏‎‏‎‏‏‏‎‎‏‏‏‎‏‏‏‎‎‏‏‏‏‎‏‎‎‏‎‏‎‎‏‎‏‏‎‎‏‏‎‏‏‏‎‏‏‏‏‏‎‏‏‏‎‏‏‎‏‎‎‎‏‏‎‏‏‎‎‏‎‎‏‏‎‏‏‏‏‎‎‏‏‏‏‏‏‎‎‎‏‏‎‏‎‎‏‏‎‏‏‎‏‎‏‎‎‎‏‏‏‎‏‏‎‏‏‎‎‏‏‏‎‎‎‏‎‏‏‎‎‏‏‎‏‎‎‎‏‏‎‎‎‎‎‏⁩</string>
+</resources>

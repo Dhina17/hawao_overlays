@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_resize_entries">
+        <item>@string/image_resize_best_available</item>
+        <item>@string/image_resize_original</item>
+    </string-array>
+    <string-array name="image_resize_entries_values">
+        <item>0</item>
+        <item>4</item>
+    </string-array>
+</resources>

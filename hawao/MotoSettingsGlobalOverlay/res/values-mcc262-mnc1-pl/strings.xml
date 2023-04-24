@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Połączenie przez Wi-Fi</string>
+    <string name="wifi_calling_mode_dialog_title">Tryb połączenia przez Wi-Fi</string>
+    <string name="wifi_calling_off_explanation">Po włączeniu funkcji połączenia przez Wi-Fi telefon może kierować połączenia przez sieci Wi-Fi lub sieć operatora, w zależności od Twoich preferencji oraz siły sygnałów. Przed włączeniem tej funkcji skontaktuj się z operatorem, aby zapoznać się z informacjami o opłatach i innych kwestiach.</string>
+    <string name="wifi_calling_suggestion_title">Włącz połączenie przez Wi-Fi</string>
+</resources>

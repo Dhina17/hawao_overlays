@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_title">Testovacia správu</string>
+    <string name="enable_emergency_alerts_message_title">Tiesňová výstraha</string>
+    <string name="emergency_alert_history_title">História tiesňových výstrah</string>
+</resources>

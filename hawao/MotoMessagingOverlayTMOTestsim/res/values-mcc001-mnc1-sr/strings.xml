@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Напредна SMS/MMS подешавања</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Најбоље доступно</string>
+    <string name="image_resize_original">Оригинал</string>
+    <string name="item1">Контакте са %s можете да додате да бисте направили групу.</string>
+    <string name="item2">Дајте групи било који назив!</string>
+    <string name="item3">Лако додајте или уклањајте чланове групе.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Упозорење за величину прилога</string>
+    <string name="plus_n">Још %1$d</string>
+    <string name="plus_one">Још 1</string>
+    <string name="welcome_rcs_msging_text">Додали смо нове функције!</string>
+    <string name="welcome_rcs_msging_title">Групна размена порука</string>
+</resources>

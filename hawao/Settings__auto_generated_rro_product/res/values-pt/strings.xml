@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Ativar a Bateria adaptável</string>
+    <string name="battery_tip_smart_battery_summary">Ativar a Bateria adaptável</string>
+    <string name="smart_battery_footer">"Para aumentar a duração da bateria, a Bateria adaptável limita o uso de energia de apps que não são usados com frequência. O telefone aprenderá como você usa os apps com o passar do tempo.
+
+Talvez você receba notificações com atraso para esses apps."</string>
+    <string name="smart_battery_manager_title">Bateria adaptável</string>
+    <string name="smart_battery_title">Usar a Bateria adaptável</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Chcete-li zkontrolovat oznámení, přejeďte prstem dolů přes snímač otisků prstů na boční straně telefonu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Snímač se nachází v klávese pro vypnutí a zapnutí na boční straně zařízení. Abyste mohli zaznamenat otisk prstu, musíte se několikrát dotknout snímače. Netlačte příliš, abyste nestisknuli klávesu pro vypnutí a zapnutí.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Položte ten samý prst na snímač otisků prstů. Až ucítíte vibrace, zvedněte jej.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Dotkněte se snímače prstem a zvedněte jej, jakmile ucítíte vibraci. Netlačte příliš, abyste nestiskli klávesu pro vypnutí a zapnutí.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Přiložte prst ke snímači na pravé straně zařízení</string>
+</resources>

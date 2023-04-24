@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Para comprobar las notificaciones, desliza hacia abajo en el sensor de huellas digitales del lateral del teléfono.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Localiza el sensor en la tecla de encendido situada en el lateral del dispositivo. Tendrás que tocar varias veces para registrar la huella digital. Toca suavemente para evitar pulsar la tecla de encendido.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Pon el mismo dedo en el sensor de huellas digitales y levántalo cuando notes una vibración.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Toca el sensor con el dedo y retíralo cuando sientas una vibración. Hazlo suavemente para evitar pulsar la tecla de encendido.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Toca el sensor que aparece en el lado derecho del dispositivo</string>
+</resources>

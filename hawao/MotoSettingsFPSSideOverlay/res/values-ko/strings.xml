@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">알림을 확인하려면 휴대전화 측면의 지문 센서를 아래로 밉니다.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">기기 측면의 전원 버튼에서 센서를 찾으십시오. 지문을 기록하려면 여러 번 터치해야 합니다. 전원 버튼을 누르지 않도록 조심스럽게 터치하십시오.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">지문 센서에 같은 손가락을 놓고 진동이 느껴지면 손가락을 뗍니다.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">손가락으로 센서를 터치하고 진동이 느껴지면 손가락을 떼십시오. 전원 버튼을 누르지 않도록 조심스럽게 터치하십시오.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">기기 오른쪽의 센서를 터치하십시오.</string>
+</resources>

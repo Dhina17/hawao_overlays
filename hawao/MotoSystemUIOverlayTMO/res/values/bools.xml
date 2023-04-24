@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_differing_icon_for_sim_error">true</bool>
+    <bool name="config_enable_oem_5g_api">true</bool>
+    <bool name="config_roaming_indication_disabled">true</bool>
+    <bool name="config_show_separated_bars_in_signal_strength">false</bool>
+    <bool name="zz_moto_hide_bottom_carrier_label">true</bool>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Βοήθεια</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Αγγίξτε τον αισθητήρα δακτυλικών αποτυπωμάτων, για να ξεκλειδώσετε το τηλέφωνό σας, να εγκρίνετε αγορές ή να συνδεθείτε σε εφαρμογές. 
+
+Σημείωση: Το δακτυλικό σας αποτύπωμα μπορεί να είναι λιγότερο ασφαλές από ό,τι ένα ισχυρό μοτίβο ή κωδικός PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Ξεκλείδωμα με το δακτυλικό σας αποτύπωμα</string>
+    <string name="sound_settings">Ήχος και δόνηση</string>
+</resources>

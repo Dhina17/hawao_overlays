@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">تنظیمات پیشرفته پیامک/پیام چندرسانه‌ای</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">بهترین مورد موجود</string>
+    <string name="image_resize_original">اصلی</string>
+    <string name="item1">مخاطبین دارای%s را می‌توان برای ایجاد گروه اضافه نمود.</string>
+    <string name="item2">گروه را به سلیقه خود نامگذاری کنید!</string>
+    <string name="item3">اعضای گروه را به آسانی اضافه یا حذف کنید.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">هشدار اندازه پیوست</string>
+    <string name="plus_n">%1$d مورد دیگر</string>
+    <string name="plus_one">۱ مورد دیگر</string>
+    <string name="welcome_rcs_msging_text">ما ویژگی‌های جدید اضافه کرده‌ایم!</string>
+    <string name="welcome_rcs_msging_title">پیامرسانی گروهی</string>
+</resources>

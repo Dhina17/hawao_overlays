@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Nápověda</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Snímač otisků prstů můžete používat pro odemykání telefonu, autorizaci nákupů nebo přihlášení k aplikacím. 
+
+Poznámka: Otisk prstu může být méně bezpečný než silné gesto nebo kód PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Odemykání pomocí otisku prstu</string>
+    <string name="sound_settings">Zvuk a vibrace</string>
+</resources>

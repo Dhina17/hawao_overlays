@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">আপনার বিজ্ঞপ্তিগুলি পরীক্ষা করতে আপনার ফোনের পার্শ্বে ফিঙ্গারপ্রিন্ট সেন্সরটি নীচে সোয়াইপ করুন।</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">আপনার ডিভাইসের পার্শ্বে পাওয়ার কীতে সেন্সরটি চিহ্নিত করুন। আপনার ফিঙ্গারপ্রিন্টটি রেকর্ড করতে আপনাকে অনেকবার স্পর্শ করতে হবে। পাওয়ার কীটি টেপা এড়াতে আলতো ভাবে স্পর্শ করুন।</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">ফিঙ্গারপ্রিন্ট সেন্সরে একই আঙুল রাখুন এবং আপনি কম্পন অনুভব করার পরে এটি তুলে নিন।</string>
+    <string name="security_settings_fingerprint_enroll_start_message">আপনার আঙুল দিয়ে সেন্সরটি স্পর্শ করুন এবং আপনি কম্পন অনুভব করার পরে এটি অপসারণ করুন। পাওয়ার কীটি টেপা এড়াতে আলতো ভাবে স্পর্শ করুন।</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">আপনার ডিভাইসের ডানদিকের সেন্সরটি স্পর্শ করুন</string>
+</resources>

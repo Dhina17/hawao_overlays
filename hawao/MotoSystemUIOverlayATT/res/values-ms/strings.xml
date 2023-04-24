@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Jika data mudah alih mati, anda tidak dapat guna Internet, e-mel atau apl lain yang perlukan sambungan data kecuali anda guna Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Data Mudah Alih</string>
+</resources>

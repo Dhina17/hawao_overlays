@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_differing_icon_for_sim_error">true</bool>
+    <bool name="config_enable_carrier_custom_activity_on_wide_quicksettings_icons">true</bool>
+    <bool name="config_enable_oem_5g_api">true</bool>
+    <bool name="config_hspa_data_distinguishable">false</bool>
+    <bool name="config_showMin3G">true</bool>
+    <bool name="config_show_exclamation_marked">true</bool>
+    <bool name="config_show_ims_registration_icon">true</bool>
+    <bool name="config_show_no_icon_during_cdma_voice_call">true</bool>
+    <bool name="config_show_separated_bars_in_signal_strength">true</bool>
+</resources>

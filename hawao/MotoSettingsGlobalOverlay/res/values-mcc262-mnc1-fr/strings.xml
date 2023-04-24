@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Appel WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Mode Appel WLAN</string>
+    <string name="wifi_calling_off_explanation">Lorsque la fonction Appel WLAN est activée, votre téléphone peut transmettre les appels via des réseaux Wi-Fi ou celui de votre opérateur, en fonction de vos préférences et du signal le plus puissant. Avant d’activer cette fonction, consultez votre opérateur pour en savoir plus sur les frais et autres détails.</string>
+    <string name="wifi_calling_suggestion_title">Activer les appels WLAN</string>
+</resources>

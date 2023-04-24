@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">ヘルプ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"指紋センサーのタップで、スマートフォンのロック解除、購入の許可、アプリへのログインを行うことができます。
+
+注: 指紋は複雑なパターンや PIN よりも安全面で劣る可能性があります。"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">指紋でロックを解除する</string>
+    <string name="sound_settings">音とバイブレーション</string>
+</resources>

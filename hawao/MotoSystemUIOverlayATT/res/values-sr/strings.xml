@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Ако су мобилни подаци искључени, нећете моћи да користите интернет, имејл или друге апликације којима је потребна веза за пренос података, осим ако сте повезани на Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Мобилне податке</string>
+</resources>

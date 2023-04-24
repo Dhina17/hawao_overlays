@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"Você atingiu o limite de uso de dados especificado e os dados móveis foram desativados. 
+
+Se você ativar seus dados móveis novamente, sua operadora poderá cobrar pelo uso de dados."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Dados móveis desativados.</string>
+</resources>

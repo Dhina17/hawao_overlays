@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">"Pour consulter vos notifications, balayez vers le bas sur le lecteur d'empreinte digitale sur le côté de votre téléphone."</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">"Repérez le lecteur d'empreintes sur le bouton Marche-Arrêt placé sur le côté de votre appareil. Vous devrez le toucher à plusieurs reprises pour enregistrer votre empreinte digitale. Touchez-le légèrement, en prenant garde de ne pas appuyer sur le bouton Marche-Arrêt."</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">"Placez le même doigt sur le lecteur d'empreinte digitale et relevez-le après avoir senti une vibration."</string>
+    <string name="security_settings_fingerprint_enroll_start_message">"Posez votre doigt sur le lecteur d'empreintes et retirez-le après avoir senti une vibration. Touchez légèrement le lecteur, en prenant garde de ne pas appuyer sur le bouton Marche-Arrêt."</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">"Appuyez sur le lecteur d'empreintes situé sur le côté droit de l'appareil"</string>
+</resources>

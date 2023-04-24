@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Екстрене сповіщення – імітаційне повідомлення</string>
+    <string name="cmas_presidential_level_alert">Сповіщення про надзвичайну ситуацію</string>
+    <string name="cmas_required_monthly_test">Екстрене сповіщення – тестове повідомлення</string>
+    <string name="pws_other_message_identifiers">Сповіщення про надзвичайну ситуацію</string>
+    <string name="button_dismiss">Сховати</string>
+    <string name="public_safety_message">Інформаційне повідомлення</string>
+</resources>

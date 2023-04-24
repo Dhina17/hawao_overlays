@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">За да проверите известията си, плъзнете бързо надолу върху сензора за пръстови отпечатъци отстрани на телефона Ви.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Намерете сензора на бутона за вкл./изкл. отстрани на устройството ви. Ще трябва да докоснете няколко пъти, за да запишете пръстовия си отпечатък. Докоснете леко, за да не натиснете бутона за вкл./изкл.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Поставете същия пръст върху сензора за пръстови отпечатъци и го вдигнете, след като усетите вибрация.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Докоснете сензора с пръста си и го махнете, след като усетите вибрация. Докоснете леко, за да не натиснете бутона за вкл./изкл.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Докоснете сензора от дясната страна на устройството Ви</string>
+</resources>

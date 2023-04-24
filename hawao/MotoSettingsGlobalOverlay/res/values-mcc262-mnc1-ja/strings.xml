@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN通話</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN通話モード</string>
+    <string name="wifi_calling_off_explanation">WLAN通話をオンにすると、Wi-Fiネットワークまたはご利用の通信会社のネットワーク経由で通話を発信できます。どちらのネットワークを経由するかは、設定の内容およびどちらの信号が強いかによります。この機能をオンにする前に、料金およびその他の詳細についてご利用の通信会社にご確認ください。</string>
+    <string name="wifi_calling_suggestion_title">WLAN通話をオンにする</string>
+</resources>

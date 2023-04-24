@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">高级短信/彩信设置</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">最佳图像</string>
+    <string name="image_resize_original">原图</string>
+    <string name="item1">可以添加带 %s 的联系人来创建分组。</string>
+    <string name="item2">可为群组指定任何名称！</string>
+    <string name="item3">轻松添加或删除群组成员。</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">附件大小警告</string>
+    <string name="plus_n">还有 %1$d 条</string>
+    <string name="plus_one">1 更多</string>
+    <string name="welcome_rcs_msging_text">我们增加了新功能！</string>
+    <string name="welcome_rcs_msging_title">群发彩信</string>
+</resources>

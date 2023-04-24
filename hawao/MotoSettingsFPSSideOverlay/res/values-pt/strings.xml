@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Para ver suas notificações, deslize o dedo para baixo no sensor de impressão digital na lateral do telefone.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">O sensor fica no botão liga/desliga na lateral do dispositivo. É preciso tocá-lo várias vezes para gravar a impressão digital. Faça isso com cuidado para não pressioná-lo.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Coloque o mesmo dedo no sensor de impressão digital e retire-o após sentir uma vibração.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Toque no sensor e levante o dedo após sentir a vibração. Faça isso com cuidado para não pressionar o botão liga/desliga.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Toque no sensor no lado direito do dispositivo.</string>
+</resources>

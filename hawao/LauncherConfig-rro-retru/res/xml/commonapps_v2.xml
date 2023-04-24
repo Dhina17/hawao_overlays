@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workspace>
+    <appwidget className="com.motorola.commandcenter.row2.RowProvider2" packageName="com.motorola.timeweatherwidget" screen="0" spanX="4" spanY="2" x="0" y="0" />
+    <appwidget className="org.chromium.chrome.browser.searchwidget.SearchWidgetProvider" packageName="com.android.chrome" screen="0" spanX="4" spanY="1" x="0" y="3" />
+</workspace>

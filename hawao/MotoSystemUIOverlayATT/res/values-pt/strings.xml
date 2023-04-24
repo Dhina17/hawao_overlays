@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Sem Wi-Fi, você não poderá usar aplicativos nem serviços que requeiram conexão de internet, incluindo videochamadas da AT&amp;T."</string>
+    <string name="mobile_data_disable_title">Desativar dados móveis?</string>
+</resources>

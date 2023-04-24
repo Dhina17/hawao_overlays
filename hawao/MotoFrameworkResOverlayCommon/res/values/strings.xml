@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_defaultDndAccessPackages">com.google.android.gms:com.google.android.apps.wellbeing:com.motorola.camera2:com.motorola.camera3:com.motorola.leanbacklauncher:com.motorola.gamemode:com.motorola.demo:com.motorola.actions</string>
+    <string name="config_defaultListenerAccessPackages">com.motorola.motodisplay:com.motorola.motolights:com.motorola.launcher3:com.motorola.launcher.secondarydisplay:com.android.launcher3:com.google.android.projection.gearhead:com.motorola.mobiledesktop:com.motorola.motolights.rearlights</string>
+    <string name="config_recentsComponentName">com.motorola.launcher3/com.android.quickstep.RecentsActivity</string>
+    <string name="config_secondaryHomePackage">com.motorola.launcher3</string>
+    <string name="config_wallpaperCropperPackage">com.google.android.apps.wallpaper</string>
+</resources>

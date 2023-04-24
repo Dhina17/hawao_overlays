@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">เปิดแบตเตอรี่ปรับอัตโนมัติ</string>
+    <string name="battery_tip_smart_battery_summary">เปิดแบตเตอรี่ปรับอัตโนมัติ</string>
+    <string name="smart_battery_footer">"แบตเตอรี่ปรับอัตโนมัติจะจำกัดแบตเตอรี่สำหรับแอปที่ใช้บ่อยเพื่อเพิ่มอายุการใช้งานแบตเตอรี่ โทรศัพท์ของคุณจะเรียนรู้ลักษณะการใช้งานแอปของคุณเป็นระยะ
+
+การแจ้งเตือนอาจดีเลย์สำหรับแอปเหล่านี้"</string>
+    <string name="smart_battery_manager_title">แบตเตอรี่ปรับอัตโนมัติ</string>
+    <string name="smart_battery_title">ใช้แบตเตอรี่ปรับอัตโนมัติ</string>
+</resources>

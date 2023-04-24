@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Materija tỹ to saj há tỹ kã saj ge</string>
+    <string name="battery_tip_smart_battery_summary">Materija tỹ to saj há tỹ kã saj ge</string>
+    <string name="smart_battery_footer">"Materija fãn ja ẽn tỹ tãtá krỹg jé, materija tỹ ki kro vy app ag tar vóg han mũ ũ tỹ ki há tũ ti Terefãnĩ vỹ ã tỹ app vugvóg ki kajrãn mũ ta ke nĩ tá krỹg kar.
+
+Hẽremũn ã vỹ kar hã vẽjaprãr tỹ apps tag ag ra rãj ge kinhrãg mũ."</string>
+    <string name="smart_battery_manager_title">Materija tỹ to saj há</string>
+    <string name="smart_battery_title">Materija tỹ to saj fã vóg ge</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">উন্নত SMS/MMS সেটিংস</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">সর্বোত্তম উপলব্ধ</string>
+    <string name="image_resize_original">প্রকৃত</string>
+    <string name="item1">%sএর সাথে পরিচিতিগুলো একটি গোষ্ঠী তৈরি করতে যোগ করা যাবে</string>
+    <string name="item2">আপনি গ্রুপের নামযেমনটি চান তেমনটি রাখুন!</string>
+    <string name="item3">সহজেই গোষ্ঠীর সদস্যদের যোগ করুন বা অপসারণ করুন</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">সংযুক্তির আকার নিয়ে সতর্কতা</string>
+    <string name="plus_n">আরও %1$d</string>
+    <string name="plus_one">আরো 1টি</string>
+    <string name="welcome_rcs_msging_text">আমরা নতুন বৈশিষ্ট্যগুলো যোগ করেছি!</string>
+    <string name="welcome_rcs_msging_title">গোষ্ঠীর মধ্যে বার্তাপ্রেরণ</string>
+</resources>

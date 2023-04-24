@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+No podrás utilizar ningún servicio o aplicación, incluidas las videollamadas de AT&amp;T, que requieran una conexión a Internet, a menos que utilices una conexión Wi-Fi."</string>
+    <string name="mobile_data_disable_title">¿Deseas desactivar los datos móviles?</string>
+</resources>

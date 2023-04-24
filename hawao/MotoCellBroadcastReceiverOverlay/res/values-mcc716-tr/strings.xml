@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Acil Durum Uyarısı - Simülasyon Mesajı</string>
+    <string name="cmas_presidential_level_alert">Acil durum uyarısı</string>
+    <string name="cmas_required_monthly_test">Acil Durum Uyarısı - Test Mesajı</string>
+    <string name="pws_other_message_identifiers">Acil durum uyarısı</string>
+    <string name="button_dismiss">Gizle</string>
+    <string name="public_safety_message">Bilgi Mesajı</string>
+</resources>

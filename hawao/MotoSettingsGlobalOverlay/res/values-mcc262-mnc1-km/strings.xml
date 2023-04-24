@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">ការហៅ WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">ការហៅក្នុងទម្រង់ WLAN</string>
+    <string name="wifi_calling_off_explanation">នៅពេលដែលការហៅ WLAN ត្រូវបានបើក ទូរសព្ទរបស់អ្នកអាចធ្វើការហៅតាមរយៈបណ្តាញ Wi-Fi ឬបណ្តាញរបស់ក្រុមហ៊ុនបញ្ជូន’s របស់អ្នក អាស្រ័យលើចំណង់ចំណូលចិត្តរបស់អ្នក និងសញ្ញាណាដែលខ្លាំងជាង។ មុនពេលបើកមុខងារនេះ សូមពិនិត្យមើលក្រុមហ៊ុនបញ្ជូនរបស់អ្នកទាក់ទងនឹងថ្លៃឈ្នួល និងព័ត៌មានលម្អិតផ្សេងទៀត។</string>
+    <string name="wifi_calling_suggestion_title">បើកការហៅ WLAN</string>
+</resources>

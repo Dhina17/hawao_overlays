@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Dacă datele mobile sunt dezactivate, nu veţi putea utiliza internetul, e-mailul sau alte aplicaţii care au nevoie de o conexiune de date, decât în cazul în care utilizaţi Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Date pentru mobil</string>
+</resources>

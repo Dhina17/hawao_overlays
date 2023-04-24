@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">உங்கள் அறிவிப்புகளைப் பார்க்க, ஃபோனின் பக்கவாட்டில் உள்ள கைரேகை உணர்வியை கீழ்நோக்கி ஸ்வைப் செய்யவும்.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">உங்கள் சாதனத்தின் பக்கவாட்டில் உள்ள பவர் விசையில் உணர்வியை வைக்கவும். உங்கள் கைரேகை உணர்வியைப் பதிவுசெய்ய, பலமுறை தொட வேண்டும். பவர் விசையை அழுத்துவதைத் தவிர்க்க, மெதுவாக அழுத்தவும்.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">கைரேகை உணர்வியில் பதிவுசெய்த விரலை வைத்து, அதிர்வை உணர்ந்த பின் விரலை எடுக்கவும்.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">உங்கள் விரலால் உணர்வியைத் தொட்டு, அதிர்வை உணர்ந்தவுடன் விரலை அகற்றவும். பவர் விசையை அழுத்துவதைத் தவிர்க்க, மெதுவாக அழுத்தவும்.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">உங்கள் சாதனத்தின் வலது பக்கத்தில் உள்ள உணர்வியைத் தொடவும்</string>
+</resources>

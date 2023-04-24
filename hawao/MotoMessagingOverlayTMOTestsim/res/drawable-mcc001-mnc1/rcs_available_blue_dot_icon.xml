@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="vector" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="tmo style chat" android:fillColor="@color/tmochat" android:pathData="M 13.19 2.96 C 8.31 2.96 4.36 6.91 4.36 11.79 C 4.36 13.64 4.93 15.37 5.91 16.79 L 2.03 20.59 L 12.39 20.59 C 12.65 20.62 12.92 20.63 13.19 20.63 C 18.07 20.63 22.02 16.68 22.02 11.8 C 22.02 6.92 18.06 2.96 13.19 2.96 Z M 9.08 13.49 C 8.36 13.49 7.77 12.91 7.77 12.18 C 7.77 11.46 8.35 10.87 9.08 10.87 C 9.81 10.87 10.39 11.45 10.39 12.18 C 10.38 12.9 9.8 13.49 9.08 13.49 Z M 13 13.49 C 12.28 13.49 11.69 12.91 11.69 12.18 C 11.69 11.46 12.27 10.87 13 10.87 C 13.72 10.87 14.31 11.45 14.31 12.18 C 14.31 12.9 13.73 13.49 13 13.49 Z M 16.9 13.49 C 16.18 13.49 15.59 12.91 15.59 12.18 C 15.59 11.46 16.17 10.87 16.9 10.87 C 17.62 10.87 18.21 11.45 18.21 12.18 C 18.21 12.9 17.63 13.49 16.9 13.49 Z" android:strokeWidth="1.0" />
+</vector>

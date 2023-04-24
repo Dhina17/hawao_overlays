@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="voicemail" id="0x7f010000" />
+    <public type="string" name="account_name" id="0x7f020000" />
+    <public type="string" name="preload_contacts" id="0x7f020001" />
+</resources>

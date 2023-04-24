@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Bildirimlerinizi kontrol etmek için telefonunuzun yan tarafındaki parmak izi sensörünü hızlıca aşağı kaydırın.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Cihazınızın yan tarafında bulunan güç tuşu üzerindeki sensörü bulun. Parmak izinizi kaydetmek için birkaç kez dokunmanız gerekir. Güç tuşuna basmayı önlemek için hafifçe dokunun.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Aynı parmağı parmak izi sensörüne koyun ve titreşim hissettikten sonra kaldırın.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Parmağınızla sensöre dokunun ve titreşim hissettikten sonra çekin. Güç tuşuna basmayı önlemek için hafifçe dokunun.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Cihazınızın sağ tarafındaki sensöre dokunun</string>
+</resources>

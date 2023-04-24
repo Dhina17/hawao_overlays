@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">การตั้งค่า SMS/MMS ขั้นสูง</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">รายการที่ดีที่สุดที่มี</string>
+    <string name="image_resize_original">ต้นฉบับ</string>
+    <string name="item1">รายชื่อที่มี %s สามารถเพิ่มเพื่อสร้างกลุ่มได้</string>
+    <string name="item2">ตั้งชื่อกลุ่มของคุณตามต้องการ!</string>
+    <string name="item3">เพิ่มหรือลบสมาชิกกลุ่มอย่างง่ายดาย</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">คำเตือนขนาดไฟล์แนบ</string>
+    <string name="plus_n">อีก %1$d คน</string>
+    <string name="plus_one">อีก 1 คน</string>
+    <string name="welcome_rcs_msging_text">เราได้เพิ่มคุณสมบัติใหม่แล้ว!</string>
+    <string name="welcome_rcs_msging_title">การรับส่งข้อความแบบกลุ่ม</string>
+</resources>

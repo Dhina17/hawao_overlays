@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">‏‮Help‬‏</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"‏‮Touch‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮sensor‬‏ ‏‮to‬‏ ‏‮unlock‬‏ ‏‮your‬‏ ‏‮phone,‬‏ ‏‮authorize‬‏ ‏‮purchases,‬‏ ‏‮or‬‏ ‏‮sign‬‏ ‏‮in‬‏ ‏‮to‬‏ ‏‮apps.‬‏ 
+
+‏‮Note:‬‏ ‏‮Your‬‏ ‏‮fingerprint‬‏ ‏‮may‬‏ ‏‮be‬‏ ‏‮less‬‏ ‏‮secure‬‏ ‏‮than‬‏ ‏‮a‬‏ ‏‮strong‬‏ ‏‮pattern‬‏ ‏‮or‬‏ ‏‮PIN.‬‏"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">‏‮Unlock‬‏ ‏‮with‬‏ ‏‮your‬‏ ‏‮fingerprint‬‏</string>
+    <string name="sound_settings">‏‮Sound‬‏ ‏‮&amp;‬‏ ‏‮vibration‬‏</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">அவசர எச்சரிக்கை - உருவகப்படுத்திய செய்தி</string>
+    <string name="cmas_extreme_alert">அவசரகால விழிப்பூட்டல்</string>
+    <string name="cmas_extreme_immediate_likely_alert">அவசரகால விழிப்பூட்டல்</string>
+    <string name="cmas_extreme_immediate_observed_alert">அவசரகால விழிப்பூட்டல்</string>
+    <string name="cmas_presidential_level_alert">அவசரகால விழிப்பூட்டல்</string>
+    <string name="cmas_required_monthly_test">அவசர விழிப்பூட்டல் - சோதனைச் செய்தி</string>
+    <string name="cmas_severe_alert">அவசரகால விழிப்பூட்டல்</string>
+    <string name="pws_other_message_identifiers">அவசரகால விழிப்பூட்டல்</string>
+</resources>

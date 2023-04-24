@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Звонок по Wi-Fi</string>
+    <string name="wifi_calling_mode_dialog_title">Режим звонка по Wi-Fi</string>
+    <string name="wifi_calling_off_explanation">Когда функция \"Звонки по Wi-Fi\" включена, ваш телефон может маршрутизировать вызовы по сети Wi-Fi или сети оператора в зависимости от настроек и того, какой сигнал сильнее. Перед включением этой функции проконсультируйтесь с оператором по поводу взимаемой платы и других вопросов.</string>
+    <string name="wifi_calling_suggestion_title">Включить функцию \"Звонки по Wi-Fi\"</string>
+</resources>

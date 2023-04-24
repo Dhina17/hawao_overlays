@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">အကူအညီ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"သင့်ဖုန်းကို သော့ဖွင့်ရန်၊ ဝယ်ယူမှုများကို ခွင့်ပြုပေးရန် သို့မဟုတ် အက်ပ်များသို့ လက်မှတ်ထိုးဝင်ရန် လက်ဗွေအာရုံခံကို နှိပ်ပါ။ 
+
+မှတ်ချက်− သင့်လက်ဗွေသည် အားကောင်းသည့်ပုံစံ သို့မဟုတ် PIN ကုဒ်တို့ကဲ့သို့ လုံခြုံမည် မဟုတ်ပေ။"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">သင့်လက်ဗွေဖြင့် သော့ဖွင့်ပါ</string>
+    <string name="sound_settings">အသံနှင့် တုန်ခါမှု</string>
+</resources>

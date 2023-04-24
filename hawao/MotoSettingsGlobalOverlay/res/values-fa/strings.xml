@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">راهنما</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"برای بازگشایی قفل تلفن، تایید خریدها یا ورود به برنامه‌ها، حسگر اثر انگشت را لمس کنید.
+
+توجه: اثر انگشت شما ممکن است از پین یا یک الگوی قوی، امنیت کمتری داشته باشد."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">بازکردن قفل با اثر انگشت</string>
+    <string name="sound_settings">صدا و لرزش</string>
+</resources>

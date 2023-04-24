@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Rozšírené nastavenia správ SMS/MMS</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Najlepšie dostupné</string>
+    <string name="image_resize_original">Pôvodné</string>
+    <string name="item1">Kontakty s%s možno pridať a vytvoriť skupinu.</string>
+    <string name="item2">Pomenujte svoju skupinu, ako len chcete!</string>
+    <string name="item3">Jednoducho pridajte alebo odstráňte členov skupiny.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Varovanie o veľkosti prílohy</string>
+    <string name="plus_n">%1$d ďalší</string>
+    <string name="plus_one">1 ďalší</string>
+    <string name="welcome_rcs_msging_text">Pridali sme nové funkcie!</string>
+    <string name="welcome_rcs_msging_title">Skupinové posielanie správ</string>
+</resources>

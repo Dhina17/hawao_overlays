@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Et voi käyttää mitään sovelluksia tai palveluita (mukaan lukien AT&amp;T-videopuhelu), joiden käyttöön tarvitaan internet-yhteys, jos Wi-Fi-yhteys ei ole käytössä."</string>
+    <string name="mobile_data_disable_title">Poistetaanko mobiilidata käytöstä?</string>
+</resources>

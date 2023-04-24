@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Ã vỹ nanu vog kãn ge hore kar nanu vogvo ag vỹ tỹ krỹ ke kãn ka nỹtĩ ha. 
+
+Ã tỹ ã nanu vogvo ag tỹ ki vin mãn kỹ, ã operadora vỹ nanu vugvóg ja to komra kej mũ."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Nanu vogvo tỹ krỹ ke ka nỹtĩ.</string>
+    <string name="mobile_data_disable_title">"Nanu'e vogvo ag"</string>
+</resources>

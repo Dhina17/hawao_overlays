@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">การโทร WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">โหมดการโทร WLAN</string>
+    <string name="wifi_calling_off_explanation">เมื่อเปิดการโทร WLAN โทรศัพท์จะสามารถจัดเส้นทางการโทรผ่านเครือข่าย Wi-Fi หรือเครือข่ายของผู้ให้บริการของคุณได้ ทั้งนี้ขึ้นอยู่กับค่ากำหนดของคุณและสัญญาณฝั่งที่แรงกว่า โปรดสอบถามค่าธรรมเนียมและรายละเอียดอื่นๆ กับผู้ให้บริการก่อนที่จะเปิดคุณสมบัตินี้</string>
+    <string name="wifi_calling_suggestion_title">เปิดการโทร WLAN</string>
+</resources>

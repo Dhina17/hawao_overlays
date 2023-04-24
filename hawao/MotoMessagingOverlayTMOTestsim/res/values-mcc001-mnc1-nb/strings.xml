@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Avanserte SMS-/MMS-innstillinger</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Beste tilgjengelig</string>
+    <string name="image_resize_original">Original</string>
+    <string name="item1">Kontakter med%s kan legges til for å opprette en gruppe.</string>
+    <string name="item2">Velg fritt hva du vil kalle gruppen din.</string>
+    <string name="item3">Det er enkelt å legge til eller fjerne gruppemedlemmer.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Advarsel om vedleggsstørrelse</string>
+    <string name="plus_n">%1$d til</string>
+    <string name="plus_one">1 til</string>
+    <string name="welcome_rcs_msging_text">Vi har lagt til nye funksjoner!</string>
+    <string name="welcome_rcs_msging_title">Gruppemeldinger</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
+    <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
+    <string name="ui_default_package">com.android.dialer</string>
+</resources>

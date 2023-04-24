@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Adaptive Battery ကိုဖွင့်ပါ</string>
+    <string name="battery_tip_smart_battery_summary">Adaptive Battery ကိုဖွင့်ပါ</string>
+    <string name="smart_battery_footer">"ဘက်ထရီသက်တမ်းတိုးရန် Adaptive Battery သည်မကြာခဏအသုံးပြုသော app များအတွက်ဘက်ထရီကိုကန့်သတ်ထားသည်။ သင်၏ဖုန်းသည်သင်အချိန်ကြာလာသည်နှင့်အမျှအက်ပလီကေးရှင်းများမည်သို့အသုံးပြုသည်ကိုလေ့လာလိမ့်မည်။
+
+အသိပေးချက်များကဤ apps များအဘို့နှောင့်နှေးစေခြင်းငှါ။"</string>
+    <string name="smart_battery_manager_title">အလိုက်ဘက်ထရီ</string>
+    <string name="smart_battery_title">Adaptive Battery ကိုသုံးပါ</string>
+</resources>

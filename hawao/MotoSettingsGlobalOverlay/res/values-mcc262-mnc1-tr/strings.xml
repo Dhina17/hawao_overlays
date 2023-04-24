@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN Çağrısı</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN Çağrısı modu</string>
+    <string name="wifi_calling_off_explanation">WLAN Çağrısı açık olduğunda telefonunuz, tercihinize ve hangi sinyalin daha güçlü olduğuna bağlı olarak çağrıları kablosuz ağlar veya operatörünüzün ağı üzerinden yönlendirebilir. Bu özelliği açmadan önce operatörünüzün ücretlerini ve diğer ayrıntıları kontrol edin.</string>
+    <string name="wifi_calling_suggestion_title">WLAN Çağrısını aç</string>
+</resources>

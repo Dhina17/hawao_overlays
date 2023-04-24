@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Chamada por Wi-Fi</string>
+    <string name="wifi_calling_mode_dialog_title">Modo de Chamada por Wi-Fi</string>
+    <string name="wifi_calling_off_explanation">Quando as Chamadas por Wi-Fi estão ativadas, seu telefone pode enviar chamadas por redes Wi-Fi ou pela rede da sua operadora, dependendo da sua preferência e de qual sinal está mais forte. Antes de ativar esse recurso, verifique as taxas e outros detalhes com sua operadora.</string>
+    <string name="wifi_calling_suggestion_title">Ativar Chamada por Wi-Fi</string>
+</resources>

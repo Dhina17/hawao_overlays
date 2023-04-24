@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">התראת חירום - הודעת הדמיה</string>
+    <string name="cmas_presidential_level_alert">התראת חירום</string>
+    <string name="cmas_required_monthly_test">התראת חירום - הודעת בדיקה</string>
+    <string name="pws_other_message_identifiers">התראת חירום</string>
+    <string name="button_dismiss">הסתר</string>
+    <string name="public_safety_message">הודעת מידע</string>
+</resources>

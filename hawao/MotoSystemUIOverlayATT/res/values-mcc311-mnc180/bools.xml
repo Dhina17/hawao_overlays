@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_notify_signal_strength_dropped_below_threshold">true</bool>
+    <bool name="ftr_5261_att_data_settings">true</bool>
+</resources>

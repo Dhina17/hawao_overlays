@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">सुरक्षा अलर्ट सिस्टमकडून आवश्यक मासिक चाचण्या प्राप्त करा</string>
+    <string name="enable_cmas_test_alerts_title">आवश्यक मासिक चाचणी</string>
+    <string name="receive_cmas_in_second_language_summary">जेव्हा शक्य असेल तेव्हा स्पॅनिशमध्ये आपात्कालीन सतर्कता प्राप्त करा</string>
+    <string name="receive_cmas_in_second_language_title">स्पॅनिश</string>
+</resources>

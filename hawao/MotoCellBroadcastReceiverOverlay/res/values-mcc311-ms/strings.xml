@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Terima ujian bulanan yang diperlukan daripada sistem amaran keselamatan</string>
+    <string name="enable_cmas_test_alerts_title">Ujian Bulanan Diperlukan</string>
+    <string name="receive_cmas_in_second_language_summary">Terima amaran kecemasan dalam bahasa Sepanyol apabila boleh</string>
+    <string name="receive_cmas_in_second_language_title">Bahasa Sepanyol</string>
+</resources>

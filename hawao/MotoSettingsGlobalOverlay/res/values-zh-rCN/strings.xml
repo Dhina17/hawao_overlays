@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">帮助</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"点按指纹传感器可解锁手机、授权购买或登录应用程序。
+
+注意：指纹的安全性相对于强大的图案或数字密码而言较弱。"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">使用指纹解锁</string>
+    <string name="sound_settings">声音与振动</string>
+</resources>

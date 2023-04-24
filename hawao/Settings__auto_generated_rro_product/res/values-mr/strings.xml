@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">अनुकूल बॅटरी चालू करा</string>
+    <string name="battery_tip_smart_battery_summary">अनुकूल बॅटरी चालू करा</string>
+    <string name="smart_battery_footer">"बॅटरीचे आयुष्य वाढवण्यासाठी, अनुकूल बॅटरी वारंवार वापरल्या जाणार्‍या अनुप्रयोगांसाठी बॅटरी मर्यादित करते. आपला फोन वेळोवेळी अनुप्रयोग कसे वापरायचे हे शिकेल.
+
+या अनुप्रयोगांसाठी सूचनांना विलंब होऊ शकेल."</string>
+    <string name="smart_battery_manager_title">अनुकूल बॅटरी</string>
+    <string name="smart_battery_title">अनुकूल बॅटरी वापरा</string>
+</resources>

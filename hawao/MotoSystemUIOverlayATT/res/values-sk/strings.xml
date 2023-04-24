@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Ak sú mobilné dáta vypnuté, nebudete môcť používať Internet, e-mail alebo iné aplikácie, ktoré potrebujú dátové pripojenie, pokiaľ nepoužívate Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Mobilné dáta</string>
+</resources>

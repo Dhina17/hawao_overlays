@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">"Per consultar les notificacions, llisca cap avall al sensor d'empremtes dactilars de la part lateral del telèfon."</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">"Localitza el sensor a la tecla d'engegada, situada al lateral del dispositiu. Hauràs de tocar-lo diverses vegades per enregistrar l'empremta dactilar. Toca'l suaument per no prémer la tecla d'engegada."</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">"Col·loca el mateix dit al sensor dactilar i aixeca'l després de la vibració."</string>
+    <string name="security_settings_fingerprint_enroll_start_message">"Toca el sensor amb el dit i retira'l quan notis una vibració. Toca'l suaument per no prémer la tecla d'engegada."</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Toca el sensor que hi ha al lateral dret del dispositiu</string>
+</resources>

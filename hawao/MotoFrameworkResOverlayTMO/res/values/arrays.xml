@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_nonBlockableNotificationPackages">
+        <item>com.google.android.setupwizard</item>
+        <item>com.google.android.apps.restore</item>
+        <item>com.tmobile.pr.adapt</item>
+        <item>com.android.dialer:phone_incoming_call</item>
+        <item>com.google.android.deskclock:Firing</item>
+    </string-array>
+</resources>

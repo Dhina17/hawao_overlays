@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Ako je mobilni prijenos podataka isključen, a nemate Wi-Fi, nećete moći upotrebljavati internet, e-poštu ili druge aplikacije koje zahtijevaju podatkovnu vezu."</string>
+    <string name="mobile_data_disable_title">Mobilni podaci</string>
+</resources>

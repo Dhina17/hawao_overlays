@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">အရေးပေါ် သတိပေးချက် - သဏ္ဍာန်တူ မက်ဆေ့ချ်</string>
+    <string name="cmas_extreme_alert">အရေးပေါ် သတိပေးချက်များ</string>
+    <string name="cmas_extreme_immediate_likely_alert">အရေးပေါ် သတိပေးချက်များ</string>
+    <string name="cmas_extreme_immediate_observed_alert">အရေးပေါ် သတိပေးချက်များ</string>
+    <string name="cmas_presidential_level_alert">အရေးပေါ် သတိပေးချက်များ</string>
+    <string name="cmas_required_monthly_test">အရေးပေါ် သတိပေးချက် - စမ်းသပ် မက်ဆေ့ချ်</string>
+    <string name="cmas_severe_alert">အရေးပေါ် သတိပေးချက်များ</string>
+    <string name="pws_other_message_identifiers">အရေးပေါ် သတိပေးချက်များ</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Untuk memeriksa pemberitahuan, usap ke bawah pada sensor sidik jari di samping ponsel Anda.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Cari sensor pada tombol daya di samping perangkat Anda. Anda akan perlu mengetuk beberapa kali untuk merekam sidik jari Anda. Sentuh lembut agar tidak menekan tombol daya.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Tempatkan jari yang sama pada sensor sidik jari lalu angkat setelah Anda merasakan getaran.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Sentuh sensor dengan jari dan angkat jari setelah merasakan getaran. Sentuh lembut agar tidak menekan tombol daya.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Sentuh sensor di sisi kanan perangkat Anda</string>
+</resources>

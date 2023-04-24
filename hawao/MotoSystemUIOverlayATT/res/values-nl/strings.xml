@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Je kunt geen apps of services gebruiken, waaronder AT&amp;T-videogesprekken, waarvoor een internetverbinding vereist is, tenzij je wifi gebruikt."</string>
+    <string name="mobile_data_disable_title">Mobiele data uitschakelen?</string>
+</resources>

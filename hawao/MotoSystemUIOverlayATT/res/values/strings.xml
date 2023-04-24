@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_signal_strength_dropped_below_threshold_handler_package">com.motorola.attvowifi</string>
+    <string name="mobile_data_disable_message">"
+You won't be able to use any apps or services, including AT&amp;T Video Call, that require an internet connection unless you use Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Turn off Mobile Data?</string>
+</resources>

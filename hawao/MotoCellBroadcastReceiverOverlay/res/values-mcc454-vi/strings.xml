@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_title">Tin nhắn văn bản</string>
+    <string name="enable_emergency_alerts_message_title">Thông báo khẩn cấp</string>
+    <string name="emergency_alert_history_title">Lịch sử cảnh báo khẩn cấp</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_title">စမ်းသပ်မှု Message</string>
+    <string name="enable_emergency_alerts_message_title">အရေးပေါ်သတိပေးချက်</string>
+    <string name="emergency_alert_history_title">အရေးပေါ်သတိပေးချက်မှတ်တမ်း</string>
+</resources>

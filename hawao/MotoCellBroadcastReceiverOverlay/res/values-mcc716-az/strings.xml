@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Fövqəladə Xəbərdarlıq - Simulyasiya Mesajı</string>
+    <string name="cmas_presidential_level_alert">Həyəcan Siqnalları</string>
+    <string name="cmas_required_monthly_test">Fövqəladə Xəbərdarlıq - Test Mesajı</string>
+    <string name="pws_other_message_identifiers">Həyəcan Siqnalları</string>
+    <string name="button_dismiss">Gizləyin</string>
+    <string name="public_safety_message">Məlumat mesajı</string>
+</resources>

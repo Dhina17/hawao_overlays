@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">"Recevoir les tests mensuels requis du système d'alertes de sécurité"</string>
+    <string name="enable_cmas_test_alerts_title">Test mensuel obligatoire</string>
+    <string name="receive_cmas_in_second_language_summary">"Recevoir les alertes d'urgence en espagnol si possible"</string>
+    <string name="receive_cmas_in_second_language_title">Espagnol</string>
+</resources>

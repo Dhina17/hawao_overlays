@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="compose_message_fields_horizontal_margin">16.0dip</dimen>
+    <dimen name="elevation_low">2.0dip</dimen>
+    <dimen name="margin_small">8.0dip</dimen>
+    <dimen name="welcome_padding_horizontal">30.0dip</dimen>
+</resources>

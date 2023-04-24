@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Nếu dữ liệu di động tắt, bạn không thể sử dụng Internet, email hoặc các ứng dụng khác cần kết nối dữ liệu trừ khi bạn sử dụng Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Dữ liệu di động</string>
+</resources>

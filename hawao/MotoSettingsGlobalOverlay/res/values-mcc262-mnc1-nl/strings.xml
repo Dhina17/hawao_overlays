@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">"Bellen via wifi "</string>
+    <string name="wifi_calling_mode_dialog_title">Bellen via wifi-modus</string>
+    <string name="wifi_calling_off_explanation">Wanneer Bellen via wifi is ingeschakeld, kan uw telefoon oproepen doorschakelen via wifi-netwerken of het netwerk van uw provider, afhankelijk van uw voorkeur en welk signaal sterker is. Voordat uw deze functie inschakelt, neemt u contact met uw provider op over de kosten en andere details.</string>
+    <string name="wifi_calling_suggestion_title">Bellen via wifi inschakelen</string>
+</resources>

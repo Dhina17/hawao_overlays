@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_title">சோதனைச் செய்தி</string>
+    <string name="enable_emergency_alerts_message_title">அவசரகால விழிப்பூட்டல்</string>
+    <string name="emergency_alert_history_title">அவசர விழிப்பூட்டல் வரலாறு</string>
+</resources>

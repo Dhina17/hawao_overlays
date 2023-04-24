@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Vészjelzés - Szimulációs üzenet</string>
+    <string name="cmas_presidential_level_alert">Vészjelzés</string>
+    <string name="cmas_required_monthly_test">Vészjelzés - Tesztüzenet</string>
+    <string name="pws_other_message_identifiers">Vészjelzés</string>
+    <string name="button_dismiss">Elrejtés</string>
+    <string name="public_safety_message">Tájékoztató üzenet</string>
+</resources>

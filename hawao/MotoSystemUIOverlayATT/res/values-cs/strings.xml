@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Pokud je mobilní přenos dat vypnutý, nebudete moci používat internet, e-mail ani jiné aplikace vyžadující datové připojení, pokud nebudete připojeni k síti Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Mobilní data</string>
+</resources>

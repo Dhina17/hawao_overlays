@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Wi-Fi ĩma ĩdé te repuderi kurí reusai apirikatiwo nẽ murakisawa ĩterneti yara mayé widiu-senũisawa AT&amp;T yara."</string>
+    <string name="mobile_data_disable_title">Yuraré dadu-ita muewa será?</string>
+</resources>

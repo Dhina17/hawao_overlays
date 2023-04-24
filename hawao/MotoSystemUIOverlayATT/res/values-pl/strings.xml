@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Nie będzie można korzystać z żadnych aplikacji lub usług, które wymagają połączenia z Internetem (np. Wideorozmowa AT&amp;T), chyba że używana jest sieć Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Wyłączyć transmisję danych komórkowych?</string>
+</resources>

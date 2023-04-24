@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Non potrai utilizzare app o servizi, tra cui Videochiamata AT&amp;T, che richiedono una connessione Internet a meno che non utilizzi il Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Disattivare i dati mobili?</string>
+</resources>

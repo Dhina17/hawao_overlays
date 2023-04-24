@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">သင်၏အသိပေးချက်များကိုစစ်ဆေးရန်သင်၏ဖုန်း၏ဘေးဘက်ရှိလက်ဗွေရာအာရုံခံကိရိယာအပေါ်သို့ပွတ်ဆွဲပါ။</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">သင့်ကိရိယာ၏ဘေးထွက်ရှိပါဝါခလုတ်ပေါ်တွင်အာရုံခံကိရိယာကိုရှာပါ။ သင်၏လက်ဗွေကိုမှတ်တမ်းတင်ရန်အကြိမ်များစွာတို့ထိရန်လိုအပ်သည်။ ပါဝါခလုတ်ကိုနှိပ်ခြင်းမှရှောင်ကြဉ်ရန်ညင်ညင်သာသာထိပါ။</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">လက်ဗွေအာရုံခံကိရိယာပေါ်မှာတူညီတဲ့လက်ညှိုးကိုထည့်သွင်းခြင်းနှင့်သင်တစ်ဦးတုန်ခါမှုခံစားရပြီးရုတ်သိမ်းပေးရန်။</string>
+    <string name="security_settings_fingerprint_enroll_start_message">အာရုံခံကိရိယာကိုသင်၏လက်ချောင်းဖြင့်တို့ထိပြီးတုန်ခါမှုခံစားရပြီးနောက်၎င်းကိုဖယ်ရှားပါ။ ပါဝါခလုတ်ကိုနှိပ်ခြင်းမှရှောင်ကြဉ်ရန်ညင်ညင်သာသာထိပါ။</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">သင့်ကိရိယာ၏ညာဘက်ခြမ်းရှိအာရုံခံကိရိယာကိုထိပါ</string>
+</resources>

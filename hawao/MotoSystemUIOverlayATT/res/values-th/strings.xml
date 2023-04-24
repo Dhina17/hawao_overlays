@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+หากข้อมูลมือถือถูกปิด คุณจะไม่สามารถใช้อินเทอร์เน็ต อีเมล หรือแอปอื่นที่จำเป็นต้องใช้การเชื่อมต่อข้อมูล ยกเว้นคุณจะใช้ Wi-Fi"</string>
+    <string name="mobile_data_disable_title">ข้อมูลมือถือ</string>
+</resources>

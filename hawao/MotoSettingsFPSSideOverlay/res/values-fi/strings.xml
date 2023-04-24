@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Tarkista ilmoitukset pyyhkäisemällä puhelimen sivussa olevalla sormenjälkitunnistimella alaspäin.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Laita sormesi laitteen sivussa olevan virtapainikkeen tunnistimelle. Tallenna sormenjälki koskettamalla sitä useaan kertaan. Kosketa tunnistinta varovasti, jotta et paina virtapainiketta.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Aseta sama sormi sormenjälkitunnistimen anturille. Nosta sormi, kun laite värisee.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Kosketa tunnistinta sormellasi. Nosta sormi, kun tunnet värinän. Kosketa tunnistinta varovasti, jotta et paina virtapainiketta.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Kosketa laitteen oikealla puolella olevaa tunnistinta</string>
+</resources>

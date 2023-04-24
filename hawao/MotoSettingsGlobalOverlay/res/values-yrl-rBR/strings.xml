@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Pitimũsawa</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Retuka sẽsur resewara usaãsara deduita remusikĩda arama terefuni, rexxai arama piripana asui rewiké app ita upé. 
+
+Nuta: reusari rame digitau yawaite xĩga isui kia PIN tiramẽ padarãu purãgapiri"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Redesburukeari ne ĩperasãu dijitau</string>
+    <string name="sound_settings">Tiapú yuí ririsawa</string>
+</resources>

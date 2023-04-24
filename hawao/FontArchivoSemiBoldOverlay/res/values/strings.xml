@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ArchivoSemiBold</string>
+    <string name="config_bodyFontFamily">Archivo-SemiBold</string>
+    <string name="config_bodyFontFamilyMedium">Archivo-SemiBold</string>
+    <string name="config_headlineFontFamily">Archivo-SemiBold</string>
+    <string name="config_headlineFontFamilyMedium">Archivo-SemiBold</string>
+</resources>

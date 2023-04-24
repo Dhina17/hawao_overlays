@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Ayuda</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Toca el sensor de huellas digitales para desbloquear tu teléfono, autorizar compras o iniciar sesión en aplicaciones. 
+
+Nota: Tu huella digital puede ser menos segura que un patrón o PIN complejo."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Desbloquea con tu huella digital</string>
+    <string name="sound_settings">Sonido y vibración</string>
+</resources>

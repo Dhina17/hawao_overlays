@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_enable_1x_override_during_cdma_voice_call">false</bool>
+    <bool name="config_enable_activity_on_wide_statusbar_icons">true</bool>
+    <bool name="config_enable_oem_5g_api">true</bool>
+    <bool name="config_notify_signal_strength_dropped_below_threshold">true</bool>
+    <bool name="config_roaming_indication_disabled">true</bool>
+    <bool name="config_show_carrier_name_in_statusbar">true</bool>
+    <bool name="config_show_epdg_indicator">true</bool>
+    <bool name="config_show_network_name_blank_line">true</bool>
+    <bool name="ftr_5261_att_data_settings">true</bool>
+    <bool name="zz_moto_config_enable_att_rat">true</bool>
+</resources>

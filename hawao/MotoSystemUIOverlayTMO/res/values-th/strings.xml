@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"การใช้ข้อมูลของคุณถึงขีดจำกัดที่ระบุไว้แล้ว ดังนั้นจึงปิดข้อมูลมือถือแล้ว 
+
+หากคุณเปิดข้อมูลมือถืออีกครั้ง คุณอาจถูกเรียกเก็บค่าใช้จ่ายโดยผู้ให้บริการสำหรับการใช้ข้อมูล"</string>
+    <string name="data_usage_disabled_dialog_mobile_title">ข้อมูลมือถือถูกปิด</string>
+</resources>

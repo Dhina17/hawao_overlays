@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Yardım</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Telefonunuzun kilidini açmak, satın alma işlemlerini yetkilendirmek veya uygulamalarda oturum açmak için parmak izi sensörüne dokunun. 
+
+Not: Parmak iziniz, güçlü bir desen veya PIN kodundan daha az güvenli olabilir."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Parmak izinizle kilit açın</string>
+    <string name="sound_settings">Ses ve titreşim</string>
+</resources>

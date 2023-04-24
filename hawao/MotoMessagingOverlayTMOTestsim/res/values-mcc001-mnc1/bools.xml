@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_flag_rcs_enabled">true</bool>
+    <bool name="feat_chatbot_available">true</bool>
+    <bool name="is_typing_pref_default">true</bool>
+    <bool name="rcs_display_msging_welcome_feature">true</bool>
+    <bool name="rcs_ft_warn_size_enabled">true</bool>
+    <bool name="rcs_geo_location_push_enabled">true</bool>
+    <bool name="rcs_message_transfer_mode">true</bool>
+    <bool name="rcs_participant_read_report_enabled">true</bool>
+    <bool name="rcs_show_contact_ogc_capability">true</bool>
+    <bool name="rcs_show_group_type_ind">false</bool>
+    <bool name="rcs_spam_unknown_participant">true</bool>
+    <bool name="rcs_use_alias_in_conversation">true</bool>
+    <bool name="rcs_use_ft_warn_size">true</bool>
+    <bool name="read_reports_pref_default">true</bool>
+    <bool name="send_message_to_email_over_rcs">false</bool>
+</resources>

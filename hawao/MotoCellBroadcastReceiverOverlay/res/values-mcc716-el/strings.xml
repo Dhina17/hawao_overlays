@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Ειδοποίηση έκτακτης ανάγκης - Μήνυμα προσομοίωσης</string>
+    <string name="cmas_presidential_level_alert">Ειδοποίηση έκτακτης ανάγκης</string>
+    <string name="cmas_required_monthly_test">Ειδοποίηση έκτακτης ανάγκης - Δοκιμαστικό μήνυμα</string>
+    <string name="pws_other_message_identifiers">Ειδοποίηση έκτακτης ανάγκης</string>
+    <string name="button_dismiss">Απόκρυψη</string>
+    <string name="public_safety_message">Μήνυμα ενημέρωσης</string>
+</resources>

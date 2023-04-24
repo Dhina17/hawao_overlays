@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Вы сможете использовать приложения или службы, включая AT&amp;T Video Call, для которых требуется подключение к Интернету, только при наличии подключения к сети Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Отключить мобильную передачу данных?</string>
+</resources>

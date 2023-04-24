@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Az értesítések megtekintéséhez söpörjön ujjával lefelé a telefon oldalán található ujjlenyomat-olvasón.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Keresse meg az eszköz oldalán található bekapcsológombon lévő érzékelőt. Az ujjlenyomat rögzítéséhez érintse meg többször. Óvatosan érintse meg, hogy ne nyomja meg a bekapcsológombot.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Tegye ugyanazt az ujját az ujjlenyomat-olvasóra, és vegye el a rezgés után.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Tegye az ujját az érzékelőre, majd a rezgés után vegye le róla. Óvatosan érintse meg, hogy ne nyomja meg a bekapcsológombot.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Érintse meg az eszköz jobb oldalán található érzékelőt</string>
+</resources>

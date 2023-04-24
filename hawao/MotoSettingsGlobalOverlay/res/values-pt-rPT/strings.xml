@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Ajuda</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Toque no sensor de impressões digitais para desbloquear o telemóvel, autorizar compras ou iniciar sessão em apps. 
+
+Nota: a impressão digital pode ser menos segura do que um padrão forte ou um PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Desbloquear com impressão digital</string>
+    <string name="sound_settings">Som e vibração</string>
+</resources>

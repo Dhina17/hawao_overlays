@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">[ŔéçéîVé ŕéQûîŕéð ḿöñţĥļý ţéšţš ƒŕöḿ ţĥé šåƒéţý åļéŕţ šýšţéḿ one two three four five six seven]</string>
+    <string name="enable_cmas_test_alerts_title">[ŔéQûîŕéð Ḿöñţĥļý Ţéšţ one two three]</string>
+    <string name="receive_cmas_in_second_language_summary">[ŔéçéîVé éḿéŕĝéñçý åļéŕţš îñ Šþåñîšĥ ŵĥéñ þöššîɓļé one two three four five six]</string>
+    <string name="receive_cmas_in_second_language_title">[Šþåñîšĥ one two]</string>
+</resources>

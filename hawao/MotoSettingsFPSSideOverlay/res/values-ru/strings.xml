@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Чтобы увидеть уведомления, проведите вниз по сканеру отпечатка пальца на боковой панели телефона.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Найдите сканер на кнопке питания на боковой панели устройства. Для записи отпечатка пальца нужно несколько раз коснуться его. Касайтесь мягко, чтобы не нажать кнопку питания.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Коснитесь сканера отпечатка тем же пальцем и поднимите его, как только почувствуете вибрацию.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Коснитесь сканера пальцем и поднимите его, когда почувствуете вибрацию. Касайтесь сканера мягко, чтобы не нажать кнопку питания.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Коснитесь сканера на правой стороне устройства.</string>
+</resources>

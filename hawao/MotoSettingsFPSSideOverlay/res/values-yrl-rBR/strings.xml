@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Pirí maã ne mbeusawa, e sirika ne dedu wiripé kití ĩperesãu dijitawa sẽsori telefuni ruaki upé</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">"Sẽsori upitá rĩbiá ligari/desligari upé, dispusitiwo suaxara upé Ipuraĩga tukari manaká ruê pirí karawatá ĩperesãu dijitawa E munhã yawá maãnhana irũ pirí ti umayana ae "</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">E muapika ne dedu kuaye ĩpersãu dijitawa sẽsori upé asuí e yuuka ae mairamẽ resaá rirí</string>
+    <string name="security_settings_fingerprint_enroll_start_message">E tukari sẽsori upé asuí e mupuãma ne dedu resãã rurisawa riré E munhã yawá maãnhãna irũ pirí mayana rĩbiá ligari/desligari</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">E tukari sẽsori dispusitiwo suaxara pokatú upé</string>
+</resources>

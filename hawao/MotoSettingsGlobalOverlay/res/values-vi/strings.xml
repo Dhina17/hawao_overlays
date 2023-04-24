@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Trợ giúp</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Chạm cảm biến vân tay để mở khóa điện thoại, ủy quyền mua, hoặc đăng nhập vào ứng dụng. 
+
+Lưu ý: Vân tay của bạn có thể không bảo mật bằng mẫu hình hoặc mã PIN mạnh."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Mở khóa bằng vân tay của bạn</string>
+    <string name="sound_settings">Âm thanh và rung</string>
+</resources>

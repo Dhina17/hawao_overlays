@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Gelişmiş SMS/MMS ayarları</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">En uygun boyut</string>
+    <string name="image_resize_original">Orijinal</string>
+    <string name="item1">%s öğesine sahip kişiler gruba eklenebilir.</string>
+    <string name="item2">Grubunuza istediğiniz adı verin!</string>
+    <string name="item3">Grup üyelerini kolayca ekleyip kaldırın.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Ek boyutu uyarısı</string>
+    <string name="plus_n">%1$d diğer</string>
+    <string name="plus_one">1 tane daha</string>
+    <string name="welcome_rcs_msging_text">Yeni özellikler ekledik!</string>
+    <string name="welcome_rcs_msging_title">Grup Mesajı</string>
+</resources>

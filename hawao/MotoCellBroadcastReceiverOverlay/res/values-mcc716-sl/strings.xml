@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Opozorilo v sili – simulacijsko sporočilo</string>
+    <string name="cmas_presidential_level_alert">Opozorilo v sili</string>
+    <string name="cmas_required_monthly_test">Opozorilo v sili – preskusno sporočilo</string>
+    <string name="pws_other_message_identifiers">Opozorilo v sili</string>
+    <string name="button_dismiss">Skrij</string>
+    <string name="public_safety_message">Informativno sporočilo</string>
+</resources>

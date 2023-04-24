@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Du vil ikke kunne bruge nogen apps eller tjenester, herunder AT&amp;T-videoopkald, der kræver en internetforbindelse, medmindre du bruger Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Vil du slå mobildata fra?</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_defaultAppPredictionService">com.motorola.launcher3/com.android.launcher3.appprediction.AppPredictionServiceImpl</string>
+</resources>

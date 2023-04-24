@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Mobil məlumat söndürülmüşdürsə, istifadə etməyincə internet, e-poçt və ya məlumat bağlantısı ehtiyacı olan digər tətbiqlərdən istifadə edə bilməyəcəksiniz Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Mobil Data</string>
+</resources>

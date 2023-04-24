@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">"Configuració avançada d'SMS/MMS"</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">El millor disponible</string>
+    <string name="image_resize_original">Original</string>
+    <string name="item1">Els contactes amb %s es poden afegir per crear un grup.</string>
+    <string name="item2">Posa el nom que vulguis al grup!</string>
+    <string name="item3">Afegeix i retira membres fàcilment al grup.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Avís de mida de fitxer adjunt</string>
+    <string name="plus_n">%1$d més</string>
+    <string name="plus_one">1 més</string>
+    <string name="welcome_rcs_msging_text">Hem afegit noves funcions!</string>
+    <string name="welcome_rcs_msging_title">Missatgeria de grup</string>
+</resources>

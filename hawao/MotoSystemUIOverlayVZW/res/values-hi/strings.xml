@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"आप अपनी निर्दिष्ट डेटा सीमा तक पहुंच चुके हैं, इसलिए मोबाइल डेटा बंद कर दिया गया है. 
+
+यदि आप मोबाइल डेटा वापस चालू करते हैं, तो आप पर आपके कैरियर द्वारा डेटा उपयोग के लिए शुल्क लगाया जा सकता है."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">मोबाइल डेटा अभी बंद है.</string>
+    <string name="mobile_data_disable_title">मोबाइल डेटा</string>
+</resources>

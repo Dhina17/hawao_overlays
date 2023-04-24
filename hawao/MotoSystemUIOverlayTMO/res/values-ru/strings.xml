@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"Достигнут указанный вами лимит трафика. Мобильная передача данных отключена. 
+
+При повторном подключении мобильной передачи данных оператором связи может взиматься плата за переданные данные."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Мобильная передача данных отключена.</string>
+</resources>

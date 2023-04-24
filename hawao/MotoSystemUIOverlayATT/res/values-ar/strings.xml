@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+إذا كانت بيانات الهاتف المحمول متوقفة عن التشغيل، فلن تتمكن من استخدام الإنترنت أو البريد الإلكتروني أو تطبيقات أخرى تحتاج إلى اتصال بيانات إلا إذا استخدمت Wi-Fi."</string>
+    <string name="mobile_data_disable_title">بيانات الجوال</string>
+</resources>

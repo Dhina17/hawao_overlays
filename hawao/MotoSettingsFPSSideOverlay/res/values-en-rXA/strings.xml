@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">[Ţö çĥéçķ ýöûŕ ñöţîƒîçåţîöñš, šŵîþé ðöŵñ öñ ţĥé ƒîñĝéŕþŕîñţ šéñšöŕ öñ ţĥé šîðé öƒ ýöûŕ þĥöñé. one two three four five six seven eight nine ten]</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">[Ļöçåţé ţĥé šéñšöŕ öñ ţĥé þöŵéŕ ķéý öñ ţĥé šîðé öƒ ýöûŕ ðéVîçé. Ýöû’ļļ ñééð ţö ţöûçĥ šéVéŕåļ ţîḿéš ţö ŕéçöŕð ýöûŕ ƒîñĝéŕþŕîñţ. Ţöûçĥ ĝéñţļý ţö åVöîð þŕéššîñĝ ţĥé þöŵéŕ ķéý. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven]</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">[Þûţ ţĥé šåḿé ƒîñĝéŕ öñ ţĥé ƒîñĝéŕþŕîñţ šéñšöŕ åñð ļîƒţ îţ åƒţéŕ ýöû ƒééļ å Vîɓŕåţîöñ. one two three four five six seven eight nine]</string>
+    <string name="security_settings_fingerprint_enroll_start_message">[Ţöûçĥ ţĥé šéñšöŕ ŵîţĥ ýöûŕ ƒîñĝéŕ åñð ŕéḿöVé îţ åƒţéŕ ýöû ƒééļ å Vîɓŕåţîöñ. Ţöûçĥ ĝéñţļý ţö åVöîð þŕéššîñĝ ţĥé þöŵéŕ ķéý. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">[Ţöûçĥ ţĥé šéñšöŕ öñ ţĥé ŕîĝĥţ šîðé öƒ ýöûŕ ðéVîçé one two three four five six]</string>
+</resources>

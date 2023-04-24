@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Pomoc</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Dotknij czytnika linii papilarnych, aby odblokować telefon, autoryzować zakupy lub zalogować się do aplikacji. 
+
+Uwaga: wzór linii papilarnych może być mniej bezpiecznym zabezpieczeniem niż silny wzór lub PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Odblokowywanie odciskiem palca</string>
+    <string name="sound_settings">Dźwięk i wibracje</string>
+</resources>

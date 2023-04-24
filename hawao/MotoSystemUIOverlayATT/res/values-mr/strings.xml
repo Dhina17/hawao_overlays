@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+मोबाइल डेटा बंद असल्यास, आपण Wi-Fi वापरल्याशिवाय आपल्याला इंटरनेट, ईमेल किंवा डेटा कनेक्शनची आवश्यकता असणारे अन्य अनुप्रयोग वापरता येणार नाहीत."</string>
+    <string name="mobile_data_disable_title">मोबाइल डेटा</string>
+</resources>

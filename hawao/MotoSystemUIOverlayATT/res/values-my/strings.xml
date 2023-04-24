@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+အကယ်၍ မိုဘိုင်းဒေတာပိတ်ထားပါကအင်တာနက်၊ အီးမေး (လ်) သို့မဟုတ်ဒေတာချိတ်ဆက်မှုလိုအပ်သည့်အခြားအက်ပ်များကိုသင်အသုံးမပြုပါက အသုံးပြု၍ မရပါ Wi-Fi."</string>
+    <string name="mobile_data_disable_title">မိုဘိုင်းဒေတာ</string>
+</resources>

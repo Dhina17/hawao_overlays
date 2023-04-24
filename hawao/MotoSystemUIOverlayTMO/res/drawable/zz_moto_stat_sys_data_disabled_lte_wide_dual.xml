@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="8.0dip" android:width="11.0dip" android:viewportWidth="11.0" android:viewportHeight="8.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:pathData="M 0 0 H 11 V 8 H 0 V 0 Z" android:strokeWidth="1.0" />
+    <path android:fillColor="#ffffffff" android:pathData="M1.2525,1.5 L1.2525,5.5 L3.19,5.5 L3.19,6.5 L0.19,6.5 L0.19,1.5 L1.2525,1.5 Z M7.1275,1.5 L7.1275,2.5 L5.5025,2.5 L5.5025,6.5 L4.44,6.5 L4.44,2.5 L2.7525,2.5 L2.7525,1.5 L7.1275,1.5 Z M10.7525,1.5 L10.7525,2.5 L8.815,2.5 L8.815,3.4375 L10.7525,3.4375 L10.7525,4.4375 L8.815,4.4375 L8.815,5.5 L10.815,5.5 L10.815,6.5 L7.7525,6.5 L7.7525,1.5 L10.7525,1.5 Z" android:strokeWidth="1.0" android:fillAlpha="0.3" />
+    <path android:fillColor="#ffffffff" android:pathData="M5.13,2.5 C3.93,2.5 2.88,3.55 2.88,4.75 C2.88,5.95 3.93,7 5.13,7 C6.33,7 7.38,5.95 7.38,4.75 C7.455,3.55 6.48,2.5 5.13,2.5 Z M5.13,3.55 C5.355,3.55 5.43,3.55 5.655,3.625 L4.005,5.275 C3.93,5.2 3.93,4.975 3.93,4.75 C3.93,4.15 4.38,3.55 5.13,3.55 Z M5.13,6.1 C5.055,6.1 4.83,6.1 4.755,6.025 L6.405,4.375 C6.405,4.45 6.48,4.675 6.48,4.75 C6.48,5.5 5.805,6.1 5.13,6.1 Z" android:strokeWidth="1.0" />
+</vector>

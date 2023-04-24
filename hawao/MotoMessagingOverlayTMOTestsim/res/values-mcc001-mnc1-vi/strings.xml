@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Cài đặt SMS/MMS nâng cao</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Tốt nhất hiện có</string>
+    <string name="image_resize_original">Gốc</string>
+    <string name="item1">Liên hệ với%s có thể được thêm để tạo nhóm.</string>
+    <string name="item2">Đặt tên bất kỳ bạn thích cho nhóm!</string>
+    <string name="item3">Dễ dàng thêm hoặc xóa thành viên nhóm.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Cảnh báo kích cỡ đính kèm</string>
+    <string name="plus_n">%1$d khác</string>
+    <string name="plus_one">1 khác</string>
+    <string name="welcome_rcs_msging_text">Chúng tôi đã thêm tính năng mới!</string>
+    <string name="welcome_rcs_msging_title">Nhắn tin theo nhóm</string>
+</resources>

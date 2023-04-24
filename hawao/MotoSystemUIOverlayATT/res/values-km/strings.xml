@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+ប្រសិនបើទិន្នន័យចល័តត្រូវបានបិទ អ្នកនឹងមិនអាចប្រើអ៊ីនធឺណិត អ៊ីមែល ឬកម្មវិធីផ្សេងទៀតដែលត្រូវការការភ្ជាប់ទិន្នន័យបានទេ លុះត្រាតែអ្នកប្រើ Wi-Fi ។"</string>
+    <string name="mobile_data_disable_title">ទិន្នន័យ​ចល័ត</string>
+</resources>

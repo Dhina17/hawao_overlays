@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">SMS/MMSの詳細設定</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">最適</string>
+    <string name="image_resize_original">オリジナル</string>
+    <string name="item1">%sの連絡先を追加して、グループを作ることができます。</string>
+    <string name="item2">グループに好きな名前を付けます。</string>
+    <string name="item3">グループメンバーを簡単に追加または削除します。</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">添付ファイルサイズ警告</string>
+    <string name="plus_n">もう%1$d人</string>
+    <string name="plus_one">もう1人</string>
+    <string name="welcome_rcs_msging_text">新しい機能が追加されました!</string>
+    <string name="welcome_rcs_msging_title">グループメッセージング</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Para tingnan ang iyong mga notification, mag-swipe pababa sa sensor para sa fingerprint sa gilid ng iyong telepono.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Hanapin ang sensor sa power key sa gilid ng iyong device. Kakailanganin mong pumindot nang ilang beses para ma-record ang iyong fingerprint. Pumindot nang dahan-dahan para maiwasang madiinan ang power key.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Ilagay ang parehong daliri sa sensor para sa fingerprint at iangat matapos maramdaman ang vibration.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Pindutin ang sensor gamit ang iyong daliri at tanggalin ito kapag nakaramdam ka na ng vibration. Pumindot nang dahan-dahan para maiwasang madiinan ang power key.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Pindutin ang sensor sa kanang bahagi ng iyong device</string>
+</resources>

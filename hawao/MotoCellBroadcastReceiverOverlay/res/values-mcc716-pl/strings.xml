@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Alert o zagrożeniu — komunikat symulacyjny</string>
+    <string name="cmas_presidential_level_alert">Alert o zagrożeniu</string>
+    <string name="cmas_required_monthly_test">Alert o zagrożeniu — komunikat testowy</string>
+    <string name="pws_other_message_identifiers">Alert o zagrożeniu</string>
+    <string name="button_dismiss">Ukryj</string>
+    <string name="public_safety_message">Komunikat informacyjny</string>
+</resources>

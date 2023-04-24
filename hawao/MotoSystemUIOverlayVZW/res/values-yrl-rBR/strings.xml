@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Ĩdé resika dadu-ita purusawa xipisiwikara ipuawa asuí dadu-ita mueweu yurarewa uso'ana. 
+
+Si ĩdé repukuaré n3e dadu-ita mueweu amũruê, ne uperasara upuderi kurí uyururéu dadu purusawa resé."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Dadu-ita mueweu yurarerewa.</string>
+    <string name="mobile_data_disable_title">Dadu-ita muwewa</string>
+</resources>

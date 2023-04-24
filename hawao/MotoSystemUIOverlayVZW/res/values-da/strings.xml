@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Du har nået din angivne grænse for dataforbrug, så mobildata er blevet slået fra. 
+
+Hvis du slår mobildata til igen, kan du blive opkrævet for databrug af dit mobilselskab."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobildata er slået fra.</string>
+    <string name="mobile_data_disable_title">Mobildata</string>
+</resources>

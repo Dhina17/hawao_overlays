@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">সহায়তা</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"আপনার ফোন আনলক করতে, কেনাকাটায় অনুমতি দিতে বা অ্যাপগুলিতে সাইন ইন করতে ফিঙ্গারপ্রিন্ট সেন্সরটি স্পর্শ করুন। 
+
+মনে রাখবেন: আপনার ফিঙ্গারপ্রিন্টটি একটি শক্তিশালী প্যাটার্ন বা PIN-এর চেয়ে কম সুরক্ষিত হতে পারে।"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">আপনার আঙ্গুলের ছাপ দিয়ে আনলক করুন</string>
+    <string name="sound_settings">সাউন্ড ও ভাইব্রেশন</string>
+</resources>

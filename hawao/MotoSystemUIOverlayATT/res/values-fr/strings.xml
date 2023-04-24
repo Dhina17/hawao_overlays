@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Vous ne pourrez plus utiliser aucune appli ou aucun service nécessitant une connexion Internet, y compris AT&amp;T Video Call, à moins d'utiliser le Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Désactiver les données mobiles ?</string>
+</resources>

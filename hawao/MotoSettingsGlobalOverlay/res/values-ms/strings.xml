@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Bantuan</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Sentuh penderia cap jari untuk membuka kunci telefon anda, membenarkan pembelian atau log masuk ke aplikasi. 
+
+Nota: Cap jari anda mungkin kurang selamat berbanding dengan corak atau PIN yang kukuh."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Buka kunci menggunakan cap jari anda</string>
+    <string name="sound_settings">Bunyi &amp; getaran</string>
+</resources>

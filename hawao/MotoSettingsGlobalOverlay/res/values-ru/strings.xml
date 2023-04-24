@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Справка</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Коснитесь сканера отпечатка пальца для разблокировки телефона, авторизации покупок или входа в приложения. 
+
+Примечание. Блокировка телефона отпечатком пальца может быть менее безопасной, чем блокировка сложным графическим ключом или PIN-кодом."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Разблокируйте устройство отпечатком пальца</string>
+    <string name="sound_settings">Звук и вибрация</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">‏5GUW</string>
+    <string name="data_usage_disabled_dialog">"آپ اپنے مخصوص ڈیٹا استعمال کی حد کو پہنچ گئے ہیں، اس لیے موبائل ڈیٹا آف ہو گیا ہے۔ 
+
+اگر آپ موبائل ڈیٹا واپس آن کرتے ہیں تو، آپ کے کیریئر کے ذریعہ ڈیٹا استعمال کے لیے چارج کیا جاسکتا ہے۔"</string>
+    <string name="data_usage_disabled_dialog_mobile_title">موبائل ڈیٹا ابھی آف ہے۔</string>
+    <string name="mobile_data_disable_title">موبائل ڈیٹا</string>
+</resources>

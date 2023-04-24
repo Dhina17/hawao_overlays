@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Washa Betri Inayojirekebisha</string>
+    <string name="battery_tip_smart_battery_summary">Washa Betri Inayojirekebisha</string>
+    <string name="smart_battery_footer">"Ili uongeze muda wa matumizi ya betri, Betri Inayojirekebisha hudhibiti matumizi ya betri katika programu ambazo huzitumii zaidi. Simu yako itajifunza unavyotumia programu hizi baada ya muda fulani.
+
+Huenda arifa zikachelewa katika programu hizi."</string>
+    <string name="smart_battery_manager_title">Betri Inayojirekebisha</string>
+    <string name="smart_battery_title">Tumia Betri Inayojirekebisha</string>
+</resources>

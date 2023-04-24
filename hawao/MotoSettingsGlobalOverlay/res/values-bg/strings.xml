@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Помощ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Докоснете сензора за пръстови отпечатъци, за да отключите телефона си, да упълномощите покупки или да влезете в приложения. 
+
+Забележка: Вашият пръстов отпечатък може да е по-малко сигурен в сравнение със силно заключване с фигура или PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Отключване с отпечатъка ви</string>
+    <string name="sound_settings">Звук и вибриране</string>
+</resources>

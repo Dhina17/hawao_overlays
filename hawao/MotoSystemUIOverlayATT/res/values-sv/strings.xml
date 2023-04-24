@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Du kommer inte kunna använda några appar eller tjänster, inklusive AT&amp;T-videosamtal, som kräver internetanslutning om du inte använder Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Vill du inaktivera mobildata?</string>
+</resources>

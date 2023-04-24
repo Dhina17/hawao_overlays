@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_folder_name">Google</string>
+    <string name="metropcs_folder_name">Metro by T-Mobile</string>
+    <string name="target_ro_carrier">tmo</string>
+    <string name="tmo_folder_name">T-Mobile</string>
+</resources>

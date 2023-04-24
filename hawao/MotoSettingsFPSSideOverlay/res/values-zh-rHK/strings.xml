@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">若要查看通知，請在手機側面的指紋感應器上向下滑動。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">在裝置側面的電源鍵上找到感應器。您需要輕觸數次以記錄指紋。輕觸以避免按下電源鍵。</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">將同一隻手指放在指紋感應器上，感覺到震動後即可抬起手指。</string>
+    <string name="security_settings_fingerprint_enroll_start_message">用手指輕觸感應器，感覺到震動後放開手指輕觸以避免按下電源鍵。</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">輕觸裝置右側的感應器</string>
+</resources>

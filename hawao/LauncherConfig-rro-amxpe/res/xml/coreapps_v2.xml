@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workspace>
+    <appicon className="com.motorola.assist.ui.screens.MainActivity" packageName="com.motorola.moto" screen="0" x="0" y="2" />
+    <appicon className="com.android.settings.Settings" packageName="com.android.settings" screen="1" x="3" y="4" />
+</workspace>

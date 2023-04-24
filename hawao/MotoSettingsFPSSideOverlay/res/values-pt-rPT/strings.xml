@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Para verificar as notificações, deslize rapidamente para baixo no sensor de impressões digitais na lateral do telemóvel.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Localize o sensor no botão ligar/desligar na parte lateral do dispositivo. É necessário tocar várias vezes para que a impressão digital fique registada. Toque suavemente para evitar premir o botão ligar/desligar.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Coloque o mesmo dedo no sensor de impressões digitais e levante-o após sentir uma vibração.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Toque com o dedo no sensor e remova-o depois de sentir uma vibração. Toque suavemente para evitar premir o botão ligar/desligar.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Toque no sensor no lado direito do dispositivo</string>
+</resources>

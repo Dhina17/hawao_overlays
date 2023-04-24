@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">للتحقق من الإعلامات، مرر سريعًا إلى الأسفل على أداة استشعار بصمات الأصابع على جانب هاتفك.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">حدد موقع المستشعر على مفتاح الطاقة على جانب جهازك. ستحتاج إلى اللمس عدة مرات لتسجيل بصمة إصبعك. المس برفق لتجنب الضغط على مفتاح الطاقة.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">ضع الإصبع نفسه على مستشعر البصمة وارفعه عندما تشعر باهتزاز.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">المس أداة الاستشعار بإصبعك وأزله بعد أن تشعر باهتزاز. المس برفق لتجنب الضغط على مفتاح الطاقة.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">المس أداة الاستشعار على الجهة اليمنى من الجهاز</string>
+</resources>

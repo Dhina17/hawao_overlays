@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN-повик</string>
+    <string name="wifi_calling_mode_dialog_title">Режим на WLAN-повик</string>
+    <string name="wifi_calling_off_explanation">Кога функцијата WLAN-повик е вклучена, вашиот телефон може да ги пренасочува повиците преку Wi-Fi мрежите или мрежата на вашиот оператор, во зависност од вашите поставки и јачината на сигналот. Пред да ја вклучите оваа функција, проверете дали вашиот оператор наплаќа дополнителни трошоци или надоместоци.</string>
+    <string name="wifi_calling_suggestion_title">Вклучи WLAN-повик</string>
+</resources>

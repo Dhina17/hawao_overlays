@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">עזרה</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"גע בחיישן טביעת האצבע כדי לבטל את נעילת הטלפון, לאשר רכישות או להיכנס לאפליקציות. 
+
+לתשומת לבך: טביעת האצבע שלך עשויה להיות בטוחה פחות מאשר תבנית חזקה או נעילה בקוד PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ביטול נעילה באמצעות טביעת אצבע</string>
+    <string name="sound_settings">צליל ורטט</string>
+</resources>

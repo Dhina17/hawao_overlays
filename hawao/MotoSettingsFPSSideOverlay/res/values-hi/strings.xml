@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">अपनी सूचनाएं देखने के लिए, अपने फ़ोन के किनारे पर स्थित फ़िंगरप्रिंट सेंसर पर नीचे की ओर स्वाइप करें.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">अपने उपकरण की एक तरफ पर पावर की पर सेंसर खोजें. अपने फ़िंगरप्रिंट को रिकॉर्ड करने के लिए आपको कई बार स्पर्श करना होगा. पावर की दबाने से बचने के लिए धीरे से स्पर्श करें.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">उसी उंगली को फ़िंगरप्रिंट सेंसर पर रखें और कंपन महसूस होने के बाद उसे हटाएं.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">अपनी उंगली से सेंसर को स्पर्श करें और कंपन का अनुभव होने पर हटा लें. पावर की दबाने से बचने के लिए धीरे से स्पर्श करें.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">अपने उपकरण के दाईं ओर स्थित सेंसर को स्पर्श करें</string>
+</resources>

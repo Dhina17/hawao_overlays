@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Pomocník</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Priložením prsta na snímač odtlačkov prstov môžete odomykať telefón, autorizovať nákupy alebo prihlasovať sa do aplikácií. 
+
+Poznámka: Odtlačok prsta môže predstavovať menej bezpečnú metódu v porovnaní s komplexným vzorom alebo kódom PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Odomykajte odtlačkom prsta</string>
+    <string name="sound_settings">Zvuk a vibrovanie</string>
+</resources>

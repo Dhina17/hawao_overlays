@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">إعدادات الرسائل القصيرة/رسائل الوسائط المتعددة المتقدمة</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">أفضل خيار متوفر</string>
+    <string name="image_resize_original">الأصلي</string>
+    <string name="item1">يمكن إضافة جهات الاتصال مع%s لإنشاء مجموعة.</string>
+    <string name="item2">قم بتسمية المجموعة كما تشاء!</string>
+    <string name="item3">تمكّن من إضافة أعضاء إلى المجموعة أو إزالتهم منها بسهولة.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">تحذير حول حجم المرفق</string>
+    <string name="plus_n">%1$d المزيد</string>
+    <string name="plus_one">"‏ 1 المزيد "</string>
+    <string name="welcome_rcs_msging_text">لقد أضفنا ميزات جديدة!</string>
+    <string name="welcome_rcs_msging_title">مراسلات المجموعة</string>
+</resources>

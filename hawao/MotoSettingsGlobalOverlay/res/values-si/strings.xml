@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">උදවු</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"ඔබේ දුරකථනය අගුළු හැරීමට, මිල දී ගැනීම් අනුමත කිරීමට හෝ යෙදුම්වලට පිවිසීමට ඇඟිලි සලකුණු සංවේදකය ස්පර්ශ කරන්න. 
+
+සටහන: ඔබේ ඇඟිලි සලකුණ ප්‍රබල රටාවක් හෝ PIN එකකට වඩා අඩුවෙන් සුරක්ෂිත විය හැකිය."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ඔබේ ඇඟිලි සලකුණින් අගුළු හරින්න</string>
+    <string name="sound_settings">ශබ්ද සහ කම්පනය</string>
+</resources>

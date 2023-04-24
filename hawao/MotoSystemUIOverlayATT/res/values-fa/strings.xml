@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"‏
+اگر اینترنت همراه خاموش باشد، نمی‌توانید از اینترنت، ایمیل یا سایر برنامه‌هایی که به اتصال اینترنت نیاز دارند استفاده کنید، مگر آنکه Wi-Fi داشته باشید."</string>
+    <string name="mobile_data_disable_title">اینترنت همراه</string>
+</resources>

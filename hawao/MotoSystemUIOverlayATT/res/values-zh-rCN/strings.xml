@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+除非使用 WLAN，否则您将无法使用任何需要互联网连接的应用程序或服务，包括 AT&amp;T 视频通话。"</string>
+    <string name="mobile_data_disable_title">关闭移动数据？</string>
+</resources>

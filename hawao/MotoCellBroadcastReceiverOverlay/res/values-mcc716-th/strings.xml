@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">การแจ้งเตือนฉุกเฉิน - ข้อความจำลอง</string>
+    <string name="cmas_presidential_level_alert">การแจ้งเตือนฉุกเฉิน</string>
+    <string name="cmas_required_monthly_test">การแจ้งเตือนฉุกเฉิน - ข้อความทดสอบ</string>
+    <string name="pws_other_message_identifiers">การแจ้งเตือนฉุกเฉิน</string>
+    <string name="button_dismiss">ซ่อน</string>
+    <string name="public_safety_message">ข้อความข้อมูล</string>
+</resources>

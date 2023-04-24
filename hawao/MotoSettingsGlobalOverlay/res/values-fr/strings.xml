@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Aide</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Appuyez sur le lecteur d'empreinte digitale pour déverrouiller votre téléphone, autoriser des achats ou vous connecter à des applis. 
+
+Remarque : une empreinte digitale risque de ne pas être aussi sécurisée qu'un schéma ou un code PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Déverrouiller avec votre empreinte</string>
+    <string name="sound_settings">Son et vibreur</string>
+</resources>

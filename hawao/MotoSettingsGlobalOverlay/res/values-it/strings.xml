@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Guida</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Tocca il sensore impronte per sbloccare il telefono, autorizzare gli acquisti o accedere alle app desiderate. 
+
+Nota: la tua impronta digitale potrebbe essere meno sicura di una sequenza complessa o un PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">"Sblocca il dispositivo con l'impronta digitale"</string>
+    <string name="sound_settings">Suoni e vibrazione</string>
+</resources>

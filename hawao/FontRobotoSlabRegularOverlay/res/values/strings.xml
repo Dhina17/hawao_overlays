@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RobotoSlabRegular</string>
+    <string name="config_bodyFontFamily">RobotoSlab-Regular</string>
+    <string name="config_bodyFontFamilyMedium">RobotoSlab-Regular</string>
+    <string name="config_headlineFontFamily">RobotoSlab-Regular</string>
+    <string name="config_headlineFontFamilyMedium">RobotoSlab-Regular</string>
+</resources>

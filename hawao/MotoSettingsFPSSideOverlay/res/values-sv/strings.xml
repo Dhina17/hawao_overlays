@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Se dina aviseringar genom att dra nedåt på fingeravtryckssensor på sidan av telefonen.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Hitta sensorn på strömknappen på sidan av enheten. Du behöver trycka flera gånger för att spara ditt fingeravtryck. Rör försiktigt så att du inte trycker på strömknappen.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Placera samma finger på fingeravtryckssensorn och ta bort det när du känner en vibration.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Vidrör sensorn med fingret och ta bort fingret när du känner en vibration. Rör försiktigt så att du inte trycker på strömknappen.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Tryck på sensorn på enhetens högra sida</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+மொபைல் தரவு ஆஃப் செய்யப்பட்டிருந்தால், Wi-Fi-ஐப் பயன்படுத்தாத வரை இணையம், மின்னஞ்சல் அல்லது தரவு இணைப்பு தேவைப்படும் பிற பயன்பாடுகளைப் பயன்படுத்த முடியாது."</string>
+    <string name="mobile_data_disable_title">மொபைல் தரவு</string>
+</resources>

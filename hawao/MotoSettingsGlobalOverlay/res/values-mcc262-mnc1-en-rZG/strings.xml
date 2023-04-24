@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN ေခၚဆိုမွု</string>
+    <string name="wifi_calling_mode_dialog_title">WLANေခၚဆိုမွု မုဒ္</string>
+    <string name="wifi_calling_off_explanation">WLAN ေခၚဆိုမွုကို ဖြင့္ထားမည္ဆိုပါက သင့္ဖုန္းသည္ သင့္ေရြးခ်ယ္မွု သို႔မဟုတ္ ဆစ္ဂနယ္ အားရွိမွုေပၚ မူတည္၍ ဝိုင္ဖိုင္ကြန္ရက္မ်ား သို႔မဟုတ္ သင့္ မိုဘိုင္းဝန္ေဆာင္မွုဌာန၏ ကြန္ရက္မွတဆင့္ ေခၚဆိုမွုမ်ားျပဳလုပ္နိုင္သည္’s ဤလုပ္ေဆာင္နိုင္ခ်က္အား မဖြင့္မီ က်သင့္ေငြႏွင့္ အျခားအေသးစိတ္မ်ားအတြက္ သင့္ မိုဘိုင္းဝန္ေဆာင္မွုဌာနအား ေမးျမန္းပါ။</string>
+    <string name="wifi_calling_suggestion_title">WLANေခၚဆိုမွုကို ဖြင့္မည္</string>
+</resources>

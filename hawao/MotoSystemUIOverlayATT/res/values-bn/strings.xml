@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+মোবাইল ডেটা বন্ধ থাকলে, আপনি Wi-Fi ব্যবহার না করলে আপনি ইন্টারনেট, ইমেল বা ডেটা সংযোগের প্রয়োজন এমন অন্যান্য অ্যাপ ব্যবহার করতে সক্ষম হবেন না।"</string>
+    <string name="mobile_data_disable_title">মোবাইল ডেটা</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Du har nått den angivna gränsen för dataanvändning, så mobildata har inaktiverats. 
+
+Om du aktiverar mobildata igen kan det hända att du debiteras för dataanvändning av operatören."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobildata är nu inaktiverade.</string>
+    <string name="mobile_data_disable_title">Mobildata</string>
+</resources>

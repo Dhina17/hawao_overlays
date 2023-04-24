@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Nødvarsling – simuleringsmelding</string>
+    <string name="cmas_presidential_level_alert">Nødvarsel</string>
+    <string name="cmas_required_monthly_test">Nødvarsling – testmelding</string>
+    <string name="pws_other_message_identifiers">Nødvarsel</string>
+    <string name="button_dismiss">Skjul</string>
+    <string name="public_safety_message">Informasjonsmelding</string>
+</resources>

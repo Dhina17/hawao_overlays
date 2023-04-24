@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Mré han</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Nĩgéféj to kinhrãg fã tỹ sẽsor ki vóg ra ã tỹ ã terefãnĩ róm jé, nén ũ kygjãm ge han ge ketũmỹr app ag ra rãj jé. 
+
+Nén ũ tó: ã nĩgéféj kãgrá tỹ vóg tỹ PIN vóg ge rike tũ nĩ ketũmỹr ti ke pẽ tỹ kã sa nĩj mũ"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Ã nĩjuja tỹ ta róm ké</string>
+    <string name="sound_settings">Ti kyr mré rũm ke</string>
+</resources>

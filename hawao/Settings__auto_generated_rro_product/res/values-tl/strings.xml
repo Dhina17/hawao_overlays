@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">I-on ang Adaptive na Baterya</string>
+    <string name="battery_tip_smart_battery_summary">I-on ang Adaptive na Baterya</string>
+    <string name="smart_battery_footer">"Para patagalin ang baterya, nililimitahan ng Adaptive na Baterya ang baterya para sa mga app na madalang gamitin. Sa paglipas ng panahon, matututunan ng iyong telepono kung paano ka gumagamit ng mga app.
+
+Puwedeng maantala ang mga notification para sa mga app na ito."</string>
+    <string name="smart_battery_manager_title">Adaptive na Baterya</string>
+    <string name="smart_battery_title">Gamitin ang Adaptive na Baterya</string>
+</resources>

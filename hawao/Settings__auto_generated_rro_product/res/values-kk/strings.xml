@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Adaptive Battery функциясын қосу</string>
+    <string name="battery_tip_smart_battery_summary">Adaptive Battery функциясын қосу</string>
+    <string name="smart_battery_footer">"Батарея ұзағырақ жұмыс істеуі үшін, Adaptive Battery функциясы сирек пайдаланылатын қолданбалардың батареяны қолдануын шектейді. Телефоныңыз қолданбалардың қалай пайдаланылатынын есіне сақтайды.
+
+Бұл қолданбаларға хабарландырулар кешігіп келуі мүмкін."</string>
+    <string name="smart_battery_manager_title">Adaptive Battery</string>
+    <string name="smart_battery_title">Adaptive Battery функциясын пайдалану</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Has alcanzado el uso máximo de datos especificado, por lo que los datos móviles se han desactivado. 
+
+Si vuelves a activar los datos móviles, es posible que tu proveedor te facture el uso de los datos."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Los datos móviles están ahora desactivados.</string>
+    <string name="mobile_data_disable_title">Datos móviles</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">اپنے اعلانات چیک کرنے کے لیے، اپنے فون کے سائیڈ پر موجود فنگرپرنٹ سینسر پر نیچے پھیریں۔</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">سینسر کو اپنے آلہ کے سائيڈ پر موجود پاور کلید پر تلاش کریں۔ آپ کو اپنا فنگرپرنٹ ریکارڈ کرنے کیلئے کئی بار چھونا ہوگا۔ پاور کلید دبانے سے بچنے کے لیے ہلکا سا چھوئيں۔</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">اسی انگلی کو فنگر پرنٹ سینسر پر رکھیں اور تھرتھراہٹ محسوس کرنے کے بعد اسے اٹھائیں۔</string>
+    <string name="security_settings_fingerprint_enroll_start_message">اپنی انگلی سے سینسر کو چھوئيں اور تھرتھراہٹ محسوس کرنے کے بعد ہٹالیں۔ پاور کلید دبانے سے بچنے کے لیے ہلکا سا چھوئيں۔</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">اپنے آلہ کے دائیں طرف سینسر کو چھوئیں</string>
+</resources>

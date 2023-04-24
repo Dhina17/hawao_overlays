@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN ඇමතුම</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN ඇමතුම් ප්‍රකාරය</string>
+    <string name="wifi_calling_off_explanation">WLAN ඇමතුම ක්‍රියාත්මක විට, ඔබේ දුරකථනයට ඔබේ අභිමතය සහ සංඥාවේ ප්‍රබලත්වය මත පදනම්ව Wi-Fi ජාල හරහා හෝ ඔබේ වාහකයාගේ ජාලය හරහා ඇමතුම් මං සැකසුම් කළ හැකිය. මෙම විශේෂාංගය ක්‍රියාත්මක කිරීමට පෙර, ගාස්තු සහ අනෙකුත් විස්තර සම්බන්ධයෙන් ඔබේ වාහකයා සමඟ පරීක්ෂා කර බලන්න.</string>
+    <string name="wifi_calling_suggestion_title">WLAN ඇමතුම ක්‍රියාත්මක කරන්න</string>
+</resources>

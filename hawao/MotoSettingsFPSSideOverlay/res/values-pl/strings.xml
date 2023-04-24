@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Aby sprawdzić powiadomienia, przesuń palcem w dół na czytniku linii papilarnych na boku telefonu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Znajdź czytnik na przycisku zasilania z boku telefonu. Aby zarejestrować odcisk palca, musisz dotknąć przycisku kilka razy. Dotykaj przycisku delikatnie, aby nie nacisnąć przycisku zasilania.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Przyłóż ten sam palec do czytnika linii papilarnych, a następnie unieś go, gdy poczujesz wibracje.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Dotknij czytnika palcem i zdejmij go, gdy poczujesz wibracje. Dotykaj przycisku delikatnie, aby nie nacisnąć przycisku zasilania.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Dotknij czytnika znajdującego się po prawej stronie urządzenia</string>
+</resources>

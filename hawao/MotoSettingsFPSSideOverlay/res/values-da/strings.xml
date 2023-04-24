@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Du kan tjekke dine notifikationer ved at stryge nedad på fingeraftrykssensoren på siden af telefonen.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Find sensoren på tænd/sluk-knappen på siden af din enhed. Du skal trykke flere gange for at registrere dit fingeraftryk. Tryk forsigtigt for at undgå at trykke på tænd/sluk-knappen.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Sæt den samme finger på fingeraftrykssensoren, og løft den, når du mærker en vibration.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Tryk på sensoren med fingeren, og flyt fingeren, når du mærker en vibration. Tryk forsigtigt for at undgå at trykke på tænd/sluk-knappen.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Tryk på sensoren i højre side af enheden</string>
+</resources>

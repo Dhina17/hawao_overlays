@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+kung off ang mobile data, hindi mo magagamit ang internet, email o iba pang app na kailangan ng koneksyon ng data maliban kung gagamit ng Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Data sa Mobile</string>
+</resources>

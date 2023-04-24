@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">आपल्या अधिसूचना तपासण्यासाठी आपल्या फोनच्या बाजूला फिंगरप्रिंट सेंसर खालच्या दिशेने स्वाइप करा.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">आपल्या उपकरणाच्या बाजूला पॉवर की च्या वर सेंसर शोधा. आपले फिंगरप्रिंट रेकॉर्ड करण्यासाठी आपल्याला बर्‍याच वेळा स्पर्श करण्याची आवश्यकता असेल. पॉवर की दाबण्यापासून टाळण्यासाठी हळूवारपणे स्पर्श करा.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">फिंगरप्रिंट सेंसरवर तेच बोट ठेवा आणि आपल्याला कंपन जाणवल्यानंतर ते उचला.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">आपल्या बोटाने सेंसरला स्पर्श करा आणि आपणास कंपन झाल्यावर ते काढा. पॉवर की दाबण्यापासून टाळण्यासाठी हळूवारपणे स्पर्श करा.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">आपल्या उपकरणाच्या उजव्या बाजूला सेंसरला स्पर्श करा</string>
+</resources>

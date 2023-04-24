@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Добијајте потребне месечне тестове од система за безбедносна обавештења</string>
+    <string name="enable_cmas_test_alerts_title">Обавезан месечни тест</string>
+    <string name="receive_cmas_in_second_language_summary">Примање хитних обавештења на шпанском када је то могуће</string>
+    <string name="receive_cmas_in_second_language_title">шпански</string>
+</resources>

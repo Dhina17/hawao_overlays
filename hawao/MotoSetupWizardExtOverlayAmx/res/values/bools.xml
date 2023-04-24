@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="amx_optin_feature_enabled">true</bool>
+</resources>

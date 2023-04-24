@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN-opkald</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN-opkaldstilstand</string>
+    <string name="wifi_calling_off_explanation">Når WLAN-opkald er slået til, kan telefonen omstille opkald via Wi-Fi-netværk eller din udbyders netværk, afhængigt af dine præferencer og hvilket signal, der er stærkest. Før du slår denne funktion til, skal du kontakte din udbyder angående gebyrer og andre oplysninger.</string>
+    <string name="wifi_calling_suggestion_title">Slå WLAN-opkald til</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Si les dades mòbils estan apagades, no podràs utilitzar Internet, el correu electrònic ni altres aplicacions que necessitin una connexió de dades, a menys que utilitzis una xarxa Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Dades mòbils</string>
+</resources>

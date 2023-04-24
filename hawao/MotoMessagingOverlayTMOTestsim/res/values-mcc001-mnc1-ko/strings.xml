@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">고급 SMS/MMS 설정</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">최적</string>
+    <string name="image_resize_original">원본</string>
+    <string name="item1">%s과(와) 함께 연락처를 추가하여 그룹을 만들 수 있습니다.</string>
+    <string name="item2">그룹에 원하는 이름을 지정하십시오!</string>
+    <string name="item3">그룹 구성원을 쉽게 추가하거나 제거합니다.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">첨부파일 크기 경고</string>
+    <string name="plus_n">%1$d 추가</string>
+    <string name="plus_one">1명 +</string>
+    <string name="welcome_rcs_msging_text">새 기능을 추가했습니다!</string>
+    <string name="welcome_rcs_msging_title">그룹 메시지</string>
+</resources>

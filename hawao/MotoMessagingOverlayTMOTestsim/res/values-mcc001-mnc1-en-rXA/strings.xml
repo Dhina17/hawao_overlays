@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">[ÅðVåñçéð ŠḾŠ/ḾḾŠ šéţţîñĝš one two three]</string>
+    <string name="bullet">[• one]</string>
+    <string name="image_resize_best_available">[βéšţ åVåîļåɓļé one two three]</string>
+    <string name="image_resize_original">[Öŕîĝîñåļ one two]</string>
+    <string name="item1">[Çöñţåçţš ŵîţĥ%s çåñ ɓé åððéð ţö ḿåķé å ĝŕöûþ. one two three four five]</string>
+    <string name="item2">[Ñåḿé ýöûŕ ĝŕöûþ åñýţĥîñĝ ýöû ŵåñţ¡ one two three four]</string>
+    <string name="item3">[Éåšîļý åðð öŕ ŕéḿöVé ĝŕöûþ ḿéḿɓéŕš. one two three four]</string>
+    <string name="item4">[]</string>
+    <string name="item5">[]</string>
+    <string name="mms_attachment_limit_reached">[Åţţåçĥḿéñţ šîžé ŵåŕñîñĝ one two three]</string>
+    <string name="plus_n">[%1$d ḿöŕé one]</string>
+    <string name="plus_one">[1 ḿöŕé one two]</string>
+    <string name="rcs_carrier_number_to_fwd_spam_msg">[7726 one]</string>
+    <string name="welcome_rcs_msging_text">[Ŵé ĥåVé åððéð ñéŵ ƒéåţûŕéš¡ one two three four]</string>
+    <string name="welcome_rcs_msging_title">[Ĝŕöûþ Ḿéššåĝîñĝ one two three]</string>
+</resources>

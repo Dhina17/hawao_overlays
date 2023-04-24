@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Проведіть пальцем униз по бічному сканеру відбитка пальця, щоб переглянути сповіщення.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">"Знайдіть сканер на кнопці живлення на боці пристрою. Для реєстрації відбитка пальця потрібно кілька разів торкнутися сканера. Торкайтеся м'яко, щоб не натиснути кнопку живлення."</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Прикладіть той самий палець до сканера відбитка пальця та приберіть його, коли відчуєте вібрацію.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">"Торкніться датчика пальцем. Приберіть палець, щойно відчуєте вібрацію. Торкайтеся м'яко, щоб не натиснути кнопку живлення."</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Торкніться сканера в правій частині пристрою</string>
+</resources>

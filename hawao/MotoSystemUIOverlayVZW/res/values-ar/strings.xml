@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">‏5GUW</string>
+    <string name="data_usage_disabled_dialog">"لقد بلغت الحد المحدد لاستخدام البيانات، لذا تم إيقاف تشغيل بيانات الهاتف المحمول. 
+
+إذا أعدت تشغيل بيانات الهاتف المحمول، فقد يتم فرض تكاليف على استخدام البيانات من قبل مشغل شبكة الجوال."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">بيانات الهاتف المحمول متوقفة عن التشغيل الآن.</string>
+    <string name="mobile_data_disable_title">بيانات الهاتف المحمول</string>
+</resources>

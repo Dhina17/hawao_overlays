@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Uligai bateriya uyũbuituwa</string>
+    <string name="battery_tip_smart_battery_summary">Uligai bateriya uyũbuituwa</string>
+    <string name="smart_battery_footer">"Remuturusú arã bateria kupukusawa, yaã bateriya yũbuituwa usika yusai mũdisa apps ũbawa tausai muiri viaji. Kua tablet uyũbué ne irũ maye reusai kua apps ita usasawa ara tairũ.
+
+Amuramẽ ĩdé repisika nutifikasãu ita upitawa ita kua apps tasupé."</string>
+    <string name="smart_battery_manager_title">Bateriya adapitaweu</string>
+    <string name="smart_battery_title">Usai Bateria adapitawera</string>
+</resources>

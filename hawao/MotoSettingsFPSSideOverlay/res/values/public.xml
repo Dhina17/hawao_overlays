@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_side_fingerprint_enabled" id="0x7f010000" />
+    <public type="raw" name="doubletap" id="0x7f020000" />
+    <public type="raw" name="doubletap_swipe" id="0x7f020001" />
+    <public type="raw" name="fingerprint_location_animation" id="0x7f020002" />
+    <public type="string" name="fingerprint_swipe_for_notifications_summary" id="0x7f030000" />
+    <public type="string" name="security_settings_fingerprint_enroll_find_sensor_message" id="0x7f030001" />
+    <public type="string" name="security_settings_fingerprint_enroll_repeat_message" id="0x7f030002" />
+    <public type="string" name="security_settings_fingerprint_enroll_start_message" id="0x7f030003" />
+    <public type="string" name="security_settings_fingerprint_enroll_touch_dialog_message" id="0x7f030004" />
+</resources>

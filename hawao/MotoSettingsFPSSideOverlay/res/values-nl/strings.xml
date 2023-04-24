@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Veeg omlaag op de vingerafdruksensor aan de zijkant van je telefoon om je meldingen te bekijken.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Zoek de sensor op de aan/uit-knop op de zijkant van je apparaat. Raak deze een aantal keer aan om je vingerafdruk te registreren. Raak voorzichtig aan zonder de aan/uit-knop in te drukken.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Plaats dezelfde vinger op de vingerafdruksensor en haal deze eraf nadat je een trilling voelt.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Raak de sensor met je vinger aan en verwijder de sensor nadat je een trilling voelt. Raak voorzichtig aan zonder op de aan/uit-knop te drukken.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Raak de sensor aan de rechterkant van je apparaat aan</string>
+</resources>

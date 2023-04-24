@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"‏
+اگر موبائل ڈیٹا آف ہے، تو جب تک آپ Wi-Fi کا استعمال نہیں کرتے تب تک آپ انٹرنیٹ، ای میل، یا دیگر ایپس استعمال نہیں کر پائیں گے جن میں ڈیٹا کنکشن کی ضرورت ہوتی ہے۔"</string>
+    <string name="mobile_data_disable_title">موبائل ڈیٹا</string>
+</resources>

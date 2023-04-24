@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WiFi poziv</string>
+    <string name="wifi_calling_mode_dialog_title">Način rada WiFi poziva</string>
+    <string name="wifi_calling_off_explanation">Kad je WiFi poziv uključen, telefon može usmjeravati pozive putem Wi-Fi mreža ili mreže operatera, ovisno o vašim preferencijama i tome koji je signal jači. Prije nego što uključite ovu značajku zatražite od operatera informacije o naknadama i drugim pojedinostima.</string>
+    <string name="wifi_calling_suggestion_title">Uključivanje WiFi poziva</string>
+</resources>

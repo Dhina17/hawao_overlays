@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"データ使用量が指定の上限値に達したため、モバイルデータがOFFになりました。
+
+モバイルデータをONに戻すと、通信会社からデータ使用料を課金される場合があります。"</string>
+    <string name="data_usage_disabled_dialog_mobile_title">モバイルデータはOFFになりました。</string>
+    <string name="mobile_data_disable_title">モバイルデータ</string>
+</resources>

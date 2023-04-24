@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">ความช่วยเหลือ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"แตะเซ็นเซอร์ลายนิ้วมือเพื่อปลดล็อกโทรศัพท์ อนุมัติการซื้อ หรือลงชื่อเข้าใช้แอป 
+
+หมายเหตุ: ลายนิ้วมืออาจมีความปลอดภัยน้อยกว่ารูปแบบหรือ PIN ที่เดายาก"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ปลดล็อกด้วยลายนิ้วมือ</string>
+    <string name="sound_settings">เสียงและการสั่น</string>
+</resources>

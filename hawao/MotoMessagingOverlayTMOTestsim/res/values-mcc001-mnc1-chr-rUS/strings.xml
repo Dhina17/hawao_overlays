@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">ᎤᎵᏱᎸᏛ SMS/MMS ᏕᎦᎧᎲᎢ</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">"ᏫᏓᏤᏢ ᎠᏛᏅᎢᏍᏔᏅ "</string>
+    <string name="image_resize_original">ᎢᎬᏱ ᏂᏓᏳᏓᎴᏅᎢ</string>
+    <string name="item1">ᏗᏟᏃᎮᏙᏗ ᎤᏠᏯᏍᏗ%s ᏰᎵᏊ ᎨᏒ ᎧᏁᏉᏓ ᎾᎢ ᎪᏢᏗ ᎤᎾᏓᏡᎬᎢ.</string>
+    <string name="item2">ᏣᏤᎵ ᎤᎾᏓᏡᎬᎢ ᏙᏣ ᎢᏳᏍᏗᏊ ᎨᏒᎢ ᏣᏚᎵᏍᎬᎢ!</string>
+    <string name="item3">ᎠᎯᏗᎨᎢ ᎧᏁᏉᏍᏗ ᎠᎴᏃ ᎦᎧᎯᏍᏓ ᎤᎾᏓᏡᎬ ᎠᏁᎳ.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">ᎠᏠᏯᏍᏛᎢ ᎪᏪᎵ ᎢᎩᏓ ᎠᏓᏕᏯᏔᎲᏍᎩ</string>
+    <string name="plus_n">%1$d ᎤᏥ ᎢᎦᎢ</string>
+    <string name="plus_one">1 ᎤC ᎢᎦᎢ</string>
+    <string name="welcome_rcs_msging_text">ᏂᎦᏛᏉ ᎣᎩᏁᏉᎥᎢ ᎢᏤ ᏗᎦᏎᏍᏙᏗᎢ!</string>
+    <string name="welcome_rcs_msging_title">"ᎤᎾᏓᏡᎬ ᏓᎾᏓᏙᏪᎳᏁᎲᎢ "</string>
+</resources>

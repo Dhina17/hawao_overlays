@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Naabot mo na ang data usage sa pinili mong limit, kaya ang mobile data ay naka-off na. 
+
+Kapag ibinalik mo sa on ang iyong mobile data, maaari kang singilin sa paggamit ng data ng iyong carrier."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Naka-off na ngayon ang mobile data.</string>
+    <string name="mobile_data_disable_title">Mobile data</string>
+</resources>

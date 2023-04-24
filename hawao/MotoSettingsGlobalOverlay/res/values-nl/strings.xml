@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Help</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Raak de vingerafdruksensor aan om de telefoon te ontgrendelen, aankopen te bevestigen of bij apps in te loggen. 
+
+Opmerking: je vingerafdruk is mogelijk minder nauwkeurig dan een sterk patroon of pincode."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Ontgrendelen met je vingerafdruk</string>
+    <string name="sound_settings">Geluid en trillen</string>
+</resources>

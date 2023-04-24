@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Du har nådd den angitte grensen for databruk. Derfor er mobildata slått av. 
+
+Hvis du slår på mobildata igjen, kan det hende at operatøren din belaster deg for databruk."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobildata er nå slått av.</string>
+    <string name="mobile_data_disable_title">Mobildata</string>
+</resources>

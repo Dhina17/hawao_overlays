@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">"ᎠᎩᏍᏗ ᎠᏎᏯᏛᏁᏗ ᏏᏅᏓ ᏂᎦᎵᏍᏔᏂᏒ ᏗᏓᎪᎵᏰᏍᎩ ᎾᏍᎩᎾ ᏄᎾᏰᎯᏍᏛᎾ ᎤᏟᏍᏗ ᎠᏓᏃᏎᎯ ᏂᏕᎬᏅᎩ "</string>
+    <string name="enable_cmas_test_alerts_title">ᎠᏎᏯᏛᏁᏗ ᏏᏅᏓ ᏂᎦᎵᏍᏔᏂᏒ ᎠᏓᎪᎵᏰᏍᎩ</string>
+    <string name="receive_cmas_in_second_language_summary">"ᎠᎩᏍᏗ ᎤᏟᏍᏓ ᎢᎦᎵᏍᏗᏍᎩ ᎤᏟᏍᏗ ᏗᎧᎬᏎᎯ ᎾᏍᎩ ᏍᏆᏂ ᎬᏗ ᎾᎯᏳ ᏱᏂᎦᎳᏍᏗᎢ "</string>
+    <string name="receive_cmas_in_second_language_title">ᏍᏆᏂ</string>
+</resources>

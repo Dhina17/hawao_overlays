@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Tulong</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Pindutin ang sensor para sa fingerprint para nma-unlock ang iyong telepono, payagan ang mga pagbili, o mag-sign in sa mga app. 
+
+Tandaan: Maaaring hindi masyadong ligtas ang iyong fingerprint kaysa sa isang malakas na pattern o PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">I-unlock gamit ang iyong fingerprint</string>
+    <string name="sound_settings">Tunog at pag-vibrate</string>
+</resources>

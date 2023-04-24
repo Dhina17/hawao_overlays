@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Включите адаптивную батарею</string>
+    <string name="battery_tip_smart_battery_summary">Включите адаптивную батарею</string>
+    <string name="smart_battery_footer">"Эта функция ограничивает расход заряда батареи на редко используемые приложения. Телефон со временем обучится тому, как вы используете приложения.
+
+Уведомления от этих приложений могут приходить с запозданием."</string>
+    <string name="smart_battery_manager_title">Адаптивная батарея</string>
+    <string name="smart_battery_title">Использовать адаптивную батарею</string>
+</resources>

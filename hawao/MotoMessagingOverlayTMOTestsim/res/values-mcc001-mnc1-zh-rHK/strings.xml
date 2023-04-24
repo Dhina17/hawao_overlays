@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">進階 SMS/多媒體訊息設定</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">最佳可用</string>
+    <string name="image_resize_original">原始</string>
+    <string name="item1">可以新增具有%s的聯絡人來組成群組。</string>
+    <string name="item2">您可以隨意為群組命名！</string>
+    <string name="item3">輕鬆新增或移除群組成員。</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">附件大小警告</string>
+    <string name="plus_n">另外 %1$d 位</string>
+    <string name="plus_one">另外 1 位</string>
+    <string name="welcome_rcs_msging_text">我們新增了更多功能！</string>
+    <string name="welcome_rcs_msging_title">群組訊息</string>
+</resources>

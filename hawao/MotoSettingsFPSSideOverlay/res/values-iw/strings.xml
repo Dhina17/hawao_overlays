@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">כדי לבדוק הודעות יש להחליק כלפי מטה בחיישן טביעות האצבע שבחלק הצדדי של הטלפון.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">אתר את החיישן במקש ההפעלה שבצד המכשיר. עליך לגעת כמה פעמים כדי שטביעת האצבע שלך תתועד. גע בעדינות כדי להימנע מלחיצה על מקש ההפעלה.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">הנח את אותה האצבע על חיישן טביעות האצבע והרם אותה לאחר שתחוש את הרטט.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">גע בחיישן באצבע והסר אותה כשתחוש ברטט. גע בעדינות כדי להימנע מלחיצה על מקש ההפעלה.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">גע בחיישן שבצד ימין של המכשיר</string>
+</resources>

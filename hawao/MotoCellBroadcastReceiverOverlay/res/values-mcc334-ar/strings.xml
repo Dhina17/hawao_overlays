@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">تنبيه طوارئ - رسالة محاكاة</string>
+    <string name="cmas_extreme_alert">تنبيه طوارئ</string>
+    <string name="cmas_extreme_immediate_likely_alert">تنبيه طوارئ</string>
+    <string name="cmas_extreme_immediate_observed_alert">تنبيه طوارئ</string>
+    <string name="cmas_presidential_level_alert">تنبيه طوارئ</string>
+    <string name="cmas_required_monthly_test">تنبيه طوارئ - رسالة اختبار</string>
+    <string name="cmas_severe_alert">تنبيه طوارئ</string>
+    <string name="pws_other_message_identifiers">تنبيه طوارئ</string>
+</resources>

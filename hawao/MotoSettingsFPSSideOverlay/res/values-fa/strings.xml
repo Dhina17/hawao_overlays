@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">برای بررسی اعلان‌ها، انگشت را روی حسگر اثر انگشت در کنار تلفن به پایین بکشید.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">حسگر روی کلید روشن/خاموش را در کنار دستگاه پیدا کنید. باید آن را چند مرتبه لمس کنید تا اثر انگشتتان ثبت شود. آرام حسگر را لمس کنید تا کلید روشن/خاموش فشار داده نشود.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">همان انگشت را روی حسگر اثر انگشت قرار دهید، پس از اینکه لرزش را حس کردید، انگشتتان را بردارید.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">حسگر را با انگشت خود لمس کرده و بعد از حس لرزش، انگشت را بردارید. آرام حسگر را لمس کنید تا کلید روشن/خاموش فشار داده نشود.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">حسگر سمت راست دستگاه را لمس کنید</string>
+</resources>

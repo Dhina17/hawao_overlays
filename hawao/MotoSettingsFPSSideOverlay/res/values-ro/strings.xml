@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Pentru a verifica notificările dvs., glisaţi rapid în jos pe senzorul de amprentă de pe partea laterală a telefonului.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Localizați senzorul pe butonul de pornire de pe partea laterală a dispozitivului. Va trebui să îl atingeți de câteva ori pentru a vă înregistra amprenta. Atingeți încet, fără să apăsați butonul de pornire.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Puneți același deget pe senzorul de amprentă și ridicați-l după ce simțiți o vibrație.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Atingeți senzorul cu degetul și ridicați-l după ce simțiți o vibrație. Atingeți încet, fără să apăsați butonul de pornire.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Atingeţi senzorul din partea dreaptă a dispozitivului</string>
+</resources>

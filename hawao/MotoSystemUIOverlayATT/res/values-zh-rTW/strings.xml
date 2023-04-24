@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+除非使用 Wi-Fi，否則您將無法使用包括 AT&amp;T 視訊通話在內的任何需要網際網路連線之應用程式或服務。"</string>
+    <string name="mobile_data_disable_title">要關閉行動數據嗎?</string>
+</resources>

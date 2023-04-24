@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">ᎾᎿᎢ ᎪᏪᎶᏗ ᏂᏨᏅᎢ ᏗᎾᏓᏃᏣᎳᏁᎯ, ᎦᎶᎯᏍᏗᏍᎩ ᎡᎳᏗᏟ ᎤᎾᎢ ᎦᏰᏌᏛᎢᏅᏙᏪᎸᎢ ᎠᏩᏘᏍᎩ ᎤᎾᎢ ᎠᏍᏆᎨᏂ ᎥᎿᎢ ᏂᏨᏅᎢ ᏗᏟᏃᎮᏗ.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">ᎯᏩᏛᏗ ᎠᏩᏘᏍᎩ ᎤᎾᎢ ᎤᏟᏂᎩᏓ ᎠᏍᏚᎢᏍᏗ ᎤᎾᎢ ᎠᏍᏆᎨᏂ ᎥᎿᎢ ᏂᏨᏅᎢ ᏥᏂᎬᏅᏗᏓᎾ. ᏂᎯᏊᏃ ᎤᏚᎸᏓ ᎾᎿᎢ ᎠᏒᏂᏍᏗ ᎢᎸᏍᎩ ᎢᏳᏩᏗ ᎾᎿᎢ ᏕᎦᏅᏅᏛᎢ ᏂᏨᏅᎢ ᎦᏰᏌᏛᎢᏅᏙᏪᎸᎢ. ᎠᏒᏂᏍᏗ ᏧᏓᎴᏅᏓ ᎾᎿᎢ ᏗᏓᏅᏗᏍᏙᏗ ᎠᏐᎥᏍᏗᏍᎬ ᎤᏟᏂᎩᏓ ᎠᏍᏚᎢᏍᏗ.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">ᏫᎲᎦ ᎤᏠᏱ ᎦᏰᏌᏛ ᎤᎾᎢ ᎦᏰᏌᏛᎢᏅᏙᏪᎸᎢ ᎠᏩᏘᏍᎩ ᎠᏌᎳᏙᏗ ᎪᎯᏴᎢ ᏂᎯ ᎠᏒᎾᏍᏗ ᎠᎵᏖᎸᏗ.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">ᎭᏒᏂᎦ ᎠᏩᏘᏍᎩ ᏣᏰᏌᏛ ᎬᏗ ᎠᎴ ᎯᎲᎦ ᎪᎯᏴᎢ ᎠᎵᏖᎸᏗ ᎭᏕᎶᎰᏍᎬ. ᎭᏒᏂᎦ ᏧᏓᎴᏅᏓ ᎾᎿᎢ ᏗᏓᏅᏗᏍᏙᏗ ᎠᏐᎥᏍᏗᏍᎬ ᎤᏟᏂᎩᏓ ᎠᏍᏚᎢᏍᏗ.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">ᎠᏒᏂᏍᏗ ᎠᏩᏘᏍᎩ ᎤᎾᎢ ᎠᎦᏘᏏ ᎠᏍᏆᎨᏂ ᎥᎿᎢ ᏂᏨᏅᎢ ᏥᏂᎬᏅᏗᏓᎾ</string>
+</resources>

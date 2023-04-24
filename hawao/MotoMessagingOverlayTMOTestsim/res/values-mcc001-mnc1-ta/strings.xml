@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">மேம்பட்ட SMS/MMS அமைப்புகள்</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">கிடைப்பதில் சிறந்தது</string>
+    <string name="image_resize_original">அசல்</string>
+    <string name="item1">குழுவை உருவாக்க, %s உடனான தொடர்புகள் சேர்க்கப்படலாம்.</string>
+    <string name="item2">நீங்கள் விரும்பும் பெயரை உங்கள் குழுவிற்கு பெயரிடுங்கள்!</string>
+    <string name="item3">குழு உறுப்பினர்களை எளிதாக சேர்க்கலாம் அல்லது அகற்றலாம்.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">இணைப்பு அளவு எச்சரிக்கை</string>
+    <string name="plus_n">மேலும் %1$d</string>
+    <string name="plus_one">மேலும் 1</string>
+    <string name="welcome_rcs_msging_text">நாங்கள் புதிய அம்சங்களைச் சேர்த்துள்ளோம்!</string>
+    <string name="welcome_rcs_msging_title">குழு செய்தியிடல்</string>
+</resources>

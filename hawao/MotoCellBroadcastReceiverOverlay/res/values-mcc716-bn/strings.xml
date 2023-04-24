@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">জরুরি সতর্কতা - সিমুলেশন বার্তা</string>
+    <string name="cmas_presidential_level_alert">জরুরী সতর্কতা</string>
+    <string name="cmas_required_monthly_test">জরুরি সতর্কতা - পরীক্ষামূলক বার্তা</string>
+    <string name="pws_other_message_identifiers">জরুরী সতর্কতা</string>
+    <string name="button_dismiss">লুকান</string>
+    <string name="public_safety_message">তথ্য বার্তা</string>
+</resources>

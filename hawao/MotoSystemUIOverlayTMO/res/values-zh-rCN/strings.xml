@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"您达到了指定的流量使用限制，移动数据现已关闭。
+
+如果您再次开启移动数据，运营商将按实际使用流量收费。"</string>
+    <string name="data_usage_disabled_dialog_mobile_title">移动数据现已关闭。</string>
+</resources>

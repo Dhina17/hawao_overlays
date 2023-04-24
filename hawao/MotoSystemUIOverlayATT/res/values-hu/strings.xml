@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Ha a mobiladat funkció ki van kapcsolva, Wi-Fi hálózatra csatlakozás nélkül nem tudja használni az internetet, az e-mail-programját, ill. egyéb olyan alkalmazásokat, amelyeknek adatkapcsolatra van szükségük."</string>
+    <string name="mobile_data_disable_title">Mobiladatok</string>
+</resources>

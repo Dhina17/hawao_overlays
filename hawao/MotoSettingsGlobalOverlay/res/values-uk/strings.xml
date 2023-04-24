@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Довідка</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Торкаючись сканера відбитка пальця, ви можете розблоковувати телефон, підтверджувати платежі або входити в програми. 
+
+Примітка: розблокування відбитком пальця менш надійне, ніж складний графічний ключ або PIN-код."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Розблоковуйте пристрій відбитком пальця</string>
+    <string name="sound_settings">Звук і вібрація</string>
+</resources>

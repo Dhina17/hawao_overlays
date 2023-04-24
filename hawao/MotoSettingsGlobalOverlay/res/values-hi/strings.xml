@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">सहायता</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"अपने फ़ोन को अनलॉक करने, अधिकृत खरीददारी, या ऐप में साइन इन करने के लिए फिंगरप्रिंट सेंसर को स्पर्श करें. 
+
+ध्यान दें: हो सकता है कि आपका फिंगरप्रिंट किसी सशक्त पैटर्न या पिन की तुलना में कम सुरक्षित हो."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">अपने फ़िंगरप्रिंट से अनलॉक करें</string>
+    <string name="sound_settings">आवाज़ और वाइब्रेशन</string>
+</resources>

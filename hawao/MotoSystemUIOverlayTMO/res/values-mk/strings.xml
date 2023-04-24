@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"Мобилните податоци се исклучија бидејќи го достигнавте наведеното ограничување за употреба на податоци. 
+
+Ако повторно ги вклучите мобилните податоци, операторот може да ви ја наплати употребата на податоци."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Мобилните податоци сега се исклучени.</string>
+</resources>

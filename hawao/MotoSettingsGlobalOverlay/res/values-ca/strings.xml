@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Ajuda</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Només cal que toquis el sensor d'empremtes dactilars per desbloquejar el telèfon, autoritzar compres o iniciar la sessió en aplicacions.
+
+Nota: l'ús de l'empremta dactilar pot ser menys segur que utilitzar un bon patró o PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueig amb empremta</string>
+    <string name="sound_settings">So i vibració</string>
+</resources>

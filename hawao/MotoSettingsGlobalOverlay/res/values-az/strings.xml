@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Yardım</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Telefonu kiliddən açmaq, satınalmalara səlahiyyət vermək və ya proqramlara daxil olmaq üçün barmaq izi sensoruna toxunun. 
+
+Qeyd: Barmaq iziniz güclü model və ya PIN koddan daha az təhlükəsiz ola bilər."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Barmaq iziniz ilə kilidi açın</string>
+    <string name="sound_settings">Səs və vibrasiya</string>
+</resources>

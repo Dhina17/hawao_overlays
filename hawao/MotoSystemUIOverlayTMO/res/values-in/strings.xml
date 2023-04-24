@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"Anda telah mencapai batas penggunaan data yang ditetapkan, jadi data seluler dinonaktifkan. 
+
+Jika mengaktifkannya kembali, Anda dapat dikenai biaya penggunaan data oleh operator."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Data seluler tidak aktif.</string>
+</resources>

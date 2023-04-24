@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tmochat">#ff78ced3</color>
+    <color name="welcome_next_button_color">#ff4abfdf</color>
+    <color name="welcome_next_button_color_pressed">#ff218fb3</color>
+    <color name="welcome_permission_background">#fff4f4f4</color>
+</resources>

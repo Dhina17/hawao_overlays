@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Configurações avançadas de SMS/MMS</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Melhor disponível</string>
+    <string name="image_resize_original">Original</string>
+    <string name="item1">Os contatos com %s podem ser adicionados para criar um grupo.</string>
+    <string name="item2">Dê o nome que quiser ao grupo.</string>
+    <string name="item3">Adicione ou remova membros do grupo com facilidade.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Aviso de tamanho do anexo</string>
+    <string name="plus_n">%1$d mais</string>
+    <string name="plus_one">1 a mais</string>
+    <string name="welcome_rcs_msging_text">Adicionamos novos recursos.</string>
+    <string name="welcome_rcs_msging_title">Mensagem de grupo</string>
+</resources>

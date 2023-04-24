@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">הגדרות SMS/MMS מתקדמות</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">הטוב ביותר שזמין</string>
+    <string name="image_resize_original">מקורי</string>
+    <string name="item1">אפשר להוסיף אנשי קשר עם%s וליצור קבוצה.</string>
+    <string name="item2">תן לקבוצה איזה שם שתרצה!</string>
+    <string name="item3">תוכל להוסיף או להסיר בקלות את חברי הקבוצה.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">אזהרת גודל של קובץ מצורף</string>
+    <string name="plus_n">עוד %1$d</string>
+    <string name="plus_one">עוד 1</string>
+    <string name="welcome_rcs_msging_text">הוספנו תכונות חדשות!</string>
+    <string name="welcome_rcs_msging_title">הודעות לקבוצה</string>
+</resources>

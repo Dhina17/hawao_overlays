@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">အဆင့်မြင့် SMS/MMS ချိန်ညှိချက်များ</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">အကောင်းဆုံးရရှိနိုင်သည်</string>
+    <string name="image_resize_original">မူလ</string>
+    <string name="item1">နှင့်အဆက်အသွယ်များ%s အဖွဲ့တစ်ဖွဲ့စေရန်ထည့်သွင်းနိုင်ပါတယ်။</string>
+    <string name="item2">သင်လိုချင်တာကိုသင်၏အဖွဲ့အမည်ပေးပါ။</string>
+    <string name="item3">အဖွဲ့ ၀ င်များကိုအလွယ်တကူထည့်သွင်း (သို့) ဖယ်ရှားပါ။</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">ပူးတွဲပါအရွယ်အစားသတိပေးချက်</string>
+    <string name="plus_n">%1$d နောက်ထပ်</string>
+    <string name="plus_one">နောက်ထပ် ၁ ခု</string>
+    <string name="welcome_rcs_msging_text">ကျွန်ုပ်တို့သည်အင်္ဂါရပ်အသစ်များကိုထပ်မံထည့်သွင်းပြီးပြီ။</string>
+    <string name="welcome_rcs_msging_title">အုပ်စုလိုက်မက်ဆေ့ခ်ျပို့ခြင်း</string>
+</resources>

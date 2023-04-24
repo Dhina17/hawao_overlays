@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">ជំនួយ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"ចុចឧបករណ៍ចាប់សញ្ញាស្នាមម្រាមដៃ ដើម្បីដោះសោទូរសព្ទរបស់អ្នក អនុញ្ញាតការទិញ ឬចូលកម្មវិធី។ 
+
+ចំណាំ៖ ស្នាមម្រាមដៃរបស់អ្នកអាចមានសុវត្ថិភាពតិចជាងគំរូ ឬកូដ PIN ដ៏រឹងមាំមួយ។"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ដោះសោដោយប្រើស្នាមម្រាមដៃរបស់អ្នក</string>
+    <string name="sound_settings">សំឡេង និងការញ័រ</string>
+</resources>

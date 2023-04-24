@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">ដើម្បីពិនិត្យមើលការជូនដំណឹង សូមអូសចុះក្រោមលើឧបករណ៍ចាប់ស្នាមម្រាមដៃនៅចំហៀងទូរសព្ទរបស់អ្នក។</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">រកមើលឧបករណ៍ចាប់សញ្ញានៅលើគ្រាប់ចុចបិទបើកនៅផ្នែកចំហៀងនៃឧបករណ៍របស់អ្នក។ អ្នកនឹងត្រូវប៉ះច្រើនដង ដើម្បីថតស្នាមម្រាមដៃរបស់អ្នក។ ប៉ះថ្នមៗដើម្បីជៀសវាងការចុចលើគ្រាប់ចុចបិទបើក។</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">ដាក់ម្រាមដៃដដែល​លើ​អង្គញាណក្រយៅដៃ រួចហើយ​លើក​ម្រាម​ដៃ​បន្ទាប់​ពីមាន​រំញ័រ។</string>
+    <string name="security_settings_fingerprint_enroll_start_message">ប៉ះឧបករណ៍ចាប់សញ្ញាដោយប្រើម្រាមដៃរបស់អ្នក និងដកម្រាមដៃចេញបន្ទាប់ពីអ្នកមានអារមណ្ម៍ថាញ័រ។ ប៉ះថ្នមៗដើម្បីជៀសវាងការចុចលើគ្រាប់ចុចបិទ/បើក។</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">ប៉ះឧបករណ៍ចាប់សញ្ញានៅផ្នែកខាងស្តាំនៃឧបករណ៍របស់អ្នក</string>
+</resources>

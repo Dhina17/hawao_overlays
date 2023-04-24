@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"ඔබ ඔබගේ නිශ්චිත දත්ත භාවිත සීමාවට ළඟා වී ඇති බැවින් ජංගම දත්ත ක්‍රියා විරහිත කර තිබේ. 
+
+ ඔබ ආපසු ජංගම දත්ත ක්‍රියාත්මක කළහොත්, ඔබගේ වාහක විසින් ඇතැම් විට දත්ත භාවිතය සඳහා ඔබගෙන් අය කළ හැකිය."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">ජංගම දත්ත දැන් ක්‍රියා විරහිතයි.</string>
+</resources>

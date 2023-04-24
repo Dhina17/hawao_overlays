@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">प्रगत SMS/MMS सेटिंग्‍ज</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">सर्वोत्तम उपलब्ध</string>
+    <string name="image_resize_original">मूळ</string>
+    <string name="item1">समूह तयार करण्‍यासाठी %s सह संपर्क जोडता येऊ शकतात.</string>
+    <string name="item2">आपल्‍याला हवे ते आपल्‍या समुहाला नाव द्या!</string>
+    <string name="item3">समूह सदस्‍य सहजतेने जोडा किंवा काढून टाका.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">अटॅचमेंट आकार चेतावणी</string>
+    <string name="plus_n">%1$d अधिक</string>
+    <string name="plus_one">1 अधिक</string>
+    <string name="welcome_rcs_msging_text">आम्‍ही नवीन वैशिष्‍ट्ये जोडली आहेत!</string>
+    <string name="welcome_rcs_msging_title">समूह संदेश</string>
+</resources>

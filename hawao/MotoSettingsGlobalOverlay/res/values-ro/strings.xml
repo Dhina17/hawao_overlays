@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Ajutor</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Atingeți senzorul de amprentă digitală pentru a debloca telefonul, pentru a autoriza achiziții sau pentru a vă conecta la aplicații. 
+
+Notă: Amprenta dvs. poate fi mai puțin sigură decât un model puternic sau decât un cod PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Deblocați folosind amprenta</string>
+    <string name="sound_settings">Sunete și vibrații</string>
+</resources>

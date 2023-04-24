@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Помоћ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Додирните сензор отиска прста да бисте откључали телефон, ауторизовали куповине или се пријављивали у апликације. 
+
+Напомена: Коришћење отиска прста може да буде мање безбедно од сложеног шаблона или PIN кода."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Откључајте помоћу отиска прста</string>
+    <string name="sound_settings">Звук и вибрација</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="reset_area_info_on_oos">true</bool>
+</resources>

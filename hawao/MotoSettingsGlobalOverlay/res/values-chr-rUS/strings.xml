@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">ᎠᎵᏍᏕᎸᏓ</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"ᎬᏔᏂᏓᏍᏗ ᏂᏨᎤᎢ ᎧᏁᏉᏍᏗᏍᎬ ᎾᎿᎢ ᎠᏂᏐᎭᎾᎳᎩ ᏂᏨᎤᎢ ᏗᏟᏃᎮᏗ, ᎠᎵᏍᎪᏟᏙᏗᎢ ᏗᏩᎯᏍᏗ, ᎠᎵ ᏚᏙᎥ ᎪᏪᎶᏗ ᎾᎿᎢ ᏗᎬᏙᏗ. 
+
+ᏂᏨᎤᎢ ᎦᏰᏌᏛᎢᏅᏙᏪᎸᎢ ᎡᎵᏊ ᎦᏲᎵᎨ ᏄᎾᏰᎯᏍᏛᎾᏉ ᎡᏍᎦᏉ Ꭰ ᎤᎱᏍᏘ ᎤᎾᎶᎢᏓ ᎠᎴ PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">ᎠᏂᏐᎭᎾᎳᎩ ᏄᏐᏯᏍᏛᎾ ᎬᏗᎭ ᏣᏰᏌᏛᎢ ᏅᏙᏪᎸᎢ</string>
+    <string name="sound_settings">ᎤᏃᏴᎬ ᎠᎴ ᎠᎵᏖᎸᎲᏍᎦ</string>
+</resources>

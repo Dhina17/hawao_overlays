@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_double_press_power_launchable_apps_list">
+        <item>intent:#Intent;action=android.intent.action.ASSIST;end</item>
+    </string-array>
+</resources>

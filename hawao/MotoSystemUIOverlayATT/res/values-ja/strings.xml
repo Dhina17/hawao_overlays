@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+モバイルデータがOFFの場合、Wi-Fiを使用しないかぎりインターネット、メール、またはデータ接続を必要とするその他のアプリを使用できません。"</string>
+    <string name="mobile_data_disable_title">モバイルデータ</string>
+</resources>

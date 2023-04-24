@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Adaptive Batteryをオンにする</string>
+    <string name="battery_tip_smart_battery_summary">Adaptive BatteryをONにする</string>
+    <string name="smart_battery_footer">"電池寿命を延ばすため、Adaptive Batteryでは頻繁に使用されないアプリの電池使用量を制限します。時間が経つと電話はアプリの使用方法を学習します。
+
+制限されたアプリの通知は遅延する可能性があります。"</string>
+    <string name="smart_battery_manager_title">Adaptive Battery</string>
+    <string name="smart_battery_title">Adaptive Batteryの使用</string>
+</resources>

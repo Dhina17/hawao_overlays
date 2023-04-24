@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Volanie WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Režim volania WLAN</string>
+    <string name="wifi_calling_off_explanation">Ak je zapnuté volanie WLAN, váš telefón môže smerovať volania cez siete Wi‑Fi alebo cez sieť vášho operátora. Závisí to od vašich nastavení a od toho, ktorý signál je silnejší. Pred zapnutím tejto funkcie kontaktujte svojho operátora a informujte sa o poplatkoch a ďalších podrobnostiach.</string>
+    <string name="wifi_calling_suggestion_title">Zapnúť volanie WLAN</string>
+</resources>

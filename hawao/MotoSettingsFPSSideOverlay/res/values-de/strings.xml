@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Wischen Sie an der Seite des Smartphones über den Fingerabdrucksensor nach unten, um Benachrichtigungen zu lesen.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Suchen Sie den Sensor auf der Ein-/Austaste an der Seite Ihres Geräts. Sie müssen ihn mehrmals berühren, um Ihren Fingerabdruck zu speichern. Üben Sie nicht zu viel Druck aus, um nicht die Ein-/Austaste zu betätigen.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Halten Sie den gleichen Finger auf den Fingerabdrucksensor, bis Sie ein leichtes Vibrieren spüren.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Berühren Sie den Sensor mit dem Finger und nehmen Sie den Finger weg, nachdem das Gerät vibriert hat. Gehen Sie vorsichtig vor, um nicht die Ein-/Austaste zu betätigen.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Berühren Sie den Sensor auf der rechten Seite des Geräts</string>
+</resources>

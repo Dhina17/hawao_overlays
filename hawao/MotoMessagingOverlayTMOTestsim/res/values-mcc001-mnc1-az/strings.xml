@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Qabaqcıl SMS/MMS parametrlər</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Ən yaxşısı mövcuddur</string>
+    <string name="image_resize_original">Orijinal</string>
+    <string name="item1">İlə əlaqə%s bir qrup etmək üçün əlavə edilə bilər.</string>
+    <string name="item2">Qrupunuza istədiyiniz hər hansı bir ad verin!</string>
+    <string name="item3">Qrup üzvlərini asanlıqla əlavə edin və ya silin.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Qoşma ölçüsü xəbərdarlığı</string>
+    <string name="plus_n">%1$d daha çox</string>
+    <string name="plus_one">1 daha</string>
+    <string name="welcome_rcs_msging_text">Yeni xüsusiyyətlər əlavə etdik!</string>
+    <string name="welcome_rcs_msging_title">Qrup Mesajlaşma</string>
+</resources>

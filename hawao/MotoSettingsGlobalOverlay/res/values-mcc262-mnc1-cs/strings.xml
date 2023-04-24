@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Wi-Fi volání</string>
+    <string name="wifi_calling_mode_dialog_title">Režim Wi-Fi volání</string>
+    <string name="wifi_calling_off_explanation">Pokud je Wi-Fi volání zapnuto, váš telefon může přesměrovat hovory přes sítě Wi-Fi nebo síť vašeho operátora podle vašich předvoleb a toho, který signál je silnější. Než tuto funkci zapnete, informujte se u svého operátora o poplatcích a dalších podrobnostech.</string>
+    <string name="wifi_calling_suggestion_title">Zapnout Wi-Fi volání</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Wi-Fi 通話</string>
+    <string name="wifi_calling_mode_dialog_title">Wi-Fi 通話模式</string>
+    <string name="wifi_calling_off_explanation">開啟 Wi-Fi 通話功能之後，手機可依據您的偏好設定，透過 Wi-Fi 網路或您電信業者的網路來決定通話路徑 (視何者訊號較強)。開啟這項功能前，請向您的電信業者詢問費用與其他細節。</string>
+    <string name="wifi_calling_suggestion_title">開啟 Wi-Fi 通話</string>
+</resources>

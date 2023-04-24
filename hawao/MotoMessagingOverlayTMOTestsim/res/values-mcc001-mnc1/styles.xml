@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PromoScreenButtonStyle" parent="@android:style/Widget.DeviceDefault.Button.Borderless">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">roboto-medium</item>
+    </style>
+    <style name="PromoScreenStyle">
+        <item name="android:fontFamily">roboto-regular</item>
+        <item name="android:paddingStart">@dimen/welcome_padding_horizontal</item>
+        <item name="android:paddingEnd">@dimen/welcome_padding_horizontal</item>
+    </style>
+    <style name="PromoScreenStyle.Text" parent="@style/PromoScreenStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">?contrastForegroundColor</item>
+    </style>
+    <style name="PromoScreenStyle.Title" parent="@style/PromoScreenStyle">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">?rcsWelcomeTextColor</item>
+    </style>
+</resources>

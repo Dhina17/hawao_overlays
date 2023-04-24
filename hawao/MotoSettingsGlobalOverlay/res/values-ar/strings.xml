@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">مساعدة</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"المس مستشعر البصمة لإلغاء قفل هاتفك أو تخويل عمليات الشراء أو تسجيل الدخول إلى التطبيقات. 
+
+ملاحظة: قد تكون بصمة إصبعك أقل أمانًا مقارنة بنقش قوي أو رقم تعريف شخصي."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">إلغاء القفل باستخدام بصمة الإصبع</string>
+    <string name="sound_settings">الصوت والاهتزاز</string>
+</resources>

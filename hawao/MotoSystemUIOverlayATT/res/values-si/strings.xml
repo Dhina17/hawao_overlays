@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+ ජංගම දත්ත ක්‍රියාවිරහිත නම්, ඔබ Wi-Fi භාවිතා නොකරන්නේ නම් දත්ත සම්බන්ධතාවයක් අවශ්‍ය අන්තර්ජාලය, ඊමේල් හෝ වෙනත් යෙදුම් භාවිතා කිරීමට ඔබට නොහැකි වනු ඇත."</string>
+    <string name="mobile_data_disable_title">ජංගම දත්ත</string>
+</resources>

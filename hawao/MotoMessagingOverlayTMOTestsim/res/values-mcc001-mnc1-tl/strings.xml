@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Mga advanced na setting ng SMS/MMS</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Pinakamainam na available</string>
+    <string name="image_resize_original">Orihinal</string>
+    <string name="item1">Puwedeng idagdag ang mga contact sa %s para makabuo ng isang grupo.</string>
+    <string name="item2">Pangalanan ang grupo mo, anuman ang gusto mo!</string>
+    <string name="item3">Magdagdag o mag-alis ng mga miyembro ng grupo sa madaling paraan.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Babala sa laki ng attachment</string>
+    <string name="plus_n">%1$d pa</string>
+    <string name="plus_one">1 pa</string>
+    <string name="welcome_rcs_msging_text">Nagdagdag kami ng mga bagong tampok!</string>
+    <string name="welcome_rcs_msging_title">Panggrupong Pagmemensahe</string>
+</resources>

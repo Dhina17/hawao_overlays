@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"Dosáhli jste stanoveného limitu využití dat, a proto byl mobilní přenos dat vypnut. 
+
+Pokud data znovu aktivujete, může vám operátor účtovat poplatky za přenos dat."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobilní přenos dat je nyní vypnutý.</string>
+</resources>

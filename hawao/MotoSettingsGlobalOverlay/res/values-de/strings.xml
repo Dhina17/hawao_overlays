@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Hilfe</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Berühren Sie den Fingerabdrucksensor, um das Telefon zu entsperren, Käufe zu autorisieren oder sich bei Apps anzumelden. 
+
+Hinweis: Ihr Fingerabdruck ist möglicherweise nicht so sicher wie ein starkes Muster oder eine PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Mit dem Fingerabdruck entsperren</string>
+    <string name="sound_settings">Ton &amp; Vibration</string>
+</resources>

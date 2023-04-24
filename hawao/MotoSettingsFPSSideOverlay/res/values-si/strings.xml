@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">ඔබේ දැනුම් දීම් පරීක්ෂා කිරීමට, ඔබේ දුරකථනයේ පැත්තෙහි ඇති ඇඟිලි සලකුණු සංවේදකය මත පහලට ස්වයිප් කරන්න.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">ඔබේ උපාංගයේ පැත්තේ ඇති බල යතුර මත ඇති සංවේදකය සොයා ගන්න. ඔබට ඔබේ ඇඟිලි සලකුණ සටහන් කිරීමට කිහිප විටක් ස්පර්ශ කිරීමට සිදු වනු ඇත. බල යතුර එබීම වැළක්වීමට මෘදුව ස්පර්ශ කරන්න.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">එකම ඇඟිල්ල ඇඟිලි සලකුණු සංවේදකය මත තබා ඔබට කම්පනයක් දැනීමෙන් පසුව එය ඔසවන්න.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">ඔබේ ඇඟිල්ලෙන් සංවේදකය ස්පර්ශ කර ඔබට කම්පනයක් දැනුණු පසු එය ඉවතට ගන්න. බල යතුර එබීම වැළක්වීමට මෘදුව ස්පර්ශ කරන්න.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">ඔබේ උපාංගයෙහි දකුණු පැත්තෙහි ඇති සංවේදකය ස්පර්ශ කරන්න</string>
+</resources>

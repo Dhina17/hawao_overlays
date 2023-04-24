@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Hjelp</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Trykk på fingeravtrykksensoren for å låse opp telefonen, godkjenne kjøp eller logge på apper. 
+
+Merk: Fingeravtrykk kan være mindre sikkert enn et godt mønster eller en god PIN-kode."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Lås opp med fingeravtrykket ditt</string>
+    <string name="sound_settings">Lyd og vibrering</string>
+</resources>

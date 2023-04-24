@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">مكالمة WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">وضع مكالمة WLAN</string>
+    <string name="wifi_calling_off_explanation">عندما تكون مكالمة WLAN قيد التشغيل، يمكن لهاتفك توجيه المكالمات عبر شبكات Wi-Fi أو مشغل شبكة الجوال، بحسب تفضيلاتك والإشارة الأقوى. قبل تشغيل هذه الميزة، راجع مشغل شبكة الجوال بشأن الرسوم والتفاصيل الأخرى.</string>
+    <string name="wifi_calling_suggestion_title">تشغيل مكالمة WLAN</string>
+</resources>

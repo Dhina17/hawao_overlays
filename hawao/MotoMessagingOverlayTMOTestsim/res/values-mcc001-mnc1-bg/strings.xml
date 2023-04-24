@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Разширени настройки за SMS/MMS</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Най-добрите налични</string>
+    <string name="image_resize_original">Оригинал</string>
+    <string name="item1">Могат да се добавят контакти с%s, за да се създаде група.</string>
+    <string name="item2">Именувайте групата си, както пожелаете!</string>
+    <string name="item3">Лесно добавяйте или премахвайте членове на група.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Предупреждение за размера на прикачения файл</string>
+    <string name="plus_n">Още %1$d</string>
+    <string name="plus_one">Още 1</string>
+    <string name="welcome_rcs_msging_text">Добавихме нови функции!</string>
+    <string name="welcome_rcs_msging_title">Групово съобщение</string>
+</resources>

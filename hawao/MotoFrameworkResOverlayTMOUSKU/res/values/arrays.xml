@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carrier_channel_ids_alias">
+        <item>bwaca:Bell</item>
+        <item>retca:Canada Retail</item>
+        <item>tkpca:Telus</item>
+        <item>vzw:Verizon</item>
+        <item>att:AT&amp;T</item>
+        <item>tmo:Universal SKU</item>
+        <item>sprint:Sprint</item>
+        <item>attpre:AT&amp;T Prepaid</item>
+        <item>cricket:Cricket</item>
+        <item>cc:Consumer Cellular</item>
+        <item>usc:U.S. Cellular</item>
+        <item>tracfone:Tracfone</item>
+        <item>retus:North America Retail</item>
+        <item>metropcs:Metro</item>
+        <item>rcica:Rogers</item>
+        <item>wndca:Wind</item>
+        <item>amz:Amazon</item>
+        <item>acg:ACG</item>
+        <item>lra:LRA</item>
+        <item>comcast:Comcast</item>
+        <item>fi:Google Fi</item>
+        <item>vzwpre:Verizon Prepaid</item>
+    </string-array>
+</resources>

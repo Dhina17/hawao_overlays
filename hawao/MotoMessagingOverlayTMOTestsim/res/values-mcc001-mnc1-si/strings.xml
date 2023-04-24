@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">උසස් කෙටි පණිවිඩ/MMS සැකසුම්</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">හොඳම ලබා ගත හැකිය</string>
+    <string name="image_resize_original">මුල්</string>
+    <string name="item1">සමූහයක් සෑදීම සඳහා %s සමග සබඳතා එක් කළ හැක.</string>
+    <string name="item2">ඔබට අවශ්‍ය ඕනෑම දෙයකට ඔබේ සමූහය නම් කරන්න!</string>
+    <string name="item3">සමූහ සාමාජිකයින් පහසුවෙන් එක් කරන්න හෝ ඉවත් කරන්න.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">ඇමුණුම් විශාලත්වයේ අනතුරු ඇඟවීම</string>
+    <string name="plus_n">තව %1$dක්</string>
+    <string name="plus_one">තව 1ක්</string>
+    <string name="welcome_rcs_msging_text">අපි නව විශේෂාංග එක් කර ඇත්තෙමු!</string>
+    <string name="welcome_rcs_msging_title">සමූහ පණිවිඩකරණය</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_usage_disabled_dialog">"Atingiu um limite específico de utilização de dados, pelo que os dados na rede móvel foram desativados. 
+
+Se ativar novamente os dados na rede móvel, incorre em custos pela utilização de dados do seu operador."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Os dados na rede móvel estão agora desativados.</string>
+</resources>

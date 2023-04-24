@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Təhlükəsizlik xəbərdarlığı sistemindən tələb olunan aylıq testləri alın</string>
+    <string name="enable_cmas_test_alerts_title">Lazım olan aylıq test</string>
+    <string name="receive_cmas_in_second_language_summary">Mümkün olduqda İspan dilində təcili xəbərdarlıqlar alın</string>
+    <string name="receive_cmas_in_second_language_title">İspan</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">หากต้องการดูการแจ้งเตือน ให้กวาดนิ้วลงบนเซ็นเซอร์ลายนิ้วมือที่ด้านข้างของโทรศัพท์</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">หาตำแหน่งเซ็นเซอร์บนแป้นเปิด/ปิดที่ด้านข้างของอุปกรณ์ คุณจะต้องแตะหลายครั้งเพื่อบันทึกลายนิ้วมือของคุณ แตะเบาๆ เพื่อหลีกเลี่ยงการกดแป้นเปิด/ปิด</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">วางนิ้วเดิมบนเซ็นเซอร์ลายนิ้วมือแล้วยกนิ้วขึ้นหลังจากที่คุณรู้สึกถึงการสั่น</string>
+    <string name="security_settings_fingerprint_enroll_start_message">แตะเซ็นเซอร์ด้วยนิ้วมือ และยกนิ้วขึ้นเมื่อรู้สึกถึงการสั่น แตะเบาๆ เพื่อหลีกเลี่ยงการกดแป้นเปิด/ปิด</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">แตะเซ็นเซอร์ทางด้านขวาของอุปกรณ์</string>
+</resources>

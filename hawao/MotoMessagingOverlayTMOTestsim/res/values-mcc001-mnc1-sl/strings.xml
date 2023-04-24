@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Napredne nastavitve sporočil SMS/MMS</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Najboljše na voljo</string>
+    <string name="image_resize_original">Izvirnik</string>
+    <string name="item1">Stike z %s lahko dodate, da ustvarite skupino.</string>
+    <string name="item2">Skupino lahko poljubno poimenujete.</string>
+    <string name="item3">Enostavno dodajajte ali odstranjujte člane skupine.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Opozorilo o velikosti priloge</string>
+    <string name="plus_n">Še %1$d</string>
+    <string name="plus_one">Še 1</string>
+    <string name="welcome_rcs_msging_text">Dodali smo nove funkcije!</string>
+    <string name="welcome_rcs_msging_title">Sporočanje v skupini</string>
+</resources>

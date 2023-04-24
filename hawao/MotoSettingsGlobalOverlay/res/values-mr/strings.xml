@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">"मदत "</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"आपला फोन अनलॉक करण्यासाठी, खरेदी अधिकृत करण्‍यासाठी किंवा ॲप्समध्ये साइन इन करण्‍यासाठी फक्त फिंगरप्रिंट सेन्सरला स्पर्श करा. 
+
+ टीप: आपली फिंगरप्रिंट क्लिष्ट पॅटर्न किंवा पिन पेक्षा कमी सुरक्षित असू शकते."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">आपल्या फिंगरप्रिंटद्वारे अनलॉक करा</string>
+    <string name="sound_settings">आवाज आणि कंपन</string>
+</resources>

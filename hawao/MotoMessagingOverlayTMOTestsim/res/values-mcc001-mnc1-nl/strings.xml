@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">Geavanceerde sms-/mms-instellingen</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">Best beschikbare</string>
+    <string name="image_resize_original">Origineel</string>
+    <string name="item1">Contacten met%s kunnen worden toegevoegd om een groep te maken.</string>
+    <string name="item2">Kies zelf een naam voor je groep.</string>
+    <string name="item3">Je kunt groepsleden gemakkelijk toevoegen of verwijderen.</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">Waarschuwing bijlagegrootte</string>
+    <string name="plus_n">Nog %1$d</string>
+    <string name="plus_one">Nog 1</string>
+    <string name="welcome_rcs_msging_text">We hebben een aantal nieuwe functies toegevoegd.</string>
+    <string name="welcome_rcs_msging_title">Groepsberichten</string>
+</resources>

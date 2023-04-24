@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Sie haben das festgelegte Datennutzungslimit erreicht, die Mobilfunkdaten wurden daher deaktiviert.
+
+Wenn Sie die Mobilfunkdaten erneut aktivieren, berechnet Ihr Mobilfunkanbieter unter Umständen zusätzliche Gebühren für die Datennutzung."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobilfunkdaten sind jetzt deaktiviert.</string>
+    <string name="mobile_data_disable_title">Mobilfunkdaten</string>
+</resources>

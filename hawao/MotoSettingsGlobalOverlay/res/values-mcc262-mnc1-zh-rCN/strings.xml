@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN 通话</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN 通话模式</string>
+    <string name="wifi_calling_off_explanation">开启 WLAN 通话功能时，您的手机可以通过 Wi-Fi 网络或您的运营商网络接通通话，具体取决于您的首选项和哪一个信号更强。开启此功能之前，请与您的运营商确认相关资费和其他详细信息。</string>
+    <string name="wifi_calling_suggestion_title">开启 WLAN 通话功能</string>
+</resources>

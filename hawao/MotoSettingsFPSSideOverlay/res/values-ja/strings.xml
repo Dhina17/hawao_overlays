@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">通知を確認するには、電話の側面にある指紋センサーを下にスワイプします。</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">デバイスの側面にある電源キーのセンサーの場所を見つけます。指紋を登録するには数回タップする必要があります。電源キーを押さないようにそっとタップします。</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">同じ指を指紋センサーに当て、振動したら指を離してください。</string>
+    <string name="security_settings_fingerprint_enroll_start_message">指でセンサーに触れて、振動を感じたら指を離します。電源キーを押さないようにそっとタップします。</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">デバイスの右側にあるセンサーをタップしてください</string>
+</resources>

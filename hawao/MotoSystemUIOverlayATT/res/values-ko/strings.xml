@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Wi-Fi를 사용하지 않으면 인터넷 연결이 필요한 AT&amp;T 화상 통화를 포함한 앱이나 서비스를 사용할 수 없습니다."</string>
+    <string name="mobile_data_disable_title">모바일 데이터를 끄시겠습니까?</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Δεν θα μπορείτε να χρησιμοποιήσετε εφαρμογές ή υπηρεσίες, συμπεριλαμβανομένης της βιντεοκλήσης AT&amp;T, που απαιτούν σύνδεση στο Διαδίκτυο εκτός αν χρησιμοποιείτε Wi-Fi."</string>
+    <string name="mobile_data_disable_title">Απενεργοποίηση δεδομένων κινητής τηλεφωνίας;</string>
+</resources>

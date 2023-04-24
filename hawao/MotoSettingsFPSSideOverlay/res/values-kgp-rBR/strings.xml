@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Ã tỹ ã mỹ kãge ja ven jé, ã nĩjuja tỹ mer ra tỹ jym ké sẽsor tỹ ã nĩgé to jãn fã tỹ terefãnĩ jagtẽ tá nĩ ẽn ki.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Ti sẽsor vỹ mutũ tỹ gru ke/tỹ nhyn ke tỹ vin fã jagtẽ tá nĩg tĩ. Ã vỹ ki vóg tỹ hẽnrikej ge nĩ ã tỹ ã nĩgé to jãn ta ki kãgran jé. Ã tỹ han ka ki ẽmẽm nĩ ã tỹ kri vẽnhgỹ tũg jé.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Ã tỹ ã nĩgé féj tỹ mĩ tĩn ja ẽn hã tỹ kã fẽg nĩ kar kunũnh nĩ ã tỹ ti vo mẽ kar kỹ.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Sẽsor ki vóg kar ã nĩjuja tỹ vym kem nĩ ã tỹ ti tỹ rũm ke mẽ kar. Ã tỹ han ka ki ẽmẽm nĩ ã tỹ ti mutũ tỹ gru ke/tỹ nhyn ke ẽn kri vẽnhgỹ tũg jé.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Sẽsor ki vó ra vin fã ti pãgja tá nĩ ẽn ki.</string>
+</resources>

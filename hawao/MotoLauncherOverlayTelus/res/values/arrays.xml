@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_apps_folders">
+        <item>Google</item>
+        <item>TELUS</item>
+    </string-array>
+    <string-array name="all_apps_folders_components">
+        <item>com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity, com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity, com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity, com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint, com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity, com.google.android.apps.chromecast.app/com.google.android.apps.chromecast.app.DiscoveryActivity, com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity, com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity, com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity, com.google.android.apps.docs.editors.slides/com.google.android.apps.docs.app.NewMainProxyActivity, com.google.android.keep/com.google.android.keep.activities.BrowseActivity, com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity, com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity, com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity, com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity, com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity, com.google.android.apps.nbu.paisa.user/com.google.android.apps.nbu.paisa.user.launcher.LauncherActivity, com.google.android.apps.jam/com.google.android.apps.jam.jelly.home.HomeActivity</item>
+        <item>com.telus.myaccount/com.myaccount.telus.controllers.splash.SplashActivity, com.telus.checkup/com.mce.MainActivity, com.babylon.telushealth/com.babylon.activity.PublicLauncherActivity, com.babylon.telushealth/com.zoontek.rnbootsplash.RNBootSplashActivity, com.alarm.alarmmobile.android.telus/com.alarm.alarmmobile.android.feature.auth.login.LoginActivity</item>
+    </string-array>
+</resources>

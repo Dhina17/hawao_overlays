@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+אם הנתונים לנייד מכובים, לא תוכל להשתמש באינטרנט, בדוא\"ל או ביישומים אחרים המצריכים חיבור נתונים, אלא אם תשתמש ב-Wi-Fi."</string>
+    <string name="mobile_data_disable_title">נתוני נייד</string>
+</resources>

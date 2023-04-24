@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advanced_settings">ការកំណត់ SMS/MMS កម្រិតខ្ពស់</string>
+    <string name="bullet">•</string>
+    <string name="image_resize_best_available">អាចប្រើបានល្អបំផុត</string>
+    <string name="image_resize_original">ដើម</string>
+    <string name="item1">ទំនាក់ទំនងជាមួយ %s អាចត្រូវបានបញ្ចូល ដើម្បីបង្កើតជាក្រុម។</string>
+    <string name="item2">អ្នកចង់ដាក់ឈ្មោះក្រុមរបស់អ្នកអ្វីក៏បាន!</string>
+    <string name="item3">បញ្ចូល និងលុបសមាជិកក្រុមយ៉ាងងាយស្រួល។</string>
+    <string name="item4" />
+    <string name="item5" />
+    <string name="mms_attachment_limit_reached">ការព្រមានអំពីទំហំឯកសារភ្ជាប់</string>
+    <string name="plus_n">%1$d ទៀត</string>
+    <string name="plus_one">1 ទៀត</string>
+    <string name="welcome_rcs_msging_text">យើងបានបញ្ចូលមុខងារថ្មី!</string>
+    <string name="welcome_rcs_msging_title">ការផ្ញើសារជាក្រុម</string>
+</resources>

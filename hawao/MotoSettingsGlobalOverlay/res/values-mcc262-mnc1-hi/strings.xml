@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN कॉल</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN कॉल मोड</string>
+    <string name="wifi_calling_off_explanation">WLAN कॉल चालू होने पर, आपका फ़ोन Wi-Fi नेटवर्क्स या आपके कैरियर के नेटवर्क के ज़रिए कॉल कर सकता है, यह इस बात पर निर्भर करेगा कि कौन सा सिग्नल बेहतर काम कर रहा है. इस सुविधा को चालू करने से पहले, शुल्क और अन्य जानकारी के बारे में अपने कैरियर से बात करें.</string>
+    <string name="wifi_calling_suggestion_title">WLAN कॉल चालू करें</string>
+</resources>

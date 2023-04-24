@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Kablosuz bağlantı kullanmadığınız takdirde, internet bağlantısı gerektiren uygulama veya hizmetleri (AT&amp;T Görüntülü Çağrı dahil) kullanamazsınız."</string>
+    <string name="mobile_data_disable_title">Mobil Veri Kapatılsın Mı?</string>
+</resources>

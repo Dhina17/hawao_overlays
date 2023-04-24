@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Za provjeru obavijesti prijeđite prstom prema dolje po senzoru otiska prsta na bočnoj strani telefona.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Pronađite senzor na tipki za uključivanje/isključivanje s bočne strane uređaja. Potrebno je nekoliko puta dodirnuti da biste registrirali otisak prsta. Nježno dodirnite da ne biste pritisnuli tipku za uključivanje/isključivanje.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Stavite isti prst na senzor otiska prsta i podignite ga kad osjetite vibraciju.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Dodirnite senzor prstom i uklonite ga kad osjetite vibraciju. Nježno dodirnite da ne biste pritisnuli tipku za uključivanje/isključivanje.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Dodirnite senzor na desnoj strani uređaja</string>
+</resources>

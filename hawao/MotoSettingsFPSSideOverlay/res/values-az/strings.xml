@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">Bildirişlərinizi yoxlamaq üçün telefonunuzdakı barmaq izi sensoru üzərində sürüşdürün.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Sensoru cihazınızın yan tərəfindəki güc düyməsinə yerləşdirin. Barmaq izinizi yazmaq üçün bir neçə dəfə toxunmalısınız. Elektrik düyməsini basmamaq üçün yumşaq bir şəkildə vurun.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Eyni barmağı barmaq izi sensoruna qoyun və bir titrəmə hiss etdikdən sonra qaldırın.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Sensoru barmağınızla vurun və bir titrəmə hiss etdikdən sonra çıxarın. Elektrik düyməsini basmamaq üçün yumşaq bir şəkildə vurun.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Cihazınızın sağ tərəfindəki sensoru vurun</string>
+</resources>

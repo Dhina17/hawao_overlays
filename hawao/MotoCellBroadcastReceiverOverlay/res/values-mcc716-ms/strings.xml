@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Isyarat Kecemasan - Mesej Simulasi</string>
+    <string name="cmas_presidential_level_alert">Isyarat kecemasan diperlukan</string>
+    <string name="cmas_required_monthly_test">Isyarat Kecemasan - Mesej Ujian</string>
+    <string name="pws_other_message_identifiers">Isyarat kecemasan diperlukan</string>
+    <string name="button_dismiss">Sembunyi</string>
+    <string name="public_safety_message">Mesej Maklumat</string>
+</resources>

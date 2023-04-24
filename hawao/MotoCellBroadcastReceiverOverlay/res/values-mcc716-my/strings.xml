@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">အရေးပေါ် သတိပေးချက် - သဏ္ဍာန်တူ မက်ဆေ့ချ်</string>
+    <string name="cmas_presidential_level_alert">အရေးပေါ် သတိပေးချက်များ</string>
+    <string name="cmas_required_monthly_test">အရေးပေါ် သတိပေးချက် - စမ်းသပ် မက်ဆေ့ချ်</string>
+    <string name="pws_other_message_identifiers">အရေးပေါ် သတိပေးချက်များ</string>
+    <string name="button_dismiss">ဝှက်ထား</string>
+    <string name="public_safety_message">ပြန်ကြားရေးကို Message</string>
+</resources>

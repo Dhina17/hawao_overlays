@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Bantuan</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Sentuh sensor sidik jari untuk membuka kunci ponsel, mengautorisasi pembelian, atau login ke aplikasi. 
+
+Catatan: Sidik jari Anda mungkin tidak seaman pola atau PIN yang rumit."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Membuka kunci dengan sidik jari</string>
+    <string name="sound_settings">Suara &amp; getaran</string>
+</resources>

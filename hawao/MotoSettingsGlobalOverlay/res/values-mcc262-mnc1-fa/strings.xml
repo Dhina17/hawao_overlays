@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">تماس WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">حالت تماس WLAN</string>
+    <string name="wifi_calling_off_explanation">وقتی تماس WLAN روشن است، تلفن شما می‌تواند از طریق شبکه‌های Wi-Fi یا شبکه مخابراتی شما، بر اساس آنچه ترجیح می‌دهید و اینکه چه سیگنالی قوی‌تر باشد، تماس‌ها را مسیریابی کند. قبل از روشن کردن این ویژگی، هزینه‌ها و اطلاعات دیگر را با شبکه مخابراتی خود بررسی کنید.</string>
+    <string name="wifi_calling_suggestion_title">روشن کردن تماس WLAN</string>
+</resources>

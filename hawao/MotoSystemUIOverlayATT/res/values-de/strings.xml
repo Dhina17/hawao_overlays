@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+Sie können dann keine Apps oder Dienste wie AT&amp;T Video Call verwenden, für die eine Internetverbindung notwendig ist, es sei denn, Sie nutzen WLAN."</string>
+    <string name="mobile_data_disable_title">Mobilfunkdaten deaktivieren?</string>
+</resources>

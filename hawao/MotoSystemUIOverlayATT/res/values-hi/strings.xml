@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_data_disable_message">"
+मोबाइल डेटा बंद होने पर, आप इंटरनेट, ईमेल या डेटा कनेक्शन की आवश्यकता वाले अन्य ऐप तब तक उपयोग नहीं कर पाएंगे, जब तक आप वाई-फ़ाई उपयोग नहीं करते."</string>
+    <string name="mobile_data_disable_title">मोबाइल डेटा</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_swipe_for_notifications_summary">‏‮To‬‏ ‏‮check‬‏ ‏‮your‬‏ ‏‮notifications,‬‏ ‏‮swipe‬‏ ‏‮down‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮sensor‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮side‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮phone.‬‏</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">‏‮Locate‬‏ ‏‮the‬‏ ‏‮sensor‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮power‬‏ ‏‮key‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮side‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮device.‬‏ ‏‮You’ll‬‏ ‏‮need‬‏ ‏‮to‬‏ ‏‮touch‬‏ ‏‮several‬‏ ‏‮times‬‏ ‏‮to‬‏ ‏‮record‬‏ ‏‮your‬‏ ‏‮fingerprint.‬‏ ‏‮Touch‬‏ ‏‮gently‬‏ ‏‮to‬‏ ‏‮avoid‬‏ ‏‮pressing‬‏ ‏‮the‬‏ ‏‮power‬‏ ‏‮key.‬‏</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">‏‮Put‬‏ ‏‮the‬‏ ‏‮same‬‏ ‏‮finger‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮fingerprint‬‏ ‏‮sensor‬‏ ‏‮and‬‏ ‏‮lift‬‏ ‏‮it‬‏ ‏‮after‬‏ ‏‮you‬‏ ‏‮feel‬‏ ‏‮a‬‏ ‏‮vibration.‬‏</string>
+    <string name="security_settings_fingerprint_enroll_start_message">‏‮Touch‬‏ ‏‮the‬‏ ‏‮sensor‬‏ ‏‮with‬‏ ‏‮your‬‏ ‏‮finger‬‏ ‏‮and‬‏ ‏‮remove‬‏ ‏‮it‬‏ ‏‮after‬‏ ‏‮you‬‏ ‏‮feel‬‏ ‏‮a‬‏ ‏‮vibration.‬‏ ‏‮Touch‬‏ ‏‮gently‬‏ ‏‮to‬‏ ‏‮avoid‬‏ ‏‮pressing‬‏ ‏‮the‬‏ ‏‮power‬‏ ‏‮key.‬‏</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">‏‮Touch‬‏ ‏‮the‬‏ ‏‮sensor‬‏ ‏‮on‬‏ ‏‮the‬‏ ‏‮right‬‏ ‏‮side‬‏ ‏‮of‬‏ ‏‮your‬‏ ‏‮device‬‏</string>
+</resources>

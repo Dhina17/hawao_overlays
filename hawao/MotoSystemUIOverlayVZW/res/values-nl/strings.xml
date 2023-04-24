@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Mobiele data is uitgeschakeld, omdat je de opgegeven limiet voor datagebruik hebt bereikt.
+
+Je provider brengt mogelijk kosten in rekening als je mobiele data weer inschakelt."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobiele data is nu uitgeschakeld.</string>
+    <string name="mobile_data_disable_title">Mobiele data</string>
+</resources>

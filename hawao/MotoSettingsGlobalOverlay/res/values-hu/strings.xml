@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_label">Súgó</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Az ujjlenyomat-olvasót megérintve feloldhatja telefonját, vásárlásokat engedélyezhet vagy bejelentkezhet alkalmazásokba. 
+
+Megjegyzés: Az ujjlenyomat bizonyos esetekben kevésbé biztonságos, mint egy erős minta vagy egy PIN-kód."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Feloldás ujjlenyomattal</string>
+    <string name="sound_settings">Hang és rezgés</string>
+</resources>
