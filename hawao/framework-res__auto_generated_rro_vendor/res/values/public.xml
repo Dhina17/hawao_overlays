@@ -11,26 +11,22 @@
     <public type="array" name="config_biometric_sensors" id="0x7f010008" />
     <public type="array" name="config_chargeTimePerLevel" id="0x7f010009" />
     <public type="array" name="config_defaultPinnerServiceFiles" id="0x7f01000a" />
-    <public type="array" name="config_fpErrorVibePattern" id="0x7f01000b" />
-    <public type="array" name="config_keyboardTapVibePattern" id="0x7f01000c" />
-    <public type="array" name="config_lmk_minfreehigh" id="0x7f01000d" />
-    <public type="array" name="config_lmk_minfreelow" id="0x7f01000e" />
-    <public type="array" name="config_longPressVibePattern" id="0x7f01000f" />
-    <public type="array" name="config_mobile_tcp_buffers" id="0x7f010010" />
-    <public type="array" name="config_oemUsbModeOverride" id="0x7f010011" />
-    <public type="array" name="config_screenBrightnessBacklight" id="0x7f010012" />
-    <public type="array" name="config_screenBrightnessNits" id="0x7f010013" />
-    <public type="array" name="config_screenExponentBacklight" id="0x7f010014" />
-    <public type="array" name="config_tether_bluetooth_regexs" id="0x7f010017" />
-    <public type="array" name="config_tether_dhcp_range" id="0x7f010018" />
-    <public type="array" name="config_tether_upstream_types" id="0x7f010019" />
-    <public type="array" name="config_tether_usb_regexs" id="0x7f01001a" />
-    <public type="array" name="config_tether_wifi_regexs" id="0x7f01001b" />
-    <public type="array" name="config_virtualKeyVibePattern" id="0x7f01001c" />
-    <public type="array" name="networkAttributes" id="0x7f01001d" />
-    <public type="array" name="radioAttributes" id="0x7f01001e" />
-    <public type="array" name="config_sms_enabled_locking_shift_tables" id="0x7f010015" />
-    <public type="array" name="config_sms_enabled_single_shift_tables" id="0x7f010016" />
+    <public type="array" name="config_keyboardTapVibePattern" id="0x7f01000b" />
+    <public type="array" name="config_lmk_minfreehigh" id="0x7f01000c" />
+    <public type="array" name="config_lmk_minfreelow" id="0x7f01000d" />
+    <public type="array" name="config_mobile_tcp_buffers" id="0x7f01000e" />
+    <public type="array" name="config_oemUsbModeOverride" id="0x7f01000f" />
+    <public type="array" name="config_screenBrightnessBacklight" id="0x7f010010" />
+    <public type="array" name="config_screenBrightnessNits" id="0x7f010011" />
+    <public type="array" name="config_tether_bluetooth_regexs" id="0x7f010014" />
+    <public type="array" name="config_tether_dhcp_range" id="0x7f010015" />
+    <public type="array" name="config_tether_upstream_types" id="0x7f010016" />
+    <public type="array" name="config_tether_usb_regexs" id="0x7f010017" />
+    <public type="array" name="config_tether_wifi_regexs" id="0x7f010018" />
+    <public type="array" name="networkAttributes" id="0x7f010019" />
+    <public type="array" name="radioAttributes" id="0x7f01001a" />
+    <public type="array" name="config_sms_enabled_locking_shift_tables" id="0x7f010012" />
+    <public type="array" name="config_sms_enabled_single_shift_tables" id="0x7f010013" />
     <public type="bool" name="config_MotoBoostModeEnhanced" id="0x7f020000" />
     <public type="bool" name="config_automatic_brightness_available" id="0x7f020001" />
     <public type="bool" name="config_bluetooth_hfp_inband_ringing_support" id="0x7f020002" />
@@ -71,35 +67,32 @@
     <public type="bool" name="zz_moto_config_enable_side_fps" id="0x7f020026" />
     <public type="bool" name="config_dual_bar" id="0x7f02000a" />
     <public type="color" name="moto_fod_icon_press_color" id="0x7f030000" />
-    <public type="dimen" name="config_power_key_position" id="0x7f040000" />
-    <public type="dimen" name="config_screenBrightnessDimFloat" id="0x7f040001" />
-    <public type="dimen" name="config_screenBrightnessSettingDefaultFloat" id="0x7f040002" />
-    <public type="dimen" name="config_screenBrightnessSettingMinimumFloat" id="0x7f040003" />
-    <public type="dimen" name="rounded_corner_radius_bottom" id="0x7f040004" />
-    <public type="dimen" name="rounded_corner_radius_top" id="0x7f040005" />
-    <public type="dimen" name="status_bar_height" id="0x7f040006" />
-    <public type="dimen" name="status_bar_height_landscape" id="0x7f040007" />
-    <public type="dimen" name="status_bar_height_portrait" id="0x7f040008" />
-    <public type="dimen" name="status_bar_padding_top_portrait" id="0x7f040009" />
+    <public type="color" name="primary_device_default_dark" id="0x7f030001" />
+    <public type="dimen" name="config_screenBrightnessDimFloat" id="0x7f040000" />
+    <public type="dimen" name="config_screenBrightnessSettingDefaultFloat" id="0x7f040001" />
+    <public type="dimen" name="config_screenBrightnessSettingMinimumFloat" id="0x7f040002" />
+    <public type="dimen" name="rounded_corner_radius_bottom" id="0x7f040003" />
+    <public type="dimen" name="rounded_corner_radius_top" id="0x7f040004" />
+    <public type="dimen" name="status_bar_height" id="0x7f040005" />
+    <public type="dimen" name="status_bar_height_landscape" id="0x7f040006" />
+    <public type="dimen" name="status_bar_height_portrait" id="0x7f040007" />
+    <public type="dimen" name="status_bar_padding_top_portrait" id="0x7f040008" />
     <public type="integer" name="config_autoBrightnessBrighteningLightDebounce" id="0x7f050000" />
     <public type="integer" name="config_autoBrightnessDarkeningLightDebounce" id="0x7f050001" />
     <public type="integer" name="config_cameraLaunchGestureSensorType" id="0x7f050002" />
     <public type="integer" name="config_defaultFixedOnPeakRefreshRate" id="0x7f050003" />
-    <public type="integer" name="config_defaultMinRefreshRate" id="0x7f050004" />
-    <public type="integer" name="config_defaultPeakRefreshRate" id="0x7f050005" />
-    <public type="integer" name="config_defaultRefreshRate" id="0x7f050006" />
-    <public type="integer" name="config_exponentDefaultDisplayBrightness" id="0x7f050007" />
-    <public type="integer" name="config_halBacklightLevel" id="0x7f050008" />
-    <public type="integer" name="config_hbmThresholdLux" id="0x7f050009" />
-    <public type="integer" name="config_multiuserMaximumUsers" id="0x7f05000a" />
-    <public type="integer" name="config_power_key_location" id="0x7f05000b" />
-    <public type="integer" name="config_safe_media_volume_bt_index" id="0x7f05000c" />
-    <public type="integer" name="config_safe_media_volume_usb_mB" id="0x7f05000d" />
-    <public type="integer" name="config_screenBrightnessDark" id="0x7f05000e" />
-    <public type="integer" name="config_screenBrightnessDim" id="0x7f05000f" />
-    <public type="integer" name="config_screenBrightnessSettingDefault" id="0x7f050010" />
-    <public type="integer" name="config_screenBrightnessSettingMinimum" id="0x7f050011" />
-    <public type="integer" name="config_volte_replacement_rat" id="0x7f050012" />
+    <public type="integer" name="config_defaultPeakRefreshRate" id="0x7f050004" />
+    <public type="integer" name="config_defaultRefreshRate" id="0x7f050005" />
+    <public type="integer" name="config_extraFreeKbytesAbsolute" id="0x7f050006" />
+    <public type="integer" name="config_hbmThresholdLux" id="0x7f050007" />
+    <public type="integer" name="config_multiuserMaximumUsers" id="0x7f050008" />
+    <public type="integer" name="config_safe_media_volume_bt_index" id="0x7f050009" />
+    <public type="integer" name="config_safe_media_volume_usb_mB" id="0x7f05000a" />
+    <public type="integer" name="config_screenBrightnessDark" id="0x7f05000b" />
+    <public type="integer" name="config_screenBrightnessDim" id="0x7f05000c" />
+    <public type="integer" name="config_screenBrightnessSettingDefault" id="0x7f05000d" />
+    <public type="integer" name="config_screenBrightnessSettingMinimum" id="0x7f05000e" />
+    <public type="integer" name="config_volte_replacement_rat" id="0x7f05000f" />
     <public type="string" name="config_cameraLaunchGestureSensorStringType" id="0x7f060000" />
     <public type="string" name="config_mainBuiltInDisplayCutout" id="0x7f060001" />
     <public type="string" name="config_mms_user_agent" id="0x7f060002" />
