@@ -24,7 +24,7 @@
     <bool name="config_speed_up_audio_on_mt_calls">true</bool>
     <bool name="config_supportAudioSourceUnprocessed">false</bool>
     <bool name="config_supportsCamToggle">true</bool>
-    <bool name="config_supportsRoundedCornersOnWindows">false</bool>
+    <bool name="config_supportsRoundedCornersOnWindows">true</bool>
     <bool name="config_switch_phone_on_voice_reg_state_change">false</bool>
     <bool name="config_unplugTurnsOnScreen">true</bool>
     <bool name="config_wifiDisplaySupportsProtectedBuffers">true</bool>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="config_cameraLaunchGestureSensorStringType">com.motorola.sensor.camera_activate</string>
-    <string name="config_mainBuiltInDisplayCutout">M -34,0 L -34,100 L 34,100 L 34,0 Z</string>
+    <string name="config_mainBuiltInDisplayCutout">M -35,0 L -35,105 L 35,105 L 35,0 Z</string>
     <string name="config_mms_user_agent">Android-Mms/2.0</string>
     <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
     <string name="config_motoAppForecastPackageName">com.motorola.appforecast</string>
