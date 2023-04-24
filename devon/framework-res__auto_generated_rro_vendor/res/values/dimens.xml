@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="config_power_key_position">760.0</item>
+    <item type="dimen" name="config_screenBrightnessDimFloat">0.003937008</item>
+    <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.39763778</item>
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.003937008</item>
+    <dimen name="rounded_corner_radius_bottom">95.0px</dimen>
+    <dimen name="rounded_corner_radius_top">95.0px</dimen>
+    <dimen name="status_bar_height">105.0px</dimen>
+    <dimen name="status_bar_height_landscape">24.0dip</dimen>
+    <dimen name="status_bar_height_portrait">105.0px</dimen>
+    <dimen name="status_bar_padding_top_portrait">16.0px</dimen>
+</resources>
