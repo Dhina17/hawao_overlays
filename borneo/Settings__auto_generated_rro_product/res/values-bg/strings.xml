@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Включване на адаптивна батерия</string>
+    <string name="battery_tip_smart_battery_summary">Включване на Адаптивна батерия</string>
+    <string name="smart_battery_footer">"За да удължи заряда на батерията, Адаптивна батерия ограничава батерията за рядко използваните приложения. С времето телефонът Ви ще научи как използвате приложенията.
+
+Известията може да се забавят за тези приложения."</string>
+    <string name="smart_battery_manager_title">Адаптивна батерия</string>
+    <string name="smart_battery_title">Използване на Адаптивна батерия</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">បើកកម្មវិធីថ្មមានភាពបត់បែន</string>
+    <string name="battery_tip_smart_battery_summary">បើកកម្មវិធីថ្មមានភាពបត់បែន</string>
+    <string name="smart_battery_footer">"ដើម្បីធ្វើឱ្យថ្មប្រើបានយូរ កម្មវិធីថ្មមានភាពបត់បែនដាក់កម្រិតថ្មសម្រាប់កម្មវិធីដែលមិនសូវប្រើ។ ទូរសព្ទរបស់អ្នកនឹងស្វែងយល់ពីរបៀបដែលអ្នកប្រើកម្មវិធីគ្រប់ពេល។
+
+ការជូនដំណឹងអាចត្រូវបានពន្យារពេលសម្រាប់កម្មវិធីទាំងនេះ។"</string>
+    <string name="smart_battery_manager_title">កម្មវិធីថ្មមានភាពបត់បែន</string>
+    <string name="smart_battery_title">ប្រើកម្មវិធីថ្មមានភាពបត់បែន</string>
+</resources>

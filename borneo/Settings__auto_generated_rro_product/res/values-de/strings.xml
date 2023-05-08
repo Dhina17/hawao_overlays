@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Adaptive Akkunutzung einschalten</string>
+    <string name="battery_tip_smart_battery_summary">Adaptive Akkunutzung einschalten</string>
+    <string name="smart_battery_footer">"Die adaptive Akkunutzung beschränkt den Akku für selten verwendet Apps, um die Akkulaufzeit zu verlängern. Das Telefon erlernt mit der Zeit, wie Sie Apps verwenden.
+
+Die Benachrichtigungen dieser Apps sind möglicherweise verzögert."</string>
+    <string name="smart_battery_manager_title">Adaptive Akkunutzung</string>
+    <string name="smart_battery_title">Adaptive Akkunutzung verwenden</string>
+</resources>

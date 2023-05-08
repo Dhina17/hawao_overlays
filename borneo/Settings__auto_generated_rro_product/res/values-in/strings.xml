@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Aktifkan Baterai Adaptif</string>
+    <string name="battery_tip_smart_battery_summary">Aktifkan Baterai Adaptif</string>
+    <string name="smart_battery_footer">"Untuk memperpanjang masa pakai baterai, Baterai Adaptif akan membatasi baterai untuk aplikasi yang jarang digunakan. Ponsel Anda akan mempelajari cara Anda menggunakan aplikasi dari waktu ke waktu.
+
+Pemberitahuan mungkin ditunda untuk aplikasi ini."</string>
+    <string name="smart_battery_manager_title">Baterai Adaptif</string>
+    <string name="smart_battery_title">Menggunakan Baterai Adaptif</string>
+</resources>

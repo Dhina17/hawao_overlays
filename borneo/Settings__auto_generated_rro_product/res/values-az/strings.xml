@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Adaptiv Batareyanı yandırın</string>
+    <string name="battery_tip_smart_battery_summary">Adaptiv Batareyanı yandırın</string>
+    <string name="smart_battery_footer">"Batareyanın ömrünü uzatmaq üçün Adaptive Batareya, nadir hallarda istifadə olunan tətbiqlər üçün batareyanı məhdudlaşdırır. Telefonunuz zamanla tətbiqləri necə istifadə etdiyinizi öyrənəcəkdir.
+
+Bu tətbiqlər üçün bildirişlər təxirə salına bilər."</string>
+    <string name="smart_battery_manager_title">Adaptiv Batareya</string>
+    <string name="smart_battery_title">Adaptiv Batareya istifadə edin</string>
+</resources>

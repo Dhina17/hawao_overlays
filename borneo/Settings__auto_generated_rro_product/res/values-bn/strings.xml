@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">উপযোগী ব্যাটারি চালু করুন</string>
+    <string name="battery_tip_smart_battery_summary">উপযোগী ব্যাটারি চালু করুন</string>
+    <string name="smart_battery_footer">"ব্যাটারির আয়ু বাড়ানোর জন্য, উপযোগী ব্যাটারি প্রায়শই ব্যবহৃত অ্যাপগুলোর জন্য ব্যাটারিকে সীমিত করে। আপনি সময়ের সাথে সাথে কীভাবে অ্যাপ ব্যবহার করেন তা আপনার ফোন জানতে পারবে।এই অ্যাপগুলোর জন্য 
+
+এর বিজ্ঞপ্তি বিলম্ব হতে পারে।"</string>
+    <string name="smart_battery_manager_title">উপযোগী ব্যাটারি</string>
+    <string name="smart_battery_title">উপযোগী ব্যাটারি ব্যবহার করুন</string>
+</resources>

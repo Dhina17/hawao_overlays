@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_height">76.0px</dimen>
+    <dimen name="status_bar_height_landscape">24.0dip</dimen>
+    <dimen name="status_bar_height_portrait">76.0px</dimen>
+    <dimen name="zz_moto_status_bar_padding_top">12.0px</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Activar Batería automática</string>
+    <string name="battery_tip_smart_battery_summary">Activar Batería automática</string>
+    <string name="smart_battery_footer">"A fin de aumentar la duración de la batería, Batería automática limita el uso de batería de las aplicaciones que no se usan frecuentemente. El teléfono aprenderá la forma en que usas las aplicaciones con el tiempo.
+
+Puede que las notificaciones de estas aplicaciones se reciban con retraso."</string>
+    <string name="smart_battery_manager_title">Batería automática</string>
+    <string name="smart_battery_title">Usar Batería automática</string>
+</resources>

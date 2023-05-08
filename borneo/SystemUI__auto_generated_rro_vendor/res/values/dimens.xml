@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="global_actions_top_padding">459.0px</dimen>
+    <item type="dimen" name="qs_detail_margin_top">@android:dimen/progress_bar_size_small</item>
+    <dimen name="real_rounded_corner_radius">55.0px</dimen>
+    <dimen name="rounded_corner_content_padding">4.0px</dimen>
+    <item type="dimen" name="status_bar_header_height_keyguard">@android:dimen/progress_bar_size_small</item>
+    <dimen name="zz_moto_status_bar_camera_margin_left">87.0px</dimen>
+</resources>

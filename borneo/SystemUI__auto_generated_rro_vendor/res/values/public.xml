@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_force_battery_percentage_outside" id="0x7f010000" />
+    <public type="bool" name="config_inner_percentage_while_display_bigger_default" id="0x7f010001" />
+    <public type="bool" name="zz_moto_config_show_right_side_clock" id="0x7f010002" />
+    <public type="bool" name="zz_moto_hide_cutout_space_in_status_bar" id="0x7f010003" />
+    <public type="dimen" name="global_actions_top_padding" id="0x7f020000" />
+    <public type="dimen" name="qs_detail_margin_top" id="0x7f020001" />
+    <public type="dimen" name="real_rounded_corner_radius" id="0x7f020002" />
+    <public type="dimen" name="rounded_corner_content_padding" id="0x7f020003" />
+    <public type="dimen" name="status_bar_header_height_keyguard" id="0x7f020004" />
+    <public type="dimen" name="zz_moto_status_bar_camera_margin_left" id="0x7f020005" />
+</resources>

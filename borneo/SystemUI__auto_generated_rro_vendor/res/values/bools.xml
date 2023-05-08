@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_force_battery_percentage_outside">true</bool>
+    <bool name="config_inner_percentage_while_display_bigger_default">true</bool>
+    <bool name="zz_moto_config_show_right_side_clock">true</bool>
+    <bool name="zz_moto_hide_cutout_space_in_status_bar">true</bool>
+</resources>

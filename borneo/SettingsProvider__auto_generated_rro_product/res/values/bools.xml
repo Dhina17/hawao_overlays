@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="def_mobile_data_always_on">false</bool>
+    <bool name="def_screen_brightness_automatic_mode">true</bool>
+    <bool name="def_sound_effects_enabled">false</bool>
+</resources>

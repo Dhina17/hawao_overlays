@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_settings_tiles_default">wifi,bt,dnd,flashlight,rotation,battery,cell,airplane,night,screenrecord,custom(com.google.android.gms/.nearby.sharing.SharingTileService)</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Adaptive Battery-ს ჩართვა</string>
+    <string name="battery_tip_smart_battery_summary">Adaptive Battery-ს ჩართვა</string>
+    <string name="smart_battery_footer">"ბატარეის მუშაობის გასახანგრძლივებლად, Adaptive Battery ზღუდავს ბატარეის მოხმარებას იშვიათად გამოყენებული აპების მიერ. თქვენი ტელეფონი დროთა განმავლობაში ისწავლის თქვენ მიერ აპების გამოყენების სპეციფიკა.
+
+ასეთი აპებიდან შეტყობინებები შესაძლოა დაგვიანდეს."</string>
+    <string name="smart_battery_manager_title">Adaptive Battery</string>
+    <string name="smart_battery_title">Adaptive Battery-ს გამოყენება</string>
+</resources>
