@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Пронађите сензор са задње стране телефона. Потребно је да неколико пута додирнете сензор да бисте регистровали отисак прста.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Ставите исти прст на сензор отиска прста и склоните га након што осетите вибрацију.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Ставите прст на сензор отиска прста. Склоните га након што осетите вибрацију.</string>
+</resources>

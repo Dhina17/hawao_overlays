@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Пронајдете го сензорот на задниот дел од телефонот. Ќе треба да го допрете сензорот неколкупати за да го снимите вашиот отпечаток.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Поставете го истиот прст на сензорот за отпечатоци и подигнете го откако ќе почувствувате вибрација.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Поставете го прстот на сензорот за отпечатоци. Подигнете го прстот откако ќе почувствувате вибрација.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">‏5GUW</string>
+    <string name="data_usage_disabled_dialog">"شما به حد مجاز مصرف اینترنت همراه خود رسیده‌اید، بنابراین اینترنت همراه خاموش می‌شود.
+
+اگر اینترنت همراه را روشن کنید، ممکن است برای مصرف اینترنت همراه توسط شبکه مخابراتی خود شارژ شوید."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">اینترنت همراه خاموش است.</string>
+</resources>

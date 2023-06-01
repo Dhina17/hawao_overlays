@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonunuzun arkasındaki sensörü bulun. Parmak izinizi kaydetmek için sensöre birkaç kez dokunmanız gerekir.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Aynı parmağı parmak izi sensörüne koyun ve titreşim hissettikten sonra kaldırın.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Parmağınızı parmak izi sensörünün üzerine koyun. Bir titreşim hissettikten sonra kaldırın.</string>
+</resources>

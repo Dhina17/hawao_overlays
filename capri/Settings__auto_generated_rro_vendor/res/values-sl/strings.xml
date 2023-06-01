@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Poiščite senzor na hrbtni strani telefona. Za zabeleženje prstnega odtisa se morate senzorja dotakniti večkrat.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Isti prst postavite na senzor za prstne odtise in ga dvignite, ko začutite vibriranje.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Prst postavite na senzor za prstne odtise. Dvignite ga, ko začutite vibriranje.</string>
+</resources>

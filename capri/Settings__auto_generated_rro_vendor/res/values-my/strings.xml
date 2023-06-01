@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">သင့်ဖုန်း၏နောက်ဘက်ရှိအာရုံခံကိရိယာကိုရှာပါ။ သင်၏လက်ဗွေကိုမှတ်သားရန်အတွက် sensor ကိုအကြိမ်များစွာတို့ထိရလိမ့်မည်။</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">လက်ဗွေအာရုံခံကိရိယာပေါ်မှာတူညီတဲ့လက်ညှိုးကိုထည့်သွင်းခြင်းနှင့်သင်တစ်ဦးတုန်ခါမှုခံစားရပြီးရုတ်သိမ်းပေးရန်။</string>
+    <string name="security_settings_fingerprint_enroll_start_message">လက်ဗွေအာရုံခံကိရိယာပေါ်တွင်သင်၏လက်ချောင်းကိုတင်ထားရမည်။ သင်တုန်ခါမှုခံစားရပြီးနောက်တက်ပါ။</string>
+</resources>

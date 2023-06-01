@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">រកទីតាំង​ឧបករណ៍ចាប់សញ្ញាស្នាមម្រាមដៃនៅ​ខាងក្រោយទូរសព្ទរបស់អ្នក។ អ្នកនឹងត្រូវប៉ះឧបករណ៍ចាប់សញ្ញាជាច្រើនដង ដើម្បីកត់ត្រាស្នាមម្រាមដៃរបស់អ្នក។</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">ដាក់ម្រាមដៃដដែល​លើ​អង្គញាណក្រយៅដៃ រួចហើយ​លើក​ម្រាម​ដៃ​បន្ទាប់​ពីមាន​រំញ័រ។</string>
+    <string name="security_settings_fingerprint_enroll_start_message">ដាក់ម្រាមដៃរបស់​អ្នក​លើ​អង្គញាណក្រយៅដៃ។ លើកម្រាមដៃបន្ទាប់ពី​មាន​រំញ័រ។</string>
+</resources>

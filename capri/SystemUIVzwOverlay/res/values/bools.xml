@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_allow_unavailable_data_saver">true</bool>
+    <bool name="config_cdma_femto_icon_display">true</bool>
+    <bool name="config_differing_icon_for_sim_error">true</bool>
+    <bool name="config_enable_activity_on_wide_statusbar_icons">true</bool>
+    <bool name="config_enable_carrier_custom_activity_on_wide_quicksettings_icons">true</bool>
+    <bool name="config_enable_eri_sounds">true</bool>
+    <bool name="config_enable_oem_5g_api">true</bool>
+    <bool name="config_hide_data_activity_icon_while_5g">true</bool>
+    <bool name="config_hspap_data_distinguishable">true</bool>
+    <bool name="config_show_both_wifi_and_mobile_network">true</bool>
+    <bool name="config_show_separated_bars_in_signal_strength">true</bool>
+    <bool name="config_show_slow_charger_ui">true</bool>
+    <bool name="config_skip_hotspot_transient_animation">true</bool>
+    <bool name="feature_3621_show_data_off_dialog">true</bool>
+    <bool name="show_data_disabled_icon">true</bool>
+    <bool name="zz_moto_config_enable_vzw_rat">true</bool>
+    <bool name="zz_moto_config_show_vzw_signal_icon">true</bool>
+</resources>

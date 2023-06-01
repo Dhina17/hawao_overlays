@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">आपल्या फोनचे मागील सेंसर आपले फिंगरप्रिंट रेकॉर्ड करण्यासाठी आपल्याला बर्‍याच वेळा सेंसरला स्पर्श करण्याची आवश्यकता असेल.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">फिंगरप्रिंट सेंसरवर तेच बोट ठेवा आणि आपल्याला कंपन जाणवल्यानंतर ते उचला.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">आपले बोट फिंगरप्रिंट सेंसरवर ठेवा. आपल्याला कंपन जाणवल्या नंतर उचला.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Localitza el sensor a la part posterior del telèfon. Hauràs de tocar el sensor diverses vegades per registrar la teva empremta.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">"Col·loca el mateix dit al sensor dactilar i aixeca'l després de la vibració."</string>
+    <string name="security_settings_fingerprint_enroll_start_message">"Col·loca el dit al sensor d'empremtes. Aixeca'l després de la vibració."</string>
+</resources>

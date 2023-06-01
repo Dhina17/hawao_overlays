@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Suchen Sie den Sensor auf der Rückseite Ihres Telefons. Sie müssen den Sensor mehrmals berühren, um Ihren Fingerabdruck zu erfassen.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Halten Sie den gleichen Finger auf den Fingerabdrucksensor, bis Sie ein leichtes Vibrieren spüren.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Legen Sie Ihren Finger auf den Fingerabdrucksensor. Heben Sie ihn an, sobald Sie eine Vibration spüren.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">找到手机背面的传感器。您需要多次触摸感应器才能记录指纹。</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">将同一根手指放在指纹传感器上，并在感觉到振动后将手指拿开。</string>
+    <string name="security_settings_fingerprint_enroll_start_message">将您的手指放在指纹传感器上，感觉到振动后移开。</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Zoek de sensor aan de achterkant van je telefoon. Je moet de sensor een paar keer aanraken om je vingerafdruk vast te leggen.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Plaats dezelfde vinger op de vingerafdruksensor en haal deze eraf nadat je een trilling voelt.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Plaats je vinger op de vingerafdruksensor en til deze op zodra je een trilling voelt.</string>
+</resources>

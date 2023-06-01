@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">휴대전화 뒷면의 센서를 찾으십시오. 지문을 기록하려면 센서를 여러 번 터치해야 합니다.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">지문 센서에 같은 손가락을 놓고 진동이 느껴지면 손가락을 뗍니다.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">지문 센서에 손가락을 올려놓은 뒤 진동이 느껴지면 뗍니다.</string>
+</resources>

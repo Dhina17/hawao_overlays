@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">حدد موقع أداة الاستشعار على الجهة الخلفية من هاتفك. ستحتاج إلى لمس أداة الاستشعار عدة مرات لتسجيل بصمة إصبعك.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">ضع الإصبع نفسه على مستشعر البصمة وارفعه عندما تشعر باهتزاز.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">ضع إصبعك على مستشعر البصمة وارفعه بعد الشعور بالاهتزاز.</string>
+</resources>

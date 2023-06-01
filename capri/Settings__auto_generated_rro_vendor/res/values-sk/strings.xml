@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Nájdite snímač na zadnej strane telefónu. Na zaznamenanie vášho odtlačku prsta sa budete musieť niekoľkokrát dotknúť snímača.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Položte ten istý prst na snímač odtlačkov prstov a keď zacítite vibráciu, zdvihnite ho.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Priložte prst na snímač odtlačkov. Keď ucítite vibráciu, zdvihnite ho.</string>
+</resources>

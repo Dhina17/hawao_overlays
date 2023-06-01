@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Temukan lokasi sensor di bagian belakang ponsel Anda. Anda perlu menyentuh sensor beberapa kali untuk merekam sidik jari.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Tempatkan jari yang sama pada sensor sidik jari lalu angkat setelah Anda merasakan getaran.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Letakkan jari pada sensor sidik jari. Angkat setelah Anda merasakan getaran.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">หาเซ็นเซอร์ลายนิ้วมือที่ด้านหลังโทรศัพท์ของคุณ คุณจำเป็นจะต้องสัมผัสเซ็นเซอร์หลายๆ ครั้งเพื่อบันทึกลายนิ้วมือของคุณ</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">วางนิ้วเดิมบนเซ็นเซอร์ลายนิ้วมือแล้วยกนิ้วขึ้นหลังจากที่คุณรู้สึกถึงการสั่น</string>
+    <string name="security_settings_fingerprint_enroll_start_message">วางนิ้วมือบนเซ็นเซอร์ลายนิ้วมือ แล้วยกขึ้นหลังจากที่คุณรู้สึกว่ามีการสั่น</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">"Individua il sensore impronte sulla parte posteriore del telefono. Per registrare l'impronta digitale dovrai toccare più volte il sensore."</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Posiziona lo stesso dito sul sensore impronte e sollevalo dopo aver avvertito una vibrazione.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Appoggia il dito sul sensore impronte e sollevalo quando senti una vibrazione.</string>
+</resources>

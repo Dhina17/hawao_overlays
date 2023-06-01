@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">اپنے فون کے پشت پر سینسر تلاش کریں۔ آپ کو اپنا فنگرپرنٹ ریکارڈ کرنے کے لیے سینسر کو کئی بار چھونا پڑے گا۔</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">اسی انگلی کو فنگر پرنٹ سینسر پر رکھیں اور تھرتھراہٹ محسوس کرنے کے بعد اسے اٹھائیں۔</string>
+    <string name="security_settings_fingerprint_enroll_start_message">اپنی انگلی کو فنگر پرنٹ سینسر پر رکھیں۔ تھرتھراہٹ محسوس کرنے کے بعد اٹھائیں۔</string>
+</resources>

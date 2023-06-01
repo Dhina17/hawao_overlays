@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Hitta den bakre fingeravtryckssensorn. Du måste trycka på sensorn flera gånger för att läsa in fingeravtrycket.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Placera samma finger på fingeravtryckssensorn och ta bort det när du känner en vibration.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Sätt fingret på fingeravtryckssensorn. Lyft fingret när du känner vibrationen.</string>
+</resources>

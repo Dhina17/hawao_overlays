@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Elérte az eszközhöz meghatározott adathasználati korlátot, ezért a mobil adatkapcsolat funkció kikapcsolt. 
+
+Ha visszakapcsolja a mobil adatkapcsolatot, akkor szolgáltatója az adathasználat díját felszámolhatja Önnek."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">A mobil adatkapcsolat most ki van kapcsolva.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"நீங்கள் உங்களது குறிப்பிட்ட தரவுப் பயன்பாட்டு வரம்பை அடைந்துவிட்டீர்கள், எனவே மொபைல் தரவு அணைக்கப்பட்டுள்ளது. 
+
+நீங்கள் மொபைல் தரவை மீண்டும் ஆன் செய்தால், தரவுப் பயன்பாட்டிற்காக உங்கள் மொபைல் சேவை வழங்குநர் கட்டணம் விதிக்கலாம்."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">இப்போது மொபைல் தரவு அணைக்கப்பட்டுள்ளது.</string>
+</resources>

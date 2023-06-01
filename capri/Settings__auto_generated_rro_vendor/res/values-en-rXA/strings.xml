@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">[Ļöçåţé ţĥé šéñšöŕ öñ ţĥé ɓåçķ öƒ ýöûŕ þĥöñé. Ýöû’ļļ ñééð ţö ţöûçĥ ţĥé šéñšöŕ šéVéŕåļ ţîḿéš ţö ŕéçöŕð ýöûŕ ƒîñĝéŕþŕîñţ. one two three four five six seven eight nine ten eleven twelve]</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">[Þûţ ţĥé šåḿé ƒîñĝéŕ öñ ţĥé ƒîñĝéŕþŕîñţ šéñšöŕ åñð ļîƒţ îţ åƒţéŕ ýöû ƒééļ å Vîɓŕåţîöñ. one two three four five six seven eight nine]</string>
+    <string name="security_settings_fingerprint_enroll_start_message">[Þûţ ýöûŕ ƒîñĝéŕ öñ ţĥé ƒîñĝéŕþŕîñţ šéñšöŕ. Ļîƒţ åƒţéŕ ýöû ƒééļ å Vîɓŕåţîöñ. one two three four five six seven eight]</string>
+</resources>

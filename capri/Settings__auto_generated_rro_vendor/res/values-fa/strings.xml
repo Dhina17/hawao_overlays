@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">حسگر در پشت تلفن خود بیابید. برای ثبت اثر انگشت خود، باید حسگر را چندین بار لمس کنید.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">همان انگشت را روی حسگر اثر انگشت قرار دهید، پس از اینکه لرزش را حس کردید، انگشتتان را بردارید.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">انگشت خود را روی حسگر اثر انگشت قرار دهید، پس از اینکه لرزش را حس کردید، انگشتتان را بردارید.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Resikari mamẽta uikú ĩperasãu dijitau sẽsori terefuni rakuera suí. Purãgate retuka sẽsori siiya wiaji ugaravari arama ne ĩperasãu dijitau.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Rẽburi aitenhã dedu te yuíri ĩperasãu dijitau sẽsori upé reyuka aé asuí mairamé resaã uriri.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Rẽburi ne dedu usaãsa upé dedu pirera Reyuka resaã ramẽ uririsawa</string>
+</resources>

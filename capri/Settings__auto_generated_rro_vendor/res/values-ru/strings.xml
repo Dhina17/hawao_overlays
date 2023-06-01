@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Найдите сканер на задней панели телефона: для записи отпечатка пальца нужно будет несколько раз коснуться его.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Коснитесь сканера отпечатка тем же пальцем и поднимите его, как только почувствуете вибрацию.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Приложите палец к сканеру и удерживайте, пока не почувствуете вибрацию.</string>
+</resources>

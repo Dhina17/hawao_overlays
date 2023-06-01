@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"သင်၏သတ်မှတ်ထားသောဒေတာအသုံးပြုမှုအကန့်အသတ်ကိုရောက်ပြီ၊ ထို့ကြောင့်မိုဘိုင်းဒေတာကိုပိတ်ထားသည် 
+
+အကယ်၍ သင်သည်မိုဘိုင်းဒေတာကိုပြန်ဖွင့်ပါကသင်၏လေယာဉ်တင်သင်္ဘောမှဒေတာအသုံးပြုမှုအတွက်သင့်အားကောက်ခံနိုင်သည်။"</string>
+    <string name="data_usage_disabled_dialog_mobile_title">မိုဘိုင်းဒေတာယခုပိတ်ထားသည်</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Etsi tunnistin puhelimen takapuolelta. Tunnistinta on kosketettava useita kertoja, jotta sormenjälkesi tallentuu.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Aseta sama sormi sormenjälkitunnistimen anturille. Nosta sormi, kun laite värisee.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Aseta sormesi sormenjälkitunnistimelle. Nosta sormi, kun tunnet värinän.</string>
+</resources>

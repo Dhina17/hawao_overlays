@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Az ujjlenyomat-olvasó a telefon hátulján található. Az ujjlenyomat rögzítéséhez többször meg kell érintenie az érzékelőt.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Tegye ugyanazt az ujját az ujjlenyomat-olvasóra, és vegye el a rezgés után.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Helyezze ujját az ujjlenyomat-olvasóra. Emelje fel, ha rezgést érez.</string>
+</resources>

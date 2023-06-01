@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">ඔබගේ දුරකථනයේ පිටුපස සංවේදකය සොයා ගන්න. ඔබගේ ඇඟිලි සලකුණ පටිගත කිරීමට ඔබට කිහිප වතාවක් සංවේදකය ස්පර්ශ කිරීමට අවශ්‍ය වේ.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">එකම ඇඟිල්ල ඇඟිලි සලකුණු සංවේදකය මත තබා ඔබට කම්පනයක් දැනීමෙන් පසුව එය ඔසවන්න.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">ඔබේ ඇඟිල්ල ඇඟිලි සලකුණු සංවේදකය මත තබන්න. ඔබට කම්පනයක් දැනීමෙන් පසුව ඔසවන්න.</string>
+</resources>

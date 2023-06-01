@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">আপনার ফোনের পিছনের দিকে সেন্সরের স্থান নির্ধারণ করুন। আপনার ফিঙ্গারপ্রিন্ট রেকর্ড করতে আপনাকে সেন্সরটি কয়েকবার স্পর্শ করতে হবে।</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">ফিঙ্গারপ্রিন্ট সেন্সরে একই আঙুল রাখুন এবং আপনি কম্পন অনুভব করার পরে এটি তুলে নিন।</string>
+    <string name="security_settings_fingerprint_enroll_start_message">ফিঙ্গারপ্রিন্ট সেন্সরের উপর আঙ্গুলটি রাখুন এবং একটি কম্পন অনুভব করার পর লিফ্ট করুন৷</string>
+</resources>

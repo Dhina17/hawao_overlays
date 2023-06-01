@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">உங்கள் ஃபோனின் பின்பகுதியில் உள்ள கைரேகை உணர்வியைக் கண்டறியவும். உங்கள் கைரேகையைப் பதிவுசெய்வதற்கு உணர்வியைப் பல முறை தொட வேண்டும்.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">கைரேகை உணர்வியில் பதிவுசெய்த விரலை வைத்து, அதிர்வை உணர்ந்த பின் விரலை எடுக்கவும்.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">விரலை கைரேகை உணர்வியின் மீது வைக்கவும். அதிர்வை உணர்ந்த பின், விரலை எடுக்கவும்.</string>
+</resources>

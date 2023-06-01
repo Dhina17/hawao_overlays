@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">אתר את החיישן בחלק האחורי בטלפון. תצטרך לגעת בחיישן מספר פעמים כדי לתעד את טביעת האצבע שלך.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">הנח את אותה האצבע על חיישן טביעות האצבע והרם אותה לאחר שתחוש את הרטט.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">הנח את אותה האצבע על חיישן טביעות האצבע. הרם אותה לאחר שתחוש רטט.</string>
+</resources>

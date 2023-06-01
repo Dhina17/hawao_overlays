@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Знайдіть сканер ззаду свого телефона. Щоб зареєструвати відбиток пальця, сканера потрібно торкнутися кілька разів.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Прикладіть той самий палець до сканера відбитка пальця та приберіть його, коли відчуєте вібрацію.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Прикладіть палець до сканера відбитка пальця. Приберіть палець, щойно відчуєте вібрацію.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_force_battery_percentage_outside" id="0x7f010000" />
+    <public type="bool" name="zz_moto_config_FastQSExpandDisabled" id="0x7f010001" />
+    <public type="dimen" name="global_actions_top_padding" id="0x7f020000" />
+    <public type="dimen" name="real_rounded_corner_radius" id="0x7f020001" />
+    <public type="dimen" name="rounded_corner_content_padding" id="0x7f020002" />
+    <public type="integer" name="audio_device_type" id="0x7f030000" />
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Localize o sensor na parte traseira do telemóvel. Terá de tocar várias vezes no sensor para gravar a impressão digital.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Coloque o mesmo dedo no sensor de impressões digitais e levante-o após sentir uma vibração.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Coloque o dedo no sensor de impressões digitais e levante-o depois de sentir uma vibração.</string>
+</resources>

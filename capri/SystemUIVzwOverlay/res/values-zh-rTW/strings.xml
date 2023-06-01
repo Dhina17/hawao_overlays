@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"您已達到指定的數據用量上限，因此行動數據已關閉。
+
+如果重新開啟行動數據，電信業者可能會向您收取數據用量費用。"</string>
+    <string name="data_usage_disabled_dialog_mobile_title">行動數據現已關閉。</string>
+</resources>

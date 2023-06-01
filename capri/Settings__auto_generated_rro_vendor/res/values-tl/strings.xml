@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Hanapin ang sensor sa likod ng iyong telepono. Kailangan mong pindutin nang ilang beses ang sensor upang i-rekord ang iyong fingerprint.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Ilagay ang parehong daliri sa sensor para sa fingerprint at iangat matapos maramdaman ang vibration.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Ilagay ang iyong daliri sa sensor para sa fingerprint. Iangat kapag may naramdaman kang pag-vibrate.</string>
+</resources>

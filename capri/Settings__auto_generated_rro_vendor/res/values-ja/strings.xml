@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">電話の背面にあるセンサーの場所を見つけてください。指紋を登録するにはセンサーを数回タップする必要があります。</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">同じ指を指紋センサーに当て、振動したら指を離してください。</string>
+    <string name="security_settings_fingerprint_enroll_start_message">指を指紋センサーに当て、振動したら指を離してください。</string>
+</resources>

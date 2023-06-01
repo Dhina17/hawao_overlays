@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Localizaţi senzorul din partea posterioară a telefonului. Va trebui să atingeţi senzorul de mai multe ori pentru a înregistra amprenta.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Puneți același deget pe senzorul de amprentă și ridicați-l după ce simțiți o vibrație.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Puneți degetul pe senzorul de amprentă. Ridicați-l după ce simțiți o vibrație.</string>
+</resources>

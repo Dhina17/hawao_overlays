@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">अपने फ़ोन के पीछे सेंसर का पता लगाएं. आपको अपना फ़िंगरप्रिंट रिकॉर्ड करने के लिए सेंसर को कई बार स्पर्श करने की आवश्यकता होगी.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">उसी उंगली को फ़िंगरप्रिंट सेंसर पर रखें और कंपन महसूस होने के बाद उसे हटाएं.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">फ़िंगरप्रिंट सेंसर पर अपनी उंगली रखें. कंपन का अनुभव होने पर उंगली हटा लें.</string>
+</resources>

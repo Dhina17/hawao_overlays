@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Cari penderia di belakang telefon anda. Anda perlu menyentuh penderia beberapa kali untuk merakam cap jari anda.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Letakkan jari yang sama pada penderia cap jari dan angkatnya selepas anda merasa getaran.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Letakkan jari anda pada penderia cap jari. Angkat jari selepas merasa getaran.</string>
+</resources>

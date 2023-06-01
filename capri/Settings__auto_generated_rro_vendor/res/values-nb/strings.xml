@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Finn sensoren på baksiden av telefonen. Du må berøre sensoren flere ganger for å registrere fingeravtrykket ditt.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Legg samme finger på fingeravtrykkleseren, og løft den igjen når du kjenner en vibrasjon.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Plassér fingeren på fingeravtrykksensoren. Løft den når du har kjent en vibrasjon.</string>
+</resources>

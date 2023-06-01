@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Znajdź czytnik z tyłu telefonu. Aby zarejestrować odcisk palca, należy kilkakrotnie dotknąć czytnika.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Przyłóż ten sam palec do czytnika linii papilarnych, a następnie unieś go, gdy poczujesz wibracje.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Przyłóż palec do czytnika linii papilarnych. Unieś go, gdy poczujesz wibracje.</string>
+</resources>

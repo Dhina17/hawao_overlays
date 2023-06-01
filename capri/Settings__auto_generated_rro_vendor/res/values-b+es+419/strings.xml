@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Ubica el sensor en la parte posterior del teléfono. Debes tocar el sensor varias veces para registrar tu huella digital.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Coloca el mismo dedo en el sensor de huellas digitales y levántalo cuando sientas una vibración.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Coloca el dedo en el sensor de huellas digitales. Levántalo después de sentir una vibración.</string>
+</resources>

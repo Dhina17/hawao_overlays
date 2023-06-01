@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Dostigli ste navedeno ograničenje za korišćenje podataka, pa su mobilni podaci isključeni. 
+
+Ako ponovo uključite mobilne podatke, operater može da vam naplati korišćenje podataka."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobilni podaci su sada isključeni.</string>
+</resources>

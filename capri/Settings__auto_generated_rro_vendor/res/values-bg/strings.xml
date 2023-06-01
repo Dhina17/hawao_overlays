@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Намерете сензора на гърба на Вашия телефон. Ще трябва да докоснете сензора няколко пъти, за да запишете пръстовия си отпечатък.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Поставете същия пръст върху сензора за пръстови отпечатъци и го вдигнете, след като усетите вибриране.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Поставете пръста си върху сензора за пръстови отпечатъци. Вдигнете го, след като усетите вибриране.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"Belirlenen veri kullanımı sınırına ulaştığınız için mobil veri kapatıldı.
+
+Mobil veriyi tekrar açarsanız operatörünüz tarafından veri kullanımı için ücretlendirilebilirsiniz."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobil veri şu anda kapalı.</string>
+</resources>

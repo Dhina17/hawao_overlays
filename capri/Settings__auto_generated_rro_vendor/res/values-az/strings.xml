@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonunuzun arxasındakı sensoru tapın. Barmaq izinizi qeyd etmək üçün sensora bir neçə dəfə toxunmalısınız.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Eyni barmağı barmaq izi sensoruna qoyun və bir titrəmə hiss etdikdən sonra qaldırın.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Barmağınızı barmaq izi sensoruna qoyun. Bir vibrasiya hiss etdikdən sonra qaldırın.</string>
+</resources>

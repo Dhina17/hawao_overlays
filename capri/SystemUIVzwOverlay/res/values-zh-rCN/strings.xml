@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"您已达到指定的流量限制，因此移动数据已关闭。
+
+如果您重新打开移动数据，您的运营商可能会对流量使用进行收费。"</string>
+    <string name="data_usage_disabled_dialog_mobile_title">移动数据现已关闭。</string>
+</resources>

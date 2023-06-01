@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">找出手機背面的感應器。您將需要輕觸感應器數次以記錄您的指紋。</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">將同一隻手指放在指紋感應器上，感覺到震動後即可抬起手指。</string>
+    <string name="security_settings_fingerprint_enroll_start_message">將您的手指放在指紋感應器上，直到感應器震動後再移開手指。</string>
+</resources>

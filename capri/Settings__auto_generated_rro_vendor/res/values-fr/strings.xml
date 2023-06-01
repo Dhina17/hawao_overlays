@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">"Repérez le lecteur d'empreinte digitale à l'arrière du téléphone. Vous devrez le toucher à plusieurs reprises pour enregistrer votre empreinte digitale."</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">"Placez le même doigt sur le lecteur d'empreinte digitale et relevez-le après avoir senti une vibration."</string>
+    <string name="security_settings_fingerprint_enroll_start_message">"Placez votre doigt sur le lecteur d'empreinte digitale, puis retirez-le dès que vous sentez une vibration."</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_cbs_operator_name">[Vžŵ one]</string>
+    <string name="data_connection_5g_plus">[5ĜÛŴ one]</string>
+    <string name="data_usage_disabled_dialog">"[Ýöû'Vé ŕéåçĥéð ýöûŕ šþéçîƒîéð ðåţå ûšåĝé ļîḿîţ, šö ḿöɓîļé ðåţå ĥåš ɓééñ ţûŕñéð öƒƒ. 
+
+Îƒ ýöû ţûŕñ ḿöɓîļé ðåţå ɓåçķ öñ, ýöû ḿåý ɓé çĥåŕĝéð ƒöŕ ðåţå ûšåĝé ɓý ýöûŕ çåŕŕîéŕ. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten]"</string>
+    <string name="data_usage_disabled_dialog_mobile_title">[Ḿöɓîļé ðåţå îš ñöŵ öƒƒ. one two three]</string>
+</resources>

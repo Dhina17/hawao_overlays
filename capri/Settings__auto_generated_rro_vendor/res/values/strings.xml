@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Locate the sensor on the back of your phone. You’ll need to touch the sensor several times to record your fingerprint.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Put the same finger on the fingerprint sensor and lift it after you feel a vibration.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Put your finger on the fingerprint sensor. Lift after you feel a vibration.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Εντοπίστε τον αισθητήρα δακτυλικών αποτυπωμάτων στο πίσω μέρος του τηλεφώνου σας. Για να καταγράψετε το δακτυλικό σας αποτύπωμα, θα πρέπει να αγγίξετε αρκετές φορές τον αισθητήρα.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Τοποθετήστε το ίδιο δάχτυλο στον αισθητήρα δακτυλικών αποτυπωμάτων και απομακρύνετέ το, αφού νιώσετε μια δόνηση.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Τοποθετήστε το δάχτυλό σας στον αισθητήρα δακτυλικών αποτυπωμάτων. Σηκώστε αφού αισθανθείτε μια δόνηση.</string>
+</resources>

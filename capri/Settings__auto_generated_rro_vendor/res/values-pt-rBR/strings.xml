@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Localize o sensor de impressão digital na parte de trás do telefone. É necessário tocar no sensor várias vezes para gravar sua impressão digital.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Coloque o mesmo dedo no sensor de impressão digital e retire-o após sentir uma vibração.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Coloque o dedo no sensor de impressão digital. Retire quando sentir uma vibração.</string>
+</resources>

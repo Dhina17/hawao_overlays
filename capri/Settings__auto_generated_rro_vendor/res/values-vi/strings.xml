@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Định vị cảm biến ở mặt sau điện thoại. Bạn sẽ cần chạm cảm ứng nhiều lần để lưu vân tay.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Đặt cùng một ngón tay lên bộ cảm biến vân tay và nhấc lên sau khi bạn cảm thấy rung.</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Đặt ngón tay của bạn lên cảm biến vân tay. Nhấc sau khi bạn cảm thấy rung.</string>
+</resources>

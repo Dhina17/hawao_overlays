@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_cbs_operator_name">vzw</string>
+    <string name="data_connection_5g_plus">5GUW</string>
+    <string name="data_usage_disabled_dialog">"You've reached your specified data usage limit, so mobile data has been turned off. 
+
+If you turn mobile data back on, you may be charged for data usage by your carrier."</string>
+    <string name="data_usage_disabled_dialog_mobile_title">Mobile data is now off.</string>
+</resources>

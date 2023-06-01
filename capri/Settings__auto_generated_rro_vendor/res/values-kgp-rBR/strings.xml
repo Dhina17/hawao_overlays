@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Ki jagnẽ vãmén fã nhin tá sẽsor tỹ nĩgéféj to kinhrãg fã ẽn ve jãvãnh nĩ. Sẽsor tỹ nĩgé féj ũ tỹ mĩ tĩn kỹ to kĩnhrãg ge ẽn ki ã tóg vóg tỹ hẽn ri kẽ han ge nĩ</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Ã tỹ ã nĩgé féj tỹ mĩ tĩn ja ẽn hã tỹ kã fẽg nĩ kar kunũnh nĩ ã tỹ ti tỹ rũmrũm ge mẽ kar kỹ</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Ã nĩjuja tỹ sẽsor tỹ nĩgéféj to kinhrãg fã ẽn kã fẽg nĩ. Kunũnh nĩ ã tỹ ti tỹ rũmrũm ge mẽ kỹ</string>
+</resources>

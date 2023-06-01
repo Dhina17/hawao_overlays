@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_support_fps_to_lock" id="0x7f010000" />
+    <public type="drawable" name="ic_fingerprint_found_sensor" id="0x7f020000" />
+    <public type="drawable" name="immersive_applications_header_preview_01" id="0x7f020001" />
+    <public type="drawable" name="immersive_applications_header_preview_02" id="0x7f020002" />
+    <public type="drawable" name="immersive_applications_header_preview_03" id="0x7f020003" />
+    <public type="drawable" name="immersive_applications_header_preview_04" id="0x7f020004" />
+    <public type="drawable" name="immersive_applications_header_preview_05" id="0x7f020005" />
+    <public type="drawable" name="immersive_applications_header_preview_06" id="0x7f020006" />
+    <public type="raw" name="fingerprint_location_animation" id="0x7f030000" />
+    <public type="raw" name="fingerprint_location_animation_dark" id="0x7f030001" />
+    <public type="string" name="security_settings_fingerprint_enroll_find_sensor_message" id="0x7f040000" />
+    <public type="string" name="security_settings_fingerprint_enroll_repeat_message" id="0x7f040001" />
+    <public type="string" name="security_settings_fingerprint_enroll_start_message" id="0x7f040002" />
+</resources>
