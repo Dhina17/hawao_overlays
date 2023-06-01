@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ការជូនដំណឹងពេលអាសន្ន - សារបង្ហាញ</string>
+    <string name="cmas_extreme_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="cmas_extreme_immediate_likely_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="cmas_extreme_immediate_observed_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="cmas_presidential_level_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="cmas_required_monthly_test">ការជូនដំណឹងពេលអាសន្ន - សារសាកល្បង</string>
+    <string name="cmas_severe_alert">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+    <string name="pws_other_message_identifiers">ការ​ជូន​ដំណឹង​ពេល​អាសន្ន</string>
+</resources>

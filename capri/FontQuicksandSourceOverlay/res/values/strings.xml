@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_bodyFontFamily">quicksand-regular</string>
+    <string name="config_bodyFontFamilyMedium">quicksand-semibold</string>
+    <string name="config_headlineFontFamily">quicksand-regular</string>
+    <string name="config_headlineFontFamilyMedium">quicksand-semibold</string>
+    <string name="font_quicksand_source_overlay">Quicksand</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="partner_wallpapers" id="0x7f010000" />
+    <public type="string" name="default_folder_name" id="0x7f020000" />
+    <public type="string" name="target_ro_carrier" id="0x7f020001" />
+</resources>

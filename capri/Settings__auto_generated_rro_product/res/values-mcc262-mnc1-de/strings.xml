@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN Call</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN Call-Modus</string>
+    <string name="wifi_calling_off_explanation">Wenn die Option \"WLAN Call\" aktiviert ist, kann Ihr Smartphone abhängig von Ihrer Einstellung und von der Signalstärke Anrufe über WLAN-Netzwerke oder über das Netz Ihres Mobilfunkanbieters übertragen. Erkundigen Sie sich bei Ihrem Mobilfunkanbieter über die hierfür erhobenen Gebühren und andere Informationen, bevor Sie diese Funktion aktivieren.</string>
+    <string name="wifi_calling_suggestion_title">WLAN Call aktivieren</string>
+</resources>

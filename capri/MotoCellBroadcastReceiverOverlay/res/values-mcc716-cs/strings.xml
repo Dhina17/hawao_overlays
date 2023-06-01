@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Tísňové upozornění – Simulovaná zpráva</string>
+    <string name="cmas_presidential_level_alert">Nouzová výstraha</string>
+    <string name="cmas_required_monthly_test">Tísňové upozornění – Testovací zpráva</string>
+    <string name="pws_other_message_identifiers">Nouzová výstraha</string>
+    <string name="button_dismiss">Skrýt</string>
+    <string name="public_safety_message">Informační zpráva</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Aktivera batterianpassning</string>
+    <string name="battery_tip_smart_battery_summary">Aktivera batterianpassning</string>
+    <string name="help_label">Hjälp</string>
+    <string name="smart_battery_footer">"Batterianpassning begränsar batteriförbrukning för appar som sällan används. Telefonen lär sig med tiden hur du använder appar.
+
+Aviseringar kan bli fördröjda för de här apparna."</string>
+    <string name="smart_battery_manager_title">"Batterianpassning "</string>
+    <string name="smart_battery_title">Använd batterianpassning</string>
+</resources>

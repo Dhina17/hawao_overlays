@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">هشدار اضطراری - پیام شبیه‌سازی</string>
+    <string name="cmas_presidential_level_alert">هشدار اضطراری</string>
+    <string name="cmas_required_monthly_test">هشدار اضطراری - پیام متنی</string>
+    <string name="pws_other_message_identifiers">هشدار اضطراری</string>
+    <string name="button_dismiss">پنهان کردن</string>
+    <string name="public_safety_message">پیام خبری</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Виклик через Wi-Fi</string>
+    <string name="wifi_calling_mode_dialog_title">Режим викликів через Wi-Fi</string>
+    <string name="wifi_calling_off_explanation">Коли ввімкнено функцію викликів через Wi-Fi, телефон може здійснювати виклики як через Wi-Fi, так і через мобільну мережу, залежно від налаштувань і сили сигналу. Перш ніж увімкнути цю функцію, зверніться до свого оператора з приводу тарифів та інших відомостей.</string>
+    <string name="wifi_calling_suggestion_title">Увімкнути виклики через Wi-Fi</string>
+</resources>

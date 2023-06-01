@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN-puhelu</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN-puhelutila</string>
+    <string name="wifi_calling_off_explanation">Kun WLAN-puhelu on käytössä, puhelin voi reitittää puhelut Wi-Fi-verkon tai operaattorin verkon kautta sen mukaan, mitä valitset ja kumman signaali on voimakkaampi. Tarkista maksut ja muut tiedot operaattorilta, ennen kuin otat toiminnon käyttöön.</string>
+    <string name="wifi_calling_suggestion_title">Ota käyttöön WLAN-puhelu</string>
+</resources>

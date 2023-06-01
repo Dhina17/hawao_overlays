@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">සුරක්ෂිතතා ඇඟවීම් පද්ධතියෙන් අවශ්‍ය මාසික පරීක්ෂණ ලබන්න</string>
+    <string name="enable_cmas_test_alerts_title">අවශ්‍ය මාසික පරීක්ෂාව</string>
+    <string name="receive_cmas_in_second_language_summary">හැකි සෑම විට ම ස්පාඤ්ඤ භාෂාවෙන් හදිසි අනතුරු ඇඟවීම් ලබන්න</string>
+    <string name="receive_cmas_in_second_language_title">ස්පාඤ්ඤ</string>
+</resources>

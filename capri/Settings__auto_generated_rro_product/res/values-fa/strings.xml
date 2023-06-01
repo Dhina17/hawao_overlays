@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">روشن کردن باتری تطبیقی</string>
+    <string name="battery_tip_smart_battery_summary">روشن کردن باتری تطبیقی</string>
+    <string name="help_label">راهنما</string>
+    <string name="smart_battery_footer">"برای افزایش عمر باتری، باتری تطبیقی مصرف نیرو را برای برنامه‌هایی که زیاد استفاده نمی‌شوند محدود می‌کند. تلفن بعد از مدتی یاد می‌گیرد شما چگونه از برنامه‌ها استفاده می‌کنید.
+
+اعلان‌ها ممکن است برای آن برنامه‌ها با تاخیر ارائه شود."</string>
+    <string name="smart_battery_manager_title">باتری تطبیقی</string>
+    <string name="smart_battery_title">استفاده از باتری تطبیقی</string>
+</resources>

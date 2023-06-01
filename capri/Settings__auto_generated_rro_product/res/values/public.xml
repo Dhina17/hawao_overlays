@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="config_double_press_power_launchable_apps_list" id="0x7f010000" />
+    <public type="array" name="config_preinstalled_interaction_control_services" id="0x7f010001" />
+    <public type="array" name="config_preinstalled_screen_reader_services" id="0x7f010002" />
+    <public type="bool" name="config_show_mobile_plan" id="0x7f020000" />
+    <public type="bool" name="has_boot_sounds" id="0x7f020002" />
+    <public type="bool" name="config_wifi_calling_suggestion_enabled" id="0x7f020001" />
+    <public type="drawable" name="ic_nfc" id="0x7f030002" />
+    <public type="drawable" name="aab_brightness" id="0x7f030000" />
+    <public type="drawable" name="auto_awesome_battery" id="0x7f030001" />
+    <public type="raw" name="aab_brightness" id="0x7f040000" />
+    <public type="raw" name="auto_awesome_battery" id="0x7f040001" />
+    <public type="string" name="battery_suggestion_summary" id="0x7f050000" />
+    <public type="string" name="battery_tip_smart_battery_summary" id="0x7f050001" />
+    <public type="string" name="help_label" id="0x7f050004" />
+    <public type="string" name="oem_preferred_feedback_reporter" id="0x7f050005" />
+    <public type="string" name="smart_battery_footer" id="0x7f050006" />
+    <public type="string" name="smart_battery_manager_title" id="0x7f050007" />
+    <public type="string" name="smart_battery_title" id="0x7f050008" />
+    <public type="string" name="wifi_calling_settings_title" id="0x7f05000b" />
+    <public type="string" name="wifi_calling_mode_dialog_title" id="0x7f050009" />
+    <public type="string" name="wifi_calling_off_explanation" id="0x7f05000a" />
+    <public type="string" name="wifi_calling_suggestion_title" id="0x7f05000c" />
+    <public type="string" name="enhanced_4g_lte_mode_summary" id="0x7f050002" />
+    <public type="string" name="enhanced_4g_lte_mode_title" id="0x7f050003" />
+</resources>

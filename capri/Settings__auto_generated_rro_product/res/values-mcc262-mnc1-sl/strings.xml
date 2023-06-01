@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Klic prek omrežja Wi-Fi</string>
+    <string name="wifi_calling_mode_dialog_title">Način klica prek omrežja Wi-Fi</string>
+    <string name="wifi_calling_off_explanation">Ko je vklopljen Klic prek omrežja Wi-Fi, lahko telefon preusmeri klice prek omrežij Wi-Fi ali omrežja vašega operaterja, odvisno od vaše nastavitve in tega, kateri signal je močnejši. Pred vklopom te funkcije se pri operaterju pozanimajte o stroških in ostalih podrobnostih.</string>
+    <string name="wifi_calling_suggestion_title">Vklop klica prek omrežja Wi-Fi</string>
+</resources>

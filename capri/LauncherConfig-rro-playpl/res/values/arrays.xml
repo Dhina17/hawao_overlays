@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="partner_wallpapers">
+        <item>wallpaper_parker_play_001</item>
+        <item>wallpaper_parker_play_002</item>
+        <item>wallpaper_parker_play_003</item>
+        <item>wallpaper_parker_play_004</item>
+        <item>wallpaper_parker_play_005</item>
+        <item>wallpaper_parker_play_006</item>
+    </string-array>
+</resources>

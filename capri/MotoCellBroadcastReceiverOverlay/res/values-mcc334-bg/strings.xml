@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Тревожен сигнал – симулационно съобщение</string>
+    <string name="cmas_extreme_alert">Сигнал при спешни случаи</string>
+    <string name="cmas_extreme_immediate_likely_alert">Сигнал при спешни случаи</string>
+    <string name="cmas_extreme_immediate_observed_alert">Сигнал при спешни случаи</string>
+    <string name="cmas_presidential_level_alert">Сигнал при спешни случаи</string>
+    <string name="cmas_required_monthly_test">Тревожен сигнал – тестово съобщение</string>
+    <string name="cmas_severe_alert">Сигнал при спешни случаи</string>
+    <string name="pws_other_message_identifiers">Сигнал при спешни случаи</string>
+</resources>

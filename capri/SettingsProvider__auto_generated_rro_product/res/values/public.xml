@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="def_mobile_data_always_on" id="0x7f010000" />
+    <public type="bool" name="def_screen_brightness_automatic_mode" id="0x7f010001" />
+    <public type="bool" name="def_sound_effects_enabled" id="0x7f010002" />
+    <public type="string" name="def_backup_transport" id="0x7f020000" />
+</resources>

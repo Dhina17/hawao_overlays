@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">आपात्कालीन सतर्क - अनुकरण संदेश</string>
+    <string name="cmas_presidential_level_alert">आपात्कालीन सतर्क</string>
+    <string name="cmas_required_monthly_test">आपात्कालीन सतर्क - चाचणी संदेश</string>
+    <string name="pws_other_message_identifiers">आपात्कालीन सतर्क</string>
+    <string name="button_dismiss">लपवा</string>
+    <string name="public_safety_message">माहिती संदेश</string>
+</resources>

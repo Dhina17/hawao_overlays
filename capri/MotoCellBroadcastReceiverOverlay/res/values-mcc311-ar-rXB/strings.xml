@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">‏‮Receive‬‏ ‏‮required‬‏ ‏‮monthly‬‏ ‏‮tests‬‏ ‏‮from‬‏ ‏‮the‬‏ ‏‮safety‬‏ ‏‮alert‬‏ ‏‮system‬‏</string>
+    <string name="enable_cmas_test_alerts_title">‏‮Required‬‏ ‏‮Monthly‬‏ ‏‮Test‬‏</string>
+    <string name="receive_cmas_in_second_language_summary">‏‮Receive‬‏ ‏‮emergency‬‏ ‏‮alerts‬‏ ‏‮in‬‏ ‏‮Spanish‬‏ ‏‮when‬‏ ‏‮possible‬‏</string>
+    <string name="receive_cmas_in_second_language_title">‏‮Spanish‬‏</string>
+</resources>

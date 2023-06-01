@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Apel WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Mod Apel WLAN</string>
+    <string name="wifi_calling_off_explanation">Când Apel WLAN este activat, telefonul dvs. poate direcţiona apelurile prin intermediul reţelelor Wi-Fi sau al reţelei operatorului dvs. de telefonie mobilă’s, în funcţie de preferinţele dvs. şi de semnalul cel mai puternic. Înainte de a activa această funcţie, consultaţi operatorul dvs. de telefonie mobilă în legătură cu taxele şi alte detalii.</string>
+    <string name="wifi_calling_suggestion_title">Activare Apel WLAN</string>
+</resources>

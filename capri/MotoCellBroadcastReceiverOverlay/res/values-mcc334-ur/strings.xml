@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">ہنگامی انتباہات - نقلی پیغام</string>
+    <string name="cmas_extreme_alert">ہنگامی الرٹ</string>
+    <string name="cmas_extreme_immediate_likely_alert">ہنگامی الرٹ</string>
+    <string name="cmas_extreme_immediate_observed_alert">ہنگامی الرٹ</string>
+    <string name="cmas_presidential_level_alert">ہنگامی الرٹ</string>
+    <string name="cmas_required_monthly_test">ہنگامی انتباہات - متنی پیغام</string>
+    <string name="cmas_severe_alert">ہنگامی الرٹ</string>
+    <string name="pws_other_message_identifiers">ہنگامی الرٹ</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">[Ţûŕñ öñ ÅðåþţîVé βåţţéŕý one two three]</string>
+    <string name="battery_tip_smart_battery_summary">[Ţûŕñ öñ ÅðåþţîVé βåţţéŕý one two three]</string>
+    <string name="help_label">[Ĥéļþ one]</string>
+    <string name="smart_battery_footer">"[Ţö éхţéñð ɓåţţéŕý ļîƒé, ÅðåþţîVé βåţţéŕý ļîḿîţš ɓåţţéŕý ƒöŕ îñƒŕéQûéñţļý ûšéð åþþš. Ýöûŕ þĥöñé ŵîļļ ļéåŕñ ĥöŵ ýöû ûšé åþþš öVéŕ ţîḿé.
+
+Ñöţîƒîçåţîöñš ḿåý ɓé ðéļåýéð ƒöŕ ţĥéšé åþþš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve]"</string>
+    <string name="smart_battery_manager_title">[ÅðåþţîVé βåţţéŕý one two three]</string>
+    <string name="smart_battery_title">[Ûšé ÅðåþţîVé βåţţéŕý one two three]</string>
+</resources>

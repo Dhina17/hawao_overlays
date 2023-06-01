@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Peringatan Darurat - Pesan Simulasi</string>
+    <string name="cmas_presidential_level_alert">Peringatan darurat</string>
+    <string name="cmas_required_monthly_test">Peringatan Darurat - Pesan Uji</string>
+    <string name="pws_other_message_identifiers">Peringatan darurat</string>
+    <string name="button_dismiss">Sembunyikan</string>
+    <string name="public_safety_message">Pesan Informasi</string>
+</resources>

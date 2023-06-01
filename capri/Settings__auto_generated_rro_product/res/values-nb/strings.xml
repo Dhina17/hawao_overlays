@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Slå på Adaptivt batteri</string>
+    <string name="battery_tip_smart_battery_summary">Slå på Adaptivt batteri</string>
+    <string name="help_label">Hjelp</string>
+    <string name="smart_battery_footer">"Adaptivt batteri begrenser batteribruken for lite brukte apper og bidrar dermed til å forlenge batteritiden. Telefonen lærer seg hvordan du bruker apper over tid.
+
+Varsler for disse appene kan bli forsinket."</string>
+    <string name="smart_battery_manager_title">Adaptivt batteri</string>
+    <string name="smart_battery_title">Bruk Adaptivt batteri</string>
+</resources>

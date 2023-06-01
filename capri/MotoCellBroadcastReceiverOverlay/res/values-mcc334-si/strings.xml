@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">හදිසි ඇඟවීම - සමාකරණ පණිවිඩය</string>
+    <string name="cmas_extreme_alert">හදිසි ඇඟවීම</string>
+    <string name="cmas_extreme_immediate_likely_alert">හදිසි ඇඟවීම</string>
+    <string name="cmas_extreme_immediate_observed_alert">හදිසි ඇඟවීම</string>
+    <string name="cmas_presidential_level_alert">හදිසි ඇඟවීම</string>
+    <string name="cmas_required_monthly_test">හදිසි ඇඟවීම - පරීක්ෂණ පණිවිඩය</string>
+    <string name="cmas_severe_alert">හදිසි ඇඟවීම</string>
+    <string name="pws_other_message_identifiers">හදිසි ඇඟවීම</string>
+</resources>

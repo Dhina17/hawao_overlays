@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Panggilan WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Mode Panggilan WLAN</string>
+    <string name="wifi_calling_off_explanation">Saat Panggilan WLAN aktif, ponsel Anda dapat merutekan panggilan melalui jaringan Wi-fi atau jaringan’s operator Anda, tergantung pada preferensi dan sinyal mana yang lebih kuat. Sebelum mengaktifkan fitur ini, pastikan biaya dan detail lainnya dengan operator Anda.</string>
+    <string name="wifi_calling_suggestion_title">Aktifkan Panggilan WLAN</string>
+</resources>

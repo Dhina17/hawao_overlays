@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Panggilan WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Mod Panggilan WLAN</string>
+    <string name="wifi_calling_off_explanation">Apabila Panggilan WLAN dihidupkan, telefon anda boleh menghalakan panggilan melalui rangkaian Wi-Fi atau rangkaian pembawa anda, bergantung pada keutamaan anda dan kekuatan isyarat. Sebelum menghidupkan ciri ini, semak dengan pembawa anda berkenaan yuran dan butiran lain.</string>
+    <string name="wifi_calling_suggestion_title">Hidupkan Panggilan WLAN</string>
+</resources>

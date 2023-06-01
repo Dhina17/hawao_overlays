@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">COSMOTE WiFi Calling</string>
+    <string name="wifi_calling_mode_dialog_title">Λειτουργία COSMOTE WiFi Calling</string>
+    <string name="wifi_calling_off_explanation">Όταν το COSMOTE WiFi Calling είναι ενεργοποιημένο, το τηλέφωνό σας μπορεί να δρομολογεί κλήσεις μέσω δικτύων Wi-Fi ή του δικτύου της εταιρείας κινητής τηλεφωνίας σας, ανάλογα με την προτίμησή σας και με την ισχύ του σήματος. Προτού ενεργοποιήσετε αυτή τη λειτουργία, επιβεβαιώστε με την εταιρεία κινητής τηλεφωνίας σας τις χρεώσεις και άλλες λεπτομέρειες.</string>
+    <string name="wifi_calling_suggestion_title">Ενεργοποίηση COSMOTE WiFi Calling</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Wi-Fi-anrop</string>
+    <string name="wifi_calling_mode_dialog_title">Modus for Wi-Fi-anrop</string>
+    <string name="wifi_calling_off_explanation">Når Wi-Fi-anrop er på, kan telefonen din rute anrop via Wi-Fi-nettverk eller nettverket til operatøren din, avhengig av preferansene dine og hvilket signal som er sterkest. Før du slår på denne funksjonen, bør du sjekke gebyrer og andre detaljer med operatøren.</string>
+    <string name="wifi_calling_suggestion_title">Slå på Wi-Fi-anrop</string>
+</resources>

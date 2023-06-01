@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Ota mukautettu virrankulutus käyttöön</string>
+    <string name="battery_tip_smart_battery_summary">Ota mukautettu virrankulutus käyttöön</string>
+    <string name="help_label">Ohje</string>
+    <string name="smart_battery_footer">"Voit pidentää akun käyttöaikaa käyttämällä mukautettua virrankulutusta satunnaisesti käytettävissä sovelluksissa. Puhelimen oppii tapasi käyttää näitä sovelluksia.
+
+Näiden sovelluksien ilmoitukset voivat viivästyä."</string>
+    <string name="smart_battery_manager_title">Mukautettu virrankulutus</string>
+    <string name="smart_battery_title">Käytä mukautettua virrankulutusta</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Wi-Fi hívás</string>
+    <string name="wifi_calling_mode_dialog_title">Wi-Fi hívás mód</string>
+    <string name="wifi_calling_off_explanation">Ha a Wi-Fi hívás be van kapcsolva, a telefon át tudja irányítani a hívásokat a Wi-Fi hálózatokon vagy a szolgáltató hálózatán keresztül az Ön beállításaitól, illetve attól függően, hogy melyik jel erősebb. A funkció bekapcsolása előtt egyeztessen szolgáltatójával a díjakkal és egyéb kérdésekkel kapcsolatban.</string>
+    <string name="wifi_calling_suggestion_title">Wi-Fi hívás bekapcsolása</string>
+</resources>

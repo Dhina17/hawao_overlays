@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Primiți teste lunare necesare de la sistemul de alertă pentru siguranță</string>
+    <string name="enable_cmas_test_alerts_title">Testul lunar obligatoriu</string>
+    <string name="receive_cmas_in_second_language_summary">Primiți alerte de urgență în limba spaniolă atunci când este posibil</string>
+    <string name="receive_cmas_in_second_language_title">Spaniolă</string>
+</resources>

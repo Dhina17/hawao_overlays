@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Zapnúť adaptívnu batériu</string>
+    <string name="battery_tip_smart_battery_summary">Zapnúť adaptívnu batériu</string>
+    <string name="help_label">Pomocník</string>
+    <string name="smart_battery_footer">"Ak chcete predĺžiť životnosť batérie, adaptívna batéria chráni batériu v prípade sporadického používania aplikácií. Váš telefón sa naučí, ako časom používať vaše aplikácie.
+
+V prípade týchto aplikácií sa môžu upozornenia oneskoriť."</string>
+    <string name="smart_battery_manager_title">Adaptívna batéria</string>
+    <string name="smart_battery_title">Používať adaptívnu batériu</string>
+</resources>

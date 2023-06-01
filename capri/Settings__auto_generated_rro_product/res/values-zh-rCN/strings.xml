@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">开启自适应电池</string>
+    <string name="battery_tip_smart_battery_summary">开启自适应电池</string>
+    <string name="help_label">帮助</string>
+    <string name="smart_battery_footer">"为延长电池续航时间，自适应电池会限制对不常用应用程序供电。您的手机将逐渐学习您使用应用程序的方式。
+
+针对这些应用程序的通知可能出现延迟。"</string>
+    <string name="smart_battery_manager_title">自适应电池</string>
+    <string name="smart_battery_title">使用自适应电池</string>
+</resources>

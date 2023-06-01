@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Ενεργοποίηση προσαρμόσιμης μπαταρίας</string>
+    <string name="battery_tip_smart_battery_summary">Ενεργοποίηση προσαρμόσιμης μπαταρίας</string>
+    <string name="help_label">Βοήθεια</string>
+    <string name="smart_battery_footer">"Για να παρατείνει τη διάρκεια ζωής της μπαταρίας, η προσαρμόσιμη μπαταρία περιορίζει τη χρήση μπαταρίας για εφαρμογές που χρησιμοποιούνται σπάνια. Το τηλέφωνό σας θα μάθει πώς χρησιμοποιείτε τις εφαρμογές με την πάροδο του χρόνου.
+
+Οι ειδοποιήσεις ενδέχεται να καθυστερήσουν για αυτές τις εφαρμογές."</string>
+    <string name="smart_battery_manager_title">Προσαρμόσιμη μπαταρία</string>
+    <string name="smart_battery_title">Χρήση προσαρμόσιμης μπαταρία</string>
+</resources>

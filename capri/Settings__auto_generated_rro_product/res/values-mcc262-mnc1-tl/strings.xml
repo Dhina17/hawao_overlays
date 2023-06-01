@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN na Tawag</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN na Tawag mode</string>
+    <string name="wifi_calling_off_explanation">Kapag naka-on ang WLAN na Tawag, maaaring i-route ng telepono ang mga tawag sa pamamagitan ng Wi-Fi network o ng network’s ng carrier mo, depende sa gusto mo at kung saan mas malakas ang signal. Bago i-on ang tampok na ito, tanungin sa carrier mo ang tungkol sa mga bayarin at iba pang mga detalye.</string>
+    <string name="wifi_calling_suggestion_title">I-on ang WLAN na Tawag</string>
+</resources>

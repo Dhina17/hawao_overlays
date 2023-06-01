@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">שיחת WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">מצב שיחת WLAN</string>
+    <string name="wifi_calling_off_explanation">כשמצב שיחת WLAN מופעל, הטלפון יכול לנתב שיחות דרך רשתות Wi-Fi או דרך רשת הספק שלך בהתאם להעדפותיך ולעוצמת האות. לפני הפעלת תכונה זו, מומלץ לבדוק עלויות ופרטים נוספים אצל הספק.</string>
+    <string name="wifi_calling_suggestion_title">הפעל שיחת WLAN</string>
+</resources>

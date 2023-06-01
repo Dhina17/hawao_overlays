@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN কল</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN কল মোড</string>
+    <string name="wifi_calling_off_explanation">WLAN কল চালু থাকার সময়ে, আপনার পছন্দ এবং কোন সিগন্যাল বেশী শক্তিশালী তার উপর নির্ভর করে আপনার ফোন Wi-Fi নেটওয়ার্ক বা আপনার পরিষেবা প্রদানকারীর’ নেটওয়ার্কের মাধ্যমে আপনার কলের রুট দেখায়। এই বৈশিষ্ট্যটি চালু করার আগে, আপনার পরিষেবা প্রদানকারীর কাছে ফি এবং অন্যান্য বিশদ বিবরণ সম্বন্ধে পরীক্ষা করুন।</string>
+    <string name="wifi_calling_suggestion_title">WLAN কল চালু করুন</string>
+</resources>

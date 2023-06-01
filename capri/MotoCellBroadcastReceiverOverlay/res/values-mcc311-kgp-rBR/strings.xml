@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Kysẽ kar ki han kãmãj ge gỹjỹ kem nĩ sistẽmỹ tỹ há ki ke ta</string>
+    <string name="enable_cmas_test_alerts_title">Ã tỹ kãmã ja tỹ han ge pẽ ẽn</string>
+    <string name="receive_cmas_in_second_language_summary">Vẽnh vĩ tỹ Inhpỹjór ki nén ũ tỹ hẽnrikej ge kãmĩn ge ã tỹ ken ka.</string>
+    <string name="receive_cmas_in_second_language_title">Enhpỹjãr</string>
+</resources>

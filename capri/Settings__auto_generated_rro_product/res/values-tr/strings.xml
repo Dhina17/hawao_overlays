@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Adaptif Pil özelliğini açın</string>
+    <string name="battery_tip_smart_battery_summary">Adaptif Pil özelliğini açın</string>
+    <string name="help_label">Yardım</string>
+    <string name="smart_battery_footer">"Adaptif Pil, pil ömrünü uzatmak amacıyla, sık kullanılmayan uygulamalar için pili kısıtlar. Telefonunuz uygulamaları nasıl kullandığınızı zaman içinde öğrenir.
+
+Bu uygulamaların bildirimleri gecikebilir."</string>
+    <string name="smart_battery_manager_title">Uyarlanabilir Pil</string>
+    <string name="smart_battery_title">"Uyarlanabilir Pil'i kullan"</string>
+</resources>

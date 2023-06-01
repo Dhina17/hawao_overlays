@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN Zəngi</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN Zəngi rejimi</string>
+    <string name="wifi_calling_off_explanation">WLAN Zəngi yanılı olduqda, tərcihləriniz və hansı siqnalın güclü olmasından asılı olaraq telefon zənglərinizi Wi-Fi şəbəkələri və ya daşıyıcı’ şəbəkəsi ilə yönləndirə bilər. Bu funksiyanı yandırmazdan öncə daşıyıcınızın tarifləri və başqa məlumatları yoxlayın.</string>
+    <string name="wifi_calling_suggestion_title">WLAN Zəngini yandır</string>
+</resources>

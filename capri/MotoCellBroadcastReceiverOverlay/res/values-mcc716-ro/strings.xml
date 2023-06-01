@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Alertă de urgenţă - Mesaj de simulare</string>
+    <string name="cmas_presidential_level_alert">Alertă de urgenţă</string>
+    <string name="cmas_required_monthly_test">Alertă de urgenţă - Mesaj de test</string>
+    <string name="pws_other_message_identifiers">Alertă de urgenţă</string>
+    <string name="button_dismiss">Ascundere</string>
+    <string name="public_safety_message">Mesaj informativ</string>
+</resources>

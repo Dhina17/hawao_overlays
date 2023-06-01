@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN அழைப்பு</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN அழைப்புப் பயன்முறை</string>
+    <string name="wifi_calling_off_explanation">WLAN அழைப்பு ஆன் செய்யப்பட்டிருக்கும் போது, உங்களின் விருப்பம் மற்றும் வலிமையான சிக்னலைப் பொறுத்து, உங்கள் ஃபோனால் Wi-Fi நெட்வொர்க்குகள் அல்லது மொபைல் சேவை வழங்குநர் நெட்வொர்க்கின் வழியே அழைப்புகளை மேற்கொள்ள முடியும். இந்த அம்சத்தை ஆன் செய்வதற்கு முன்னர், கட்டணம் மற்றும் பிற விவரங்கள் தொடர்பாக உங்கள் மொபைல் சேவை வழங்குநரைச் சரிபார்க்கவும்.</string>
+    <string name="wifi_calling_suggestion_title">WLAN அழைப்பை ஆன் செய்யவும்</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN 통화</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN 통화 모드</string>
+    <string name="wifi_calling_off_explanation">WLAN 통화가 켜지면 휴대전화가 사용자의 기본 설정 및 보다 강한 신호에 따라 Wi-Fi 네트워크나 이동통신사 네트워크를 통해 통화를 전환합니다. 이 기능을 켜기 전에 요금과 기타 세부정보에 대해 이동통신사와 확인하십시오.</string>
+    <string name="wifi_calling_suggestion_title">WLAN 통화 켜기</string>
+</resources>

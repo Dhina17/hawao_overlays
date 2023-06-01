@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Ricevi test mensili richiesti dal sistema di avvisi di sicurezza</string>
+    <string name="enable_cmas_test_alerts_title">Test mensile obbligatorio</string>
+    <string name="receive_cmas_in_second_language_summary">Ricevi avvisi di emergenza in spagnolo quando possibile</string>
+    <string name="receive_cmas_in_second_language_title">Spagnolo</string>
+</resources>

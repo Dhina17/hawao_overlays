@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Llamada WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Modo de llamada WLAN</string>
+    <string name="wifi_calling_off_explanation">Cuando Llamada WLAN está activada, tu teléfono puede enrutar llamadas a través de redes Wi-Fi o de la red de tu proveedor, según tus preferencias y la intensidad de la señal. Antes de activar esta función, verifica con tu proveedor las tarifas y otros detalles.</string>
+    <string name="wifi_calling_suggestion_title">Activar Llamada WLAN</string>
+</resources>

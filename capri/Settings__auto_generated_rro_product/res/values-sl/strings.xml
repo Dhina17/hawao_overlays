@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Vklopite Prilagodljivi akumulator</string>
+    <string name="battery_tip_smart_battery_summary">Vklopite Prilagodljivi akumulator</string>
+    <string name="help_label">Pomoč</string>
+    <string name="smart_battery_footer">"Za daljši čas delovanja z akumulatorjem Prilagodljivi akumulator omeji uporabo akumulatorja za redko uporabljane aplikacije. Telefon se bo sčasoma naučil uporabljati aplikacije.
+
+Obvestila za te aplikacije bodo morda zakasnjena."</string>
+    <string name="smart_battery_manager_title">Prilagodljivi akumulator</string>
+    <string name="smart_battery_title">Uporaba Prilagodljivega akumulatorja</string>
+</resources>

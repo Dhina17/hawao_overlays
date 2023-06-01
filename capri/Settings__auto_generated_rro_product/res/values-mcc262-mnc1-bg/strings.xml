@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Wi-Fi обаждане</string>
+    <string name="wifi_calling_mode_dialog_title">Режим Wi-Fi обаждане</string>
+    <string name="wifi_calling_off_explanation">Когато режимът Wi-Fi обаждане е включен, Вашият телефон може да пренасочва обаждания чрез Wi-Fi мрежи или чрез мрежата на Вашия оператор в зависимост от Вашите предпочитания и кой сигнал е по-силен. Преди да включите тази функция, консултирайте се с Вашия оператор относно такси и други подробности.</string>
+    <string name="wifi_calling_suggestion_title">Включете Wi-Fi обаждане</string>
+</resources>

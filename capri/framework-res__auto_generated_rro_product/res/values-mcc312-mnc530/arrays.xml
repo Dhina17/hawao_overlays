@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_sim_operator_override_rules">
+        <item>PRIVILEGE_ACCESS_RULE:4C36AF4A5BDAD97C1F3D8B283416D244496C2AC5EAFE8226079EF6F676FD1859;NUMERIC_FROM_SIM;SPN_FROM_SIM</item>
+        <item>gid:000001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF;VALUE_FROM_PROPERTY:persist.omadm.operator.numeric:gsm.sim.operator.numeric.orig|310120:gsm.sim.operator.numeric.orig;VALUE_FROM_PROPERTY:persist.omadm.operator.alpha:gsm.sim.operator.alpha.orig|Sprint:gsm.sim.operator.alpha.orig</item>
+        <item>gid:000004FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF;VALUE_FROM_PROPERTY:persist.omadm.operator.numeric:gsm.sim.operator.numeric.orig|312530:gsm.sim.operator.numeric.orig;VALUE_FROM_PROPERTY:persist.omadm.operator.alpha:gsm.sim.operator.alpha.orig|Sprint:gsm.sim.operator.alpha.orig</item>
+        <item>gid:000002FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF;VALUE_FROM_PROPERTY:persist.omadm.operator.numeric:gsm.sim.operator.numeric.orig|311870:gsm.sim.operator.numeric.orig;VALUE_FROM_PROPERTY:persist.omadm.operator.alpha:gsm.sim.operator.alpha.orig|Boost Mobile:gsm.sim.operator.alpha.orig</item>
+        <item>gid:000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF;VALUE_FROM_PROPERTY:persist.omadm.operator.numeric:gsm.sim.operator.numeric.orig|311490:gsm.sim.operator.numeric.orig;VALUE_FROM_PROPERTY:persist.omadm.operator.alpha:gsm.sim.operator.alpha.orig|Virgin Mobile:gsm.sim.operator.alpha.orig</item>
+        <item>gid:000005FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF;VALUE_FROM_PROPERTY:persist.omadm.operator.numeric:gsm.sim.operator.numeric.orig|311490:gsm.sim.operator.numeric.orig;VALUE_FROM_PROPERTY:persist.omadm.operator.alpha:gsm.sim.operator.alpha.orig|Virgin Evolution:gsm.sim.operator.alpha.orig</item>
+        <item>gid:000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF;VALUE_FROM_PROPERTY:persist.omadm.operator.numeric:gsm.sim.operator.numeric.orig|311490:gsm.sim.operator.numeric.orig;VALUE_FROM_PROPERTY:persist.omadm.operator.alpha:gsm.sim.operator.alpha.orig|Assurance Wireless:gsm.sim.operator.alpha.orig</item>
+        <item>ANY:ANY;VALUE_FROM_PROPERTY:persist.omadm.operator.numeric:gsm.sim.operator.numeric.orig|310000:gsm.sim.operator.numeric.orig;VALUE_FROM_PROPERTY:persist.omadm.operator.alpha:gsm.sim.operator.alpha.orig|Sprint:gsm.sim.operator.alpha.orig</item>
+    </string-array>
+</resources>

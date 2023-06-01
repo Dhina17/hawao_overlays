@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_device_volte_available">true</bool>
+    <bool name="config_device_vt_available">false</bool>
+    <bool name="config_device_wfc_ims_available">false</bool>
+    <bool name="config_dozeAfterScreenOff">true</bool>
+    <bool name="config_enableNetworkLocationOverlay">true</bool>
+    <bool name="config_enabled_frp_violation_suicide">true</bool>
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
+    <bool name="config_quick_capture_automatic_camera">true</bool>
+    <bool name="config_setColorTransformAccelerated">true</bool>
+    <bool name="config_smart_battery_available">true</bool>
+    <bool name="config_useDevInputEventForAudioJack">true</bool>
+</resources>

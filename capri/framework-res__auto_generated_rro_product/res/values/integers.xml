@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_bluetooth_operating_voltage_mv">3300</integer>
+    <integer name="config_doublePressOnPowerBehavior">0</integer>
+    <integer name="config_screenBrightnessDoze">17</integer>
+</resources>

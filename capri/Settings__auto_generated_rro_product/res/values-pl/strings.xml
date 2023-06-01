@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Włącz Automatyczne dostosowywanie baterii</string>
+    <string name="battery_tip_smart_battery_summary">Włącz Automatyczne dostosowywanie baterii</string>
+    <string name="help_label">Pomoc</string>
+    <string name="smart_battery_footer">"Automatyczne dostosowywanie baterii wydłuża czas pracy baterii, ograniczając zużycie energii przez rzadko używane aplikacje. Z czasem telefon rozpozna wzorce użytkowania aplikacji.
+
+Powiadomienia dla tych aplikacji mogą być opóźnione."</string>
+    <string name="smart_battery_manager_title">Automatyczne dostosowywanie baterii</string>
+    <string name="smart_battery_title">Skorzystaj z Automatycznego dostosowywania baterii</string>
+</resources>

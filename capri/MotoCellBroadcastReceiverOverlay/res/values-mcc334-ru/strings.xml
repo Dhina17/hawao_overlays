@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Экстренное оповещение — Сообщение-имитация</string>
+    <string name="cmas_extreme_alert">Экстренное оповещение</string>
+    <string name="cmas_extreme_immediate_likely_alert">Экстренное оповещение</string>
+    <string name="cmas_extreme_immediate_observed_alert">Экстренное оповещение</string>
+    <string name="cmas_presidential_level_alert">Экстренное оповещение</string>
+    <string name="cmas_required_monthly_test">Экстренное оповещение — Тестовое сообщение</string>
+    <string name="cmas_severe_alert">Экстренное оповещение</string>
+    <string name="pws_other_message_identifiers">Экстренное оповещение</string>
+</resources>

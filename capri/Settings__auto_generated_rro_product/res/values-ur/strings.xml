@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">اڈاپٹیو بیٹری کو آن کریں</string>
+    <string name="battery_tip_smart_battery_summary">اڈاپٹیو بیٹری کو آن کریں</string>
+    <string name="help_label">مدد</string>
+    <string name="smart_battery_footer">"بیٹری لائف بڑہانے کے لیے، اڈاپٹیو بیٹری کبھی کبھار استعمال کی جانے والی ایپس کے لیے بیٹری کو محدود کرتی ہے۔ آپ کا فون جان لے گا کہ آپ وقت کے ساتھ ایپس کا استعمال کس طرح کرتے ہیں۔‏
+
+اعلانات ان ایپس کے لیے مؤخر ہو سکتی ہیں۔"</string>
+    <string name="smart_battery_manager_title">اڈاپٹیو</string>
+    <string name="smart_battery_title">اڈاپٹیو بیٹری استعمال کریں</string>
+</resources>

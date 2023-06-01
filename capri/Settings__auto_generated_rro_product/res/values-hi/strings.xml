@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">अनुकूलक बैटरी चालू करें</string>
+    <string name="battery_tip_smart_battery_summary">अनुकूलक बैटरी चालू करें</string>
+    <string name="help_label">सहायता</string>
+    <string name="smart_battery_footer">"बैटरी जीवन बढ़ाने के लिए, अनुकूलक बैटरी आमतौर पर कम उपयोग किए जाने वाले ऐप्स के लिए बैटरी को सीमित करती है. समय के साथ आपका फ़ोन ऐप्स को उपयोग करने का तरीका जान जाएगा.
+
+इन ऐप्स के लिए सूचनाओं में देरी हो सकती है."</string>
+    <string name="smart_battery_manager_title">अनुकूलक बैटरी</string>
+    <string name="smart_battery_title">अनुकूलक बैटरी का उपयोग करें</string>
+</resources>

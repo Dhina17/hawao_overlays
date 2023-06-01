@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Nhận kiểm tra hàng tháng bắt buộc từ hệ thống cảnh báo an toàn</string>
+    <string name="enable_cmas_test_alerts_title">Cần kiểm tra hàng tháng</string>
+    <string name="receive_cmas_in_second_language_summary">Nhận cảnh báo khẩn cấp ở tiếng Tây Ban Nha khi có thể</string>
+    <string name="receive_cmas_in_second_language_title">Tiếng Tây Ban Nha</string>
+</resources>

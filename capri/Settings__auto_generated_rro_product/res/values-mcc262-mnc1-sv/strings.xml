@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">WLAN-samtal</string>
+    <string name="wifi_calling_mode_dialog_title">WLAN-samtalsläge</string>
+    <string name="wifi_calling_off_explanation">När WLAN-samtal är aktiverat kan telefonen dirigera samtal via Wi-Fi-nätverk eller din operatörs nätverk, beroende på dina inställningar och vilken signal som är starkare. Kontrollera din operatörs avgifter och annan information innan du aktiverar den här funktionen.</string>
+    <string name="wifi_calling_suggestion_title">Aktivera WLAN-samtal</string>
+</resources>

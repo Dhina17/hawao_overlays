@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">‏WLAN کال</string>
+    <string name="wifi_calling_mode_dialog_title">‏WLAN کال موڈ</string>
+    <string name="wifi_calling_off_explanation">‏WLAN کال آن ہونے پر، آپ کا فون آپ کی ترجیح اور زیادہ مضبوط سگنل کی بنیاد پر کالز کا روٹ Wi-Fi نیٹ ورکس یا آپ کے کیریئر’ نیٹ ورک کے ذریعہ کر سکتا ہے۔ اس خصوصیت کو آن کرنے سے پہلے، فیس اور دیگر تفصیلات کے لیے اپنے کیریئر سے رابطہ کریں۔</string>
+    <string name="wifi_calling_suggestion_title">‏WLAN کال آن کریں</string>
+</resources>

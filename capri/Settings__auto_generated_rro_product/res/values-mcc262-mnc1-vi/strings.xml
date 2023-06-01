@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Cuộc gọi WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Chế độ cuộc gọi WLAN</string>
+    <string name="wifi_calling_off_explanation">Khi cuộc gọi WLAN được bật, điện thoại của bạn có thể định tuyến các cuộc gọi qua mạng Wi-Fi hoặc mạng của nhà cung cấp của bạn, tùy thuộc vào lựa chọn của bạn và tín hiệu nào mạnh hơn. Trước khi bật tính năng này, hãy kiểm tra với nhà cung cấp của bạn về các khoản phí và chi tiết khác.</string>
+    <string name="wifi_calling_suggestion_title">Bật Cuộc gọi WLAN</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Upozorenja u hitnom slučaju – simulacijska poruka</string>
+    <string name="cmas_extreme_alert">Hitno upozorenje</string>
+    <string name="cmas_extreme_immediate_likely_alert">Hitno upozorenje</string>
+    <string name="cmas_extreme_immediate_observed_alert">Hitno upozorenje</string>
+    <string name="cmas_presidential_level_alert">Hitno upozorenje</string>
+    <string name="cmas_required_monthly_test">Upozorenja u hitnom slučaju – testna poruka</string>
+    <string name="cmas_severe_alert">Hitno upozorenje</string>
+    <string name="pws_other_message_identifiers">Hitno upozorenje</string>
+</resources>

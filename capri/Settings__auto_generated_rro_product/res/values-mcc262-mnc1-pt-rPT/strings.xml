@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Chamada por WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Modo de Chamada por WLAN</string>
+    <string name="wifi_calling_off_explanation">Quando a funcionalidade Chamada por WLAN está ativada, o telemóvel pode reencaminhar chamadas através de redes Wi-Fi ou da rede do operador, dependendo da sua preferência e de qual for o sinal mais forte. Antes de ativar esta funcionalidade, consulte o operador para obter informações sobre taxas e outros detalhes.</string>
+    <string name="wifi_calling_suggestion_title">Ativar Chamada por WLAN</string>
+</resources>

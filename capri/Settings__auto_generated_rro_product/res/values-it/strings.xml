@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Attiva Batteria adattiva</string>
+    <string name="battery_tip_smart_battery_summary">Attiva Batteria adattiva</string>
+    <string name="help_label">Guida</string>
+    <string name="smart_battery_footer">"Per aumentare l'autonomia, la funzione Batteria adattiva limita l'utilizzo della batteria per le app utilizzate raramente. Con il tempo, il telefono apprenderà la tua modalità di utilizzo delle app.
+
+Le notifiche per queste app potrebbero essere visualizzate in ritardo."</string>
+    <string name="smart_battery_manager_title">Batteria adattiva</string>
+    <string name="smart_battery_title">Usa la funzione Batteria adattiva</string>
+</resources>

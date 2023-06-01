@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Alerta de emergencia: mensaje de simulación</string>
+    <string name="cmas_presidential_level_alert">Alerta de emergencia</string>
+    <string name="cmas_required_monthly_test">Alerta de emergencia: mensaje de prueba</string>
+    <string name="pws_other_message_identifiers">Alerta de emergencia</string>
+    <string name="button_dismiss">Ocultar</string>
+    <string name="public_safety_message">Mensaje de información</string>
+</resources>

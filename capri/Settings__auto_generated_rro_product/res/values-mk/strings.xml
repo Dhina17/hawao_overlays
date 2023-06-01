@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_suggestion_summary">Вклучи Приспособлива батерија</string>
+    <string name="battery_tip_smart_battery_summary">Вклучи Приспособлива батерија</string>
+    <string name="help_label">Помош</string>
+    <string name="smart_battery_footer">"За да го продолжи траењето на батеријата, функцијата Приспособлива батерија ја ограничува батеријата за апликациите што ретко се користат. Телефонот ќе научи како ги користите апликациите со текот на времето.
+
+Известувањата од овие апликации може да бидат одложени."</string>
+    <string name="smart_battery_manager_title">Приспособлива батерија</string>
+    <string name="smart_battery_title">Користи Приспособлива батерија</string>
+</resources>

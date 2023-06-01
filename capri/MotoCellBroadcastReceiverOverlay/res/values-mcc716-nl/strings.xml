@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cmas_exercise_alert">Noodwaarschuwing - Simulatiebericht</string>
+    <string name="cmas_presidential_level_alert">Noodwaarschuwing</string>
+    <string name="cmas_required_monthly_test">Noodwaarschuwing - Testbericht</string>
+    <string name="pws_other_message_identifiers">Noodwaarschuwing</string>
+    <string name="button_dismiss">Verbergen</string>
+    <string name="public_safety_message">Informatiebericht</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workspace>
+    <appicon className="com.telcel.contenedor.gui.activities.AppsContainerActivity" packageName="com.telcel.contenedor" screen="0" x="3" y="4" />
+    <appicon className="com.claroColombia.contenedor.gui.activities.AppsContainerActivity" packageName="com.claroColombia.contenedor" screen="0" x="3" y="4" />
+</workspace>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="anim" name="lock_screen_behind_enter_wallpaper" id="0x7f010000" />
+    <public type="array" name="config_motoDeviceProvisioningPackages" id="0x7f020000" />
+    <public type="array" name="config_tether_usb_regexs" id="0x7f020002" />
+    <public type="array" name="config_triple_press_emergency_call_channelid_list" id="0x7f020003" />
+    <public type="array" name="supported_locales" id="0x7f020004" />
+    <public type="array" name="config_sim_operator_override_rules" id="0x7f020001" />
+    <public type="bool" name="config_automatic_brightness_available" id="0x7f030000" />
+    <public type="bool" name="config_device_volte_available" id="0x7f030001" />
+    <public type="bool" name="config_device_vt_available" id="0x7f030002" />
+    <public type="bool" name="config_device_wfc_ims_available" id="0x7f030003" />
+    <public type="bool" name="config_dozeAfterScreenOff" id="0x7f030004" />
+    <public type="bool" name="config_enableNetworkLocationOverlay" id="0x7f030005" />
+    <public type="bool" name="config_enabled_frp_violation_suicide" id="0x7f030006" />
+    <public type="bool" name="config_powerDecoupleInteractiveModeFromDisplay" id="0x7f030007" />
+    <public type="bool" name="config_quick_capture_automatic_camera" id="0x7f030008" />
+    <public type="bool" name="config_setColorTransformAccelerated" id="0x7f03000a" />
+    <public type="bool" name="config_smart_battery_available" id="0x7f03000b" />
+    <public type="bool" name="config_useDevInputEventForAudioJack" id="0x7f03000d" />
+    <public type="bool" name="config_safe_media_volume_enabled" id="0x7f030009" />
+    <public type="bool" name="config_support_rtt" id="0x7f03000c" />
+    <public type="dimen" name="config_dialogCornerRadius" id="0x7f040000" />
+    <public type="integer" name="config_bluetooth_operating_voltage_mv" id="0x7f050000" />
+    <public type="integer" name="config_doublePressOnPowerBehavior" id="0x7f050001" />
+    <public type="integer" name="config_screenBrightnessDoze" id="0x7f050002" />
+    <public type="integer" name="config_vt_av_cam_sensor_delay" id="0x7f050003" />
+    <public type="integer" name="config_vt_av_display_delay" id="0x7f050004" />
+    <public type="integer" name="config_vt_av_playout_delay" id="0x7f050005" />
+    <public type="string" name="config_dozeComponent" id="0x7f060000" />
+    <public type="string" name="config_mms_user_agent_profile_url" id="0x7f060001" />
+    <public type="string" name="config_networkLocationProviderPackageName" id="0x7f060002" />
+    <public type="string" name="default_sms_application" id="0x7f060003" />
+    <public type="xml" name="bookmarks" id="0x7f070000" />
+</resources>

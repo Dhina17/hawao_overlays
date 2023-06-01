@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifi_calling_settings_title">Chiamata WLAN</string>
+    <string name="wifi_calling_mode_dialog_title">Modalità Chiamata WLAN</string>
+    <string name="wifi_calling_off_explanation">"Quando la funzione Chiamata WLAN è attivata, il telefono può indirizzare le chiamate tramite la rete Wi-Fi o quella dell'operatore, in base alle tue preferenze o alla potenza del segnale. Prima di attivare questa funzione, verifica le tariffe e altri dettagli con il tuo operatore."</string>
+    <string name="wifi_calling_suggestion_title">Attivazione Chiamata WLAN</string>
+</resources>

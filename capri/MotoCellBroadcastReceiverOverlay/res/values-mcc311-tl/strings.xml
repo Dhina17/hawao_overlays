@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable_cmas_test_alerts_summary">Makatanggap ng mga kinakailangang buwanang pagsusuri mula sa system ng alerto sa kaligtasan</string>
+    <string name="enable_cmas_test_alerts_title">Kinakailangang Buwanang Pagsubok</string>
+    <string name="receive_cmas_in_second_language_summary">Makatanggap ng mga pang-emergency na alerto sa Spanish kapag posible</string>
+    <string name="receive_cmas_in_second_language_title">Spanish</string>
+</resources>
